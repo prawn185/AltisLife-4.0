@@ -87,19 +87,16 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-        	            { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 }
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "hgun_P07_F","Taser Pistol" ,0 },
+                        { "Binocular","" ,0 },
+                        { "ItemGPS","Tom Tom SatNav" ,0 },
+                        { "ToolKit","" ,0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "FirstAidKit","" ,0 },
+                        { "Medikit","" ,0 },
+                        { "NVGoggles","" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
         };
     };
     //Cop Shops
@@ -107,103 +104,98 @@ class WeaponShops {
         name = "Altis Officer Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -2;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "hgun_PDW2000_Holo_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "hgun_P07_F","" ,0 },
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
                         { "optic_ACO_grn","" ,0 },
                         { "acc_flashlight","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 }
+                        { "Binocular","" ,0 },
+                        { "ItemGPS","" ,0 },
+                        { "ToolKit","" ,0 },
+                        { "muzzle_snds_L","" ,0 },
+                        { "FirstAidKit","" ,0 },
+                        { "Medikit","" ,0 },
+                        { "NVGoggles","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
         };
     };
 
      class cop_corporal {
-        name = "Altis Officer Shop";
+        name = "Altis Corporal Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -3;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,100000 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "hgun_P07_F","" ,0 },
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXM_DMS_F","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
                         { "acc_flashlight","" ,0 },
                         { "optic_ACO_grn","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 }
+                        { "Binocular","" ,0 },
+                        { "ItemGPS","" ,0 },
+                        { "ToolKit","" ,0 },
+                        { "muzzle_snds_L","" ,0 },
+                        { "FirstAidKit","" ,0 },
+                        { "Medikit","" ,0 },
+                        { "NVGoggles","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
         };
     };
     
     class cop_sergeant {
-        name = "Altis Officer Shop";
+        name = "Altis Sergeant Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -4;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,1000 },
-                        { "arifle_MXC_Black_F","" ,1000 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "hgun_P07_F","" ,0 },
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXM_DMS_F","" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
                         { "acc_flashlight","" ,0 },
                         { "optic_Holosight","" ,0 },
                         { "optic_ACO_grn","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 },
-                        { "B_UavTerminal","UAV TERMINAL", 200 }
+                        { "Binocular","" ,0 },
+                        { "ItemGPS","" ,0 },
+                        { "ToolKit","" ,0 },
+                        { "muzzle_snds_L","" ,0 },
+                        { "FirstAidKit","" ,0 },
+                        { "Medikit","" ,0 },
+                        { "NVGoggles","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
 
         };
     }; 
 
     class cop_lt {
-        name = "Altis Officer Shop";
+        name = "Altis Lieutenant Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -5;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -239,10 +231,10 @@ class WeaponShops {
     }; 
 
     class cop_captain {
-        name = "Altis Officer Shop";
+        name = "Altis Captain Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -6;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -278,10 +270,10 @@ class WeaponShops {
     }; 
 
     class cop_rc {
-        name = "Altis Officer Shop";
+        name = "Altis Regional Commander Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = -7;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -324,10 +316,10 @@ class WeaponShops {
         };
     }; 
     class cop_swat {
-        name = "Altis Officer Shop";
+        name = "Altis S.W.A.T Shop";
         side = "cop";
-        license = "swat";
-        level = -1;
+        license = "";
+        level = -8;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -391,11 +383,10 @@ class WeaponShops {
         };
     };
 
-
     class pmc_assault {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
@@ -438,38 +429,14 @@ class WeaponShops {
                         { "30Rnd_65x39_caseless_mag","" ,100 },
                         { "30Rnd_65x39_caseless_mag_Tracer","" ,100 },
                         { "1Rnd_HE_Grenade_shell","" ,100 },
-                        { "UGL_FlareWhite_F","" ,100 },
-                        { "UGL_FlareGreen_F","" ,100 },
-                        { "UGL_FlareRed_F","" ,100 },
-                        { "UGL_FlareYellow_F","" ,100 },
-                        { "UGL_FlareCIR_F","" ,100 },
-                        { "1Rnd_Smoke_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeRed_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeGreen_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeYellow_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokePurple_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeBlue_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeOrange_Grenade_shell","" ,100 },
-                        { "3Rnd_HE_Grenade_shell","" ,100 },
-                        { "3Rnd_UGL_FlareWhite_F","" ,100 },
-                        { "3Rnd_UGL_FlareGreen_F","" ,100 },
-                        { "3Rnd_UGL_FlareRed_F","" ,100 },
-                        { "3Rnd_UGL_FlareYellow_F","" ,100 },
-                        { "3Rnd_UGL_FlareCIR_F","" ,100 },
-                        { "3Rnd_Smoke_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokeRed_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokeGreen_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokeYellow_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokePurple_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokeBlue_Grenade_shell","" ,100 },
-                        { "3Rnd_SmokeOrange_Grenade_shell","" ,100 }
+                        
         };
     };
 
     class pmc_launcher {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
@@ -490,7 +457,7 @@ class WeaponShops {
     class pmc_attachements {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
@@ -525,7 +492,7 @@ class WeaponShops {
     class pmc_sniper {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
@@ -539,7 +506,7 @@ class WeaponShops {
     class pmc_sub {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
@@ -553,7 +520,7 @@ class WeaponShops {
     class pmc_lmg {
         name = "PMC STORE";
         side = "civ";
-        license = "pmc";
+        license = "";
         level = -1;
         msg = "";
         items[] = {
