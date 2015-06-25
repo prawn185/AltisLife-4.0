@@ -1,0 +1,986 @@
+=====================================================================
+== C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\arma3server.exe
+== "arma3server.exe"  -mod=@life_server;@extDB;@Addons2 -noPause -noSound -profiles=config -config=config\server.cfg -cfg=config\basic.cfg     -enableHT -port=2302 -maxMem=8024 -cpuCount=8  -exThreads= 7 -autoInit 
+
+Original output filename: Arma3Retail_Server
+Exe timestamp: 2015/06/08 15:48:19
+Current time:  2015/06/24 17:40:54
+
+Type: Public
+Branch: Stable
+Version: 1.46.131127
+
+Allocator: C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\dll\tbb4malloc_bi.dll
+=====================================================================
+
+17:40:54 ManagerConfig()
+17:40:55 Cannot register unknown string STR_USRACT_SWITCH_GUNS
+17:40:55 Cannot register unknown string STR_USRACT_SWITCH_ROCKETS
+17:40:55 Cannot register unknown string STR_USRACT_SWITCH_MISSILES
+17:40:55 Cannot register unknown string STR_USRACT_SWITCH_BOMBS
+17:40:55 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_GUNS
+17:40:55 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_ROCKETS
+17:40:55 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_MISSILES
+17:40:55 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_BOMBS
+17:41:16 Conflicting addon asdg_jointmuzzles in 'asdg_jointrails\', previous definition in 'asdg_jointmuzzles\'
+17:41:16 File demian2435_police\config.cpp, line 361: '/cfgVehicles/demian2435_police_car/EventHandlers.init': Missing ';' prior '}'
+17:41:16 File demian2435_police\config.cpp, line 438: '/cfgVehicles/demian2435_swat_offroad/EventHandlers.init': Missing ';' prior '}'
+17:41:16 File demian2435_police\config.cpp, line 512: '/cfgVehicles/demian2435_police_offroad/EventHandlers.init': Missing ';' prior '}'
+17:41:16 File demian2435_police\config.cpp, line 588: '/cfgVehicles/demian2435_swat_hunter/EventHandlers.init': Missing ';' prior '}'
+17:41:16 File demian2435_police\config.cpp, line 632: '/cfgVehicles/demian2435_police_helicopter/EventHandlers.init': Missing ';' prior '}'
+17:41:18 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/PAPA_BEAR/
+17:41:18 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/AirBase/
+17:41:18 Updating base class ->NonStrategic, by a3\data_f\config.bin/CfgVehicles/HouseBase/
+17:41:18 Updating base class ->HouseBase, by a3\data_f\config.bin/CfgVehicles/Ruins/
+17:41:18 Updating base class ->NonStrategic, by a3\data_f\config.bin/CfgVehicles/Fence/
+17:41:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+17:41:18 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+17:41:18 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+17:41:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+17:41:18 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+17:41:18 Updating base class ->Default, by a3\anims_f\config\sdr\config.bin/CfgMovesBasic/DefaultDie/
+17:41:18 Updating base class ->Default, by a3\anims_f\config\sdr\config.bin/CfgMovesMaleSdr/States/Crew/
+17:41:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+17:41:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+17:41:18 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+17:41:18 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+17:41:18 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+17:41:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+17:41:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+17:41:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+17:41:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+17:41:18 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+17:41:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+17:41:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+17:41:18 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+17:41:18 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+17:41:18 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+17:41:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+17:41:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+17:41:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+17:41:18 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+17:41:18 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+17:41:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+17:41:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+17:41:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+17:41:18 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+17:41:18 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+17:41:18 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+17:41:18 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+17:41:18 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+17:41:18 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+17:41:18 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+17:41:18 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+17:41:18 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+17:41:18 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+17:41:18 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+17:41:18 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+17:41:18 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+17:41:18 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+17:41:18 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+17:41:18 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+17:41:18 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+17:41:18 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+17:41:18 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+17:41:18 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+17:41:18 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+17:41:18 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+17:41:18 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+17:41:18 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+17:41:18 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+17:41:18 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+17:41:18 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+17:41:18 Updating base class RscStandardDisplay->, by a3\ui_f_mp_mark\config.bin/RscDisplayRespawn/
+17:41:18 Updating base class ->Default, by a3\weapons_f\config.bin/cfgWeapons/ItemCore/
+17:41:18 Updating base class ->Binocular, by a3\weapons_f\config.bin/cfgWeapons/NVGoggles/
+17:41:19 Updating base class ->Bag_Base, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/B_Kitbag_Base/
+17:41:19 Updating base class ->Bag_Base, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/B_Carryall_Base/
+17:41:19 Updating base class ->B_Bergen_Base, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/B_Bergen_rgr/
+17:41:19 Updating base class ->B_AssaultPack_mcamo, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/B_AssaultPack_Kerry/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/InventoryFlashLightItem_Base_F/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/InventoryMuzzleItem_Base_F/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/InventoryOpticsItem_Base_F/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/UniformItem/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/VestItem/
+17:41:19 Updating base class ->arifle_MX_F, by a3\weapons_f\rifles\mx_black\config.bin/CfgWeapons/arifle_MX_Black_F/
+17:41:19 Updating base class ->arifle_MX_GL_F, by a3\weapons_f\rifles\mx_black\config.bin/CfgWeapons/arifle_MX_GL_Black_F/
+17:41:19 Updating base class ->SlotInfo, by pg_services_pmc_weapons\config.bin/UnderBarrelSlot/
+17:41:19 Updating base class ->Civilian, by a3\characters_f\config.bin/CfgVehicles/Civilian_F/
+17:41:19 Updating base class ->CAManBase, by a3\characters_f\config.bin/CfgVehicles/SoldierWB/
+17:41:19 Updating base class ->B_Soldier_base_F, by a3\characters_f\config.bin/CfgVehicles/B_Soldier_02_f/
+17:41:19 Updating base class SoldierWB->SoldierGB, by a3\characters_f\config.bin/CfgVehicles/I_Soldier_base_F/
+17:41:19 Updating base class ->ItemCore, by a3\characters_f\config.bin/cfgWeapons/Uniform_Base/
+17:41:19 Updating base class ->ItemCore, by a3\characters_f\config.bin/cfgWeapons/Vest_NoCamo_Base/
+17:41:19 Updating base class ->Vest_NoCamo_Base, by a3\characters_f\config.bin/cfgWeapons/V_PlateCarrier1_rgr/
+17:41:19 Updating base class ->Vest_Camo_Base, by a3\characters_f\config.bin/cfgWeapons/V_TacVest_khk/
+17:41:19 Updating base class ->Vest_NoCamo_Base, by a3\characters_f\config.bin/cfgWeapons/V_TacVestIR_blk/
+17:41:19 Updating base class ->Vest_NoCamo_Base, by a3\characters_f\config.bin/cfgWeapons/V_PlateCarrierIA1_dgtl/
+17:41:19 Updating base class ->InventoryItem_Base_F, by a3\characters_f\config.bin/cfgWeapons/HeadgearItem/
+17:41:19 Updating base class ->H_HelmetB, by a3\characters_f\config.bin/cfgWeapons/H_Booniehat_khk/
+17:41:19 Updating base class ItemCore->H_HelmetB_plain_mcamo, by a3\characters_f\config.bin/cfgWeapons/H_HelmetB_plain_blk/
+17:41:19 Updating base class ->H_HelmetB, by a3\characters_f\config.bin/cfgWeapons/H_Cap_red/
+17:41:19 Updating base class ->None, by a3\characters_f\heads\config.bin/CfgGlasses/G_Tactical_Clear/
+17:41:19 Updating base class ->ItemCore, by a3\weapons_f\acc\config.bin/cfgWeapons/Zasleh2/
+17:41:19 Updating base class ->Heli_Light_01_base_F, by a3\air_f\heli_light_01\config.bin/CfgVehicles/Heli_Light_01_unarmed_base_F/
+17:41:19 Updating base class ->EventHandlers, by a3\air_f\heli_light_01\config.bin/CfgVehicles/B_Heli_Light_01_F/EventHandlers/
+17:41:19 Updating base class ->Ship_F, by a3\boat_f\config.bin/CfgVehicles/Boat_F/
+17:41:19 Updating base class Offroad_01_base_F->Offroad_01_civil_base_F, by a3\soft_f\offroad_01\config.bin/CfgVehicles/C_Offroad_01_F/
+17:41:19 Updating base class ->Offroad_01_military_base_F, by a3\soft_f\offroad_01\config.bin/CfgVehicles/Offroad_01_armed_base_F/
+17:41:19 Updating base class Offroad_01_armed_base_F->I_G_Offroad_01_armed_F, by a3\soft_f\offroad_01\config.bin/CfgVehicles/B_G_Offroad_01_armed_F/
+17:41:19 Updating base class ->Quadbike_01_base_F, by a3\soft_f\quadbike_01\config.bin/CfgVehicles/O_Quadbike_01_F/
+17:41:19 Updating base class ->asdg_OpticRail, by asdg_jointrails\config.bin/asdg_OpticRail1913/
+17:41:19 Updating base class ->asdg_OpticRail1913, by asdg_jointrails\config.bin/asdg_OpticRail1913_short/
+17:41:19 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\longrangerifles\dmr_01\config.bin/CfgWeapons/srifle_DMR_01_F/WeaponSlotsInfo/UnderBarrelSlot/
+17:41:19 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\longrangerifles\ebr\config.bin/CfgWeapons/srifle_EBR_F/WeaponSlotsInfo/UnderBarrelSlot/
+17:41:19 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\longrangerifles\gm6\config.bin/CfgWeapons/srifle_GM6_F/WeaponSlotsInfo/CowsSlot/
+17:41:19 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\longrangerifles\m320\config.bin/CfgWeapons/srifle_LRR_F/WeaponSlotsInfo/CowsSlot/
+17:41:19 Updating base class CowsSlot->asdg_OpticRail1913_short, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/CowsSlot/
+17:41:19 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/PointerSlot/
+17:41:19 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/UnderBarrelSlot/
+17:41:19 Updating base class CowsSlot->asdg_OpticRail1913_short, by asdg_jointrails\machineguns\zafir\config.bin/CfgWeapons/LMG_Zafir_F/WeaponSlotsInfo/CowsSlot/
+17:41:19 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\machineguns\zafir\config.bin/CfgWeapons/LMG_Zafir_F/WeaponSlotsInfo/PointerSlot/
+17:41:19 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\rifles\mx\config.bin/CfgWeapons/arifle_MXC_F/WeaponSlotsInfo/CowsSlot/
+17:41:19 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\rifles\mx\config.bin/CfgWeapons/arifle_MXC_F/WeaponSlotsInfo/PointerSlot/
+17:41:19 Updating base class MuzzleSlot->asdg_MuzzleSlot_556, by asdg_jointrails\rifles\trg20\config.bin/CfgWeapons/arifle_TRG20_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class MuzzleSlot->asdg_MuzzleSlot_762, by asdg_jointmuzzles\config.bin/CfgWeapons/arifle_Katiba_C_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class MuzzleSlot->asdg_MuzzleSlot_762, by asdg_jointmuzzles\config.bin/CfgWeapons/arifle_MXC_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class MuzzleSlot->asdg_MuzzleSlot_762, by asdg_jointmuzzles\config.bin/CfgWeapons/arifle_MXM_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class asdg_MuzzleSlot_45ACP_SMG->asdg_MuzzleSlot_45ACP, by asdg_jointmuzzles\config.bin/CfgWeapons/SMG_01_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class asdg_MuzzleSlot_9MM_SMG->asdg_MuzzleSlot_9MM, by asdg_jointmuzzles\config.bin/CfgWeapons/SMG_02_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class asdg_MuzzleSlot_9MM_SMG->asdg_MuzzleSlot_9MM, by asdg_jointmuzzles\config.bin/CfgWeapons/hgun_PDW2000_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class MuzzleSlot->asdg_MuzzleSlot_9MM, by asdg_jointmuzzles\config.bin/CfgWeapons/hgun_P07_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class MuzzleSlot->, by asdg_jointmuzzles\config.bin/CfgWeapons/hgun_Rook40_F/WeaponSlotsInfo/MuzzleSlot/
+17:41:20 Updating base class ->Rifle_Base_F, by CUP\Weapons\CUP_Weapons_M14\config.bin/CfgWeapons/CUP_srifle_M14/
+17:41:20 Updating base class ->CUP_arifle_M4A1_BUIS_Base, by CUP\Weapons\CUP_Weapons_M16\config.bin/CfgWeapons/CUP_arifle_M4A1_BUIS_GL/
+17:41:20 Updating base class ->CUP_arifle_M4A1_BUIS_Base, by CUP\Weapons\CUP_Weapons_M16\config.bin/CfgWeapons/CUP_arifle_M4A1_black/
+17:41:20 Updating base class ->Rifle_Long_Base_F, by CUP\Weapons\CUP_Weapons_M249\config.bin/CfgWeapons/CUP_lmg_M249_para/
+17:41:20 ragdollHitDmgLimit (0.000000) is lower than minimum (0.010000) and it was set to min.
+17:41:20 Initializing Steam Manager
+17:41:20 ManagerConfig()
+17:41:20 Steam Manager initialized.
+17:41:20 
+17:41:20 ==== Loaded addons ====
+17:41:20 
+17:41:20 dta\bin.pbo - unknown
+17:41:20 dta\core.pbo - 72362
+17:41:20 dta\languagecore_f.pbo - 83717
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\a3_bush.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\a3_plants.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\a3_rocks.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\a3_trees.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\asdg_jointmuzzles.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\asdg_jointrails.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_ai.pbo - 004
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_arrays.pbo - 003
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_common.pbo - 018
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_diagnostic.pbo - 008
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_events.pbo - 006
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_extended_eventhandlers.pbo - 003
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_hashes.pbo - 004
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_help.pbo - 004
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_keybinding.pbo - 018
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_main.pbo - 019
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_main_a3.pbo - 002
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_network.pbo - 013
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_strings.pbo - 007
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_ui.pbo - 017
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_ui_helper.pbo - 002
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_vectors.pbo - 002
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_versioning.pbo - 002
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_xeh.pbo - 020
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cba_xeh_a3.pbo - 021
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cl3_anims.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cl3_sounds.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cl3_vehiclefunctions.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cl3_wheeled.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\clay_carradio.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_baseconfigs.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_basedata.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_creatures_people_military_dummyinfantryset.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_aa12.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_ak.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_ammoboxes.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_ammunition.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_as50.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_awm.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_backpacks.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_bizon.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_colt1911.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_compact.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_compatibility.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_curator.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_cz750.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_cz805.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_dmr.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_duty.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_east_attachments.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_evo.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_fnfal.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_g36.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_glock17.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_grenadelaunchers.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_grenades.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_huntingrifle.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_igla.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_items.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_javelin.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_ksvk.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_l110.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_l7a2.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_l85.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_leeenfield.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m1014.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m107.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m110.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m136.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m14.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m16.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m24.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m240.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m249.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m47.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m60e4.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_m9.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_maaws.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_makarov.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_metis_at_13.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_microuzi.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_mk48.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_mp5.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_nlaw.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_pb_6p9.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_phantom.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_pk.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_pods.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_put.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_revolver.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_rpg18.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_rpg7.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_sa58.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_sa61.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_saiga12k.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_scar.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_smaw.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_stinger.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_strela_2.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_svd.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_uk59.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_vehicleweapons.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_vss.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_weaponscore.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_west_attachments.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\cup_weapons_xm8.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\dbo_old_bike.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\demian2435_police.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\globemaster_c17.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\max_lapd_mod.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\max_police_mod.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\pg_services_cup.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\pg_services_pmc.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\pg_services_pmc_config.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\pg_services_pmc_patches.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\pg_services_pmc_weapons.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\rds_a2port_civ.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\rds_a2port_cman.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\sab_an2.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2\addons\sab_cu.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@life_server\addons\life_server.pbo - unknown
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\anims_f_mark.ebo - 83739
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\characters_f_mark.ebo - 83678
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\data_f_mark.ebo - 82269
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\dubbing_f_mark.ebo - 81923
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\dubbing_f_mp_mark.ebo - 81923
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\functions_f_mark.ebo - 82819
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\functions_f_mp_mark.ebo - 83754
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\languagemissions_f_mark.ebo - 83732
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\languagemissions_f_mp_mark.ebo - 83732
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\language_f_mark.ebo - 83711
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\language_f_mp_mark.ebo - 83714
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\missions_f_mark.ebo - 83494
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\missions_f_mark_data.ebo - 83115
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\missions_f_mark_video.ebo - 81429
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\missions_f_mp_mark.ebo - 83640
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\missions_f_mp_mark_data.ebo - 81558
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\modules_f_mark.ebo - 81710
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\modules_f_mp_mark.ebo - 83640
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\music_f_mark.ebo - 81958
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\music_f_mark_music.ebo - 81930
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\sounds_f_mark.ebo - 83408
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\static_f_mark.ebo - 83658
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\structures_f_mark.ebo - 83683
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\supplies_f_mark.ebo - 79552
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\ui_f_mark.ebo - 82421
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\ui_f_mp_mark.ebo - 83655
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark\addons\weapons_f_mark.ebo - 83730
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\air_f_heli.pbo - 83642
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\anims_f_heli.pbo - 80475
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\boat_f_heli.pbo - 82564
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\cargoposes_f_heli.pbo - 83497
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\data_f_heli.pbo - 80757
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\dubbing_f_heli.pbo - 75138
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\functions_f_heli.pbo - 82940
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\languagemissions_f_heli.pbo - 83732
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\language_f_heli.pbo - 83702
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli.pbo - 82940
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli_data.pbo - 75977
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\missions_f_heli_video.pbo - 75065
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\modules_f_heli.pbo - 82939
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\music_f_heli.pbo - 76012
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\music_f_heli_music.pbo - 76012
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\soft_f_heli.pbo - 82564
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\sounds_f_heli.pbo - 79398
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\structures_f_heli.pbo - 83090
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\supplies_f_heli.pbo - 82971
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli\addons\ui_f_heli.pbo - 76986
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\anims_f_kart.pbo - 80475
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\characters_f_kart.pbo - 83566
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\data_f_kart.pbo - 80888
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\languagemissions_f_kart.pbo - 83732
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\language_f_kart.pbo - 83708
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\missions_f_kart.pbo - 76770
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\missions_f_kart_data.pbo - 75687
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\modules_f_kart.pbo - 83577
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\modules_f_kart_data.pbo - 74588
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\soft_f_kart.pbo - 83645
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\sounds_f_kart.pbo - 79398
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\structures_f_kart.pbo - 82971
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\ui_f_kart.pbo - 73106
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart\addons\weapons_f_kart.pbo - 83573
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\data_f_curator.pbo - 82282
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\functions_f_curator.pbo - 83104
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\language_f_curator.pbo - 83690
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\missions_f_curator.pbo - 80344
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\modules_f_curator.pbo - 83335
+17:41:20 C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator\addons\ui_f_curator.pbo - 83335
+17:41:20 addons\a3.pbo - unknown
+17:41:20 addons\air_f.pbo - 83231
+17:41:20 addons\air_f_beta.pbo - 83681
+17:41:20 addons\air_f_epb.pbo - 82564
+17:41:20 addons\air_f_epc.pbo - 82564
+17:41:20 addons\air_f_gamma.pbo - 82564
+17:41:20 addons\animals_f.pbo - 79398
+17:41:20 addons\animals_f_beta.pbo - 72362
+17:41:20 addons\anims_f.pbo - 83895
+17:41:20 addons\anims_f_bootcamp.pbo - 72362
+17:41:20 addons\anims_f_data.pbo - 83699
+17:41:20 addons\anims_f_epa.pbo - 78608
+17:41:20 addons\anims_f_epc.pbo - 72362
+17:41:20 addons\armor_f.pbo - 82564
+17:41:20 addons\armor_f_beta.pbo - 83130
+17:41:20 addons\armor_f_epb.pbo - 83128
+17:41:20 addons\armor_f_epc.pbo - 83128
+17:41:20 addons\armor_f_gamma.pbo - 83677
+17:41:20 addons\baseconfig_f.pbo - 73106
+17:41:20 addons\boat_f.pbo - 83667
+17:41:20 addons\boat_f_beta.pbo - 83267
+17:41:20 addons\boat_f_epc.pbo - 82564
+17:41:20 addons\boat_f_gamma.pbo - 83643
+17:41:20 addons\cargoposes_f.pbo - 83460
+17:41:20 addons\characters_f.pbo - 83549
+17:41:20 addons\characters_f_beta.pbo - 83570
+17:41:20 addons\characters_f_bootcamp.pbo - 82576
+17:41:20 addons\characters_f_epa.pbo - 83523
+17:41:20 addons\characters_f_epb.pbo - 79398
+17:41:20 addons\characters_f_epc.pbo - 81235
+17:41:20 addons\characters_f_gamma.pbo - 79398
+17:41:20 addons\data_f.pbo - 83717
+17:41:20 addons\data_f_bootcamp.pbo - 76960
+17:41:20 addons\drones_f.pbo - 83644
+17:41:20 addons\dubbing_f.pbo - 73106
+17:41:20 addons\dubbing_f_beta.pbo - 73106
+17:41:20 addons\dubbing_f_bootcamp.pbo - 73106
+17:41:20 addons\dubbing_f_epa.pbo - 73106
+17:41:20 addons\dubbing_f_epb.pbo - 76110
+17:41:20 addons\dubbing_f_epc.pbo - 73106
+17:41:20 addons\dubbing_f_gamma.pbo - 73106
+17:41:20 addons\dubbing_radio_f.pbo - 78704
+17:41:20 addons\dubbing_radio_f_data.pbo - 78762
+17:41:20 addons\editor_f.pbo - 82563
+17:41:20 addons\functions_f.pbo - 83807
+17:41:20 addons\functions_f_bootcamp.pbo - 83415
+17:41:20 addons\functions_f_epa.pbo - 73434
+17:41:20 addons\functions_f_epc.pbo - 73106
+17:41:20 addons\languagemissions_f.pbo - 83717
+17:41:20 addons\languagemissions_f_beta.pbo - 83723
+17:41:20 addons\languagemissions_f_bootcamp.pbo - 83726
+17:41:20 addons\languagemissions_f_epa.pbo - 83730
+17:41:20 addons\languagemissions_f_epb.pbo - 83732
+17:41:20 addons\languagemissions_f_epc.pbo - 83732
+17:41:20 addons\languagemissions_f_gamma.pbo - 83732
+17:41:20 addons\language_f.pbo - 83686
+17:41:20 addons\language_f_beta.pbo - 83687
+17:41:20 addons\language_f_bootcamp.pbo - 83688
+17:41:20 addons\language_f_epa.pbo - 83692
+17:41:20 addons\language_f_epb.pbo - 83694
+17:41:20 addons\language_f_epc.pbo - 83695
+17:41:20 addons\language_f_gamma.pbo - 83695
+17:41:20 addons\map_altis.pbo - 83614
+17:41:20 addons\map_altis_data.pbo - 80737
+17:41:20 addons\map_altis_data_layers.pbo - 79087
+17:41:20 addons\map_altis_data_layers_00_00.pbo - 79087
+17:41:20 addons\map_altis_data_layers_00_01.pbo - 79087
+17:41:20 addons\map_altis_data_layers_01_00.pbo - 79087
+17:41:20 addons\map_altis_data_layers_01_01.pbo - 79087
+17:41:20 addons\map_altis_scenes_f.pbo - 73106
+17:41:20 addons\map_data.pbo - 81846
+17:41:20 addons\map_stratis.pbo - 83457
+17:41:20 addons\map_stratis_data.pbo - 80737
+17:41:20 addons\map_stratis_data_layers.pbo - 79082
+17:41:20 addons\map_stratis_scenes_f.pbo - 73106
+17:41:20 addons\map_vr.pbo - 82252
+17:41:20 addons\map_vr_scenes_f.pbo - 82252
+17:41:20 addons\misc_f.pbo - 82966
+17:41:20 addons\missions_f.pbo - 78843
+17:41:20 addons\missions_f_beta.pbo - 83663
+17:41:20 addons\missions_f_beta_data.pbo - 83118
+17:41:20 addons\missions_f_beta_video.pbo - 73106
+17:41:20 addons\missions_f_bootcamp.pbo - 83732
+17:41:20 addons\missions_f_bootcamp_data.pbo - 72362
+17:41:20 addons\missions_f_bootcamp_video.pbo - 75065
+17:41:20 addons\missions_f_data.pbo - 73106
+17:41:20 addons\missions_f_epa.pbo - 83494
+17:41:20 addons\missions_f_epa_data.pbo - 73106
+17:41:20 addons\missions_f_epa_video.pbo - 73106
+17:41:20 addons\missions_f_epb.pbo - 83750
+17:41:20 addons\missions_f_epb_data.pbo - 73106
+17:41:20 addons\missions_f_epb_video.pbo - 73106
+17:41:20 addons\missions_f_epc.pbo - 83104
+17:41:20 addons\missions_f_epc_data.pbo - 73106
+17:41:20 addons\missions_f_epc_video.pbo - 73106
+17:41:20 addons\missions_f_gamma.pbo - 82717
+17:41:20 addons\missions_f_gamma_data.pbo - 76877
+17:41:20 addons\missions_f_gamma_video.pbo - 73106
+17:41:20 addons\missions_f_video.pbo - 73106
+17:41:20 addons\modules_f.pbo - 83636
+17:41:20 addons\modules_f_beta.pbo - 83576
+17:41:20 addons\modules_f_beta_data.pbo - 80976
+17:41:20 addons\modules_f_bootcamp.pbo - 79398
+17:41:20 addons\modules_f_data.pbo - 73106
+17:41:20 addons\modules_f_epb.pbo - 79398
+17:41:20 addons\music_f.pbo - 73106
+17:41:20 addons\music_f_bootcamp.pbo - 73106
+17:41:20 addons\music_f_bootcamp_music.pbo - 73106
+17:41:20 addons\music_f_epa.pbo - 73106
+17:41:20 addons\music_f_epa_music.pbo - 73106
+17:41:20 addons\music_f_epb.pbo - 73106
+17:41:20 addons\music_f_epb_music.pbo - 73106
+17:41:20 addons\music_f_epc.pbo - 73106
+17:41:20 addons\music_f_epc_music.pbo - 73106
+17:41:20 addons\music_f_music.pbo - 73106
+17:41:20 addons\plants_f.pbo - 80365
+17:41:20 addons\roads_f.pbo - 82537
+17:41:20 addons\rocks_f.pbo - 80359
+17:41:20 addons\signs_f.pbo - 82967
+17:41:20 addons\soft_f.pbo - 83658
+17:41:20 addons\soft_f_beta.pbo - 83644
+17:41:20 addons\soft_f_bootcamp.pbo - 83358
+17:41:20 addons\soft_f_epc.pbo - 83320
+17:41:20 addons\soft_f_gamma.pbo - 83775
+17:41:20 addons\sounds_f.pbo - 83703
+17:41:20 addons\sounds_f_bootcamp.pbo - 82576
+17:41:20 addons\sounds_f_epb.pbo - 79398
+17:41:20 addons\sounds_f_epc.pbo - 79398
+17:41:20 addons\sounds_f_vehicles.pbo - 82151
+17:41:20 addons\sounds_f_weapons.pbo - 82110
+17:41:20 addons\static_f.pbo - 83378
+17:41:20 addons\static_f_beta.pbo - 79398
+17:41:20 addons\static_f_gamma.pbo - 82090
+17:41:20 addons\structures_f.pbo - 83611
+17:41:20 addons\structures_f_bootcamp.pbo - 82970
+17:41:20 addons\structures_f_data.pbo - 82554
+17:41:20 addons\structures_f_epa.pbo - 82615
+17:41:20 addons\structures_f_epb.pbo - 83683
+17:41:20 addons\structures_f_epc.pbo - 83732
+17:41:20 addons\structures_f_households.pbo - 82554
+17:41:20 addons\structures_f_ind.pbo - 83450
+17:41:20 addons\structures_f_mil.pbo - 82969
+17:41:20 addons\structures_f_wrecks.pbo - 82970
+17:41:20 addons\uifonts_f.pbo - 73106
+17:41:20 addons\uifonts_f_data.pbo - 73106
+17:41:20 addons\ui_f.pbo - 83710
+17:41:20 addons\ui_f_bootcamp.pbo - 76325
+17:41:20 addons\ui_f_data.pbo - 83709
+17:41:20 addons\weapons_f.pbo - 83772
+17:41:20 addons\weapons_f_beta.pbo - 83667
+17:41:20 addons\weapons_f_bootcamp.pbo - 81923
+17:41:20 addons\weapons_f_epa.pbo - 83667
+17:41:20 addons\weapons_f_epb.pbo - 80958
+17:41:20 addons\weapons_f_epc.pbo - 80374
+17:41:20 addons\weapons_f_gamma.pbo - 80772
+17:41:20 
+17:41:20 =======================
+17:41:20 
+17:41:20 ============================================================================================= List of mods ===============================================================================================
+17:41:20 modsReadOnly = true
+17:41:20 safeModsActivated = false
+17:41:20 customMods = true
+17:41:20 hash = 'BECB79FCA3A4135916978940D7B21C07DFD8E3F1'
+17:41:20 hashShort = '96abef1f'
+17:41:20                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+17:41:20 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17:41:20                                           @Addons2 |             @Addons2 |      false |             GAME DIR | fd6d498c1bec00fbab3bc396f4adbaf889fc9a77 |  98008b24 | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@Addons2
+17:41:20                                             @extDB |               @extDB |      false |             GAME DIR |                                          |           | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@extDB
+17:41:20                                       @life_server |         @life_server |      false |             GAME DIR | 2155fcc5ec3c78b65bea78b8935218494cdfbb42 |  930898cb | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@life_server
+17:41:20                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+17:41:20                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | d0c05e486c4cc984946df87a4ef21735a653d121 |  4696236c | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\mark
+17:41:20                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | 20e528433bb766997e48a432050c2ae62cbddd54 |  aa5c1cd5 | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\heli
+17:41:20                                       Arma 3 Karts |                 kart |       true |             GAME DIR | ca3f3420a94ec2b85973b00b8c63d4b0574a5c63 |  f88c65c6 | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\kart
+17:41:20                                        Arma 3 Zeus |              curator |       true |             GAME DIR | ca8a5bb58190eb65da6ce6939b9e461ccdde70a5 |  474a0a58 | C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\curator
+17:41:20                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+17:41:20 ==========================================================================================================================================================================================================
+17:41:20 InitSound ...
+17:41:20 InitSound - complete
+17:41:20 PhysX3 SDK Init started ...
+17:41:20 PhysX3 SDK Init ended.
+17:41:20 EPE manager release (0|0|0)
+17:41:20 EPE manager release (0|0|0)
+17:41:23 Attempt to override final function - rscminimap_script
+17:41:23 Attempt to override final function - rscdisplayloading_script
+17:41:23 Attempt to override final function - rscdisplayloading_script
+17:41:23 Attempt to override final function - rscdisplayloading_script
+17:41:24 Attempt to override final function - rscdiary_script
+17:41:24 Attempt to override final function - rscdisplaysinglemission_script
+17:41:24 Attempt to override final function - rscdiary_script
+17:41:24 Attempt to override final function - rscdisplayremotemissions_script
+17:41:24 Attempt to override final function - rscdisplayloading_script
+17:41:24 Attempt to override final function - rscdiary_script
+17:41:24 Attempt to override final function - rscdiary_script
+17:41:24 Attempt to override final function - rscdisplaystrategicmap_script
+17:41:24 Attempt to override final function - rscdisplaycommon_script
+17:41:24 Attempt to override final function - rscdisplayloading_script
+17:41:24 Attempt to override final function - rscdisplaycurator_script
+17:41:24 Attempt to override final function - rscdisplayattributes_script
+17:41:24 Attempt to override final function - rscdisplayattributes_script
+17:41:24 Attempt to override final function - rscdisplayattributes_script
+17:41:24 Attempt to override final function - rscdisplaycommon_script
+17:41:24 Attempt to override final function - rscdisplaydebriefing_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 Attempt to override final function - rscunitinfo_script
+17:41:25 EPE manager release (0|0|0)
+17:41:25 EPE manager release (0|0|0)
+17:41:27 Initializing Steam server - Game Port: 2302, Steam Query Port: 2303
+17:41:27 EPE manager release (0|0|0)
+17:41:27 EPE manager release (0|0|0)
+17:41:27 Item STR_Global_Yes listed twice
+17:41:27 Item STR_Global_No listed twice
+17:41:27 Item STR_NOTF_ActionCancel listed twice
+17:41:27 Unsupported language English in stringtable
+17:41:27 EPE manager release (0|0|0)
+17:41:27 EPE manager release (0|0|0)
+17:41:27 Item STR_Global_Yes listed twice
+17:41:27 Item STR_Global_No listed twice
+17:41:27 Item STR_NOTF_ActionCancel listed twice
+17:41:27 Unsupported language English in stringtable
+17:41:29 Mission Altis_Life.Altis: Number of roles (98) is different from 'description.ext::Header::maxPlayer' (75)
+17:41:29 Connected to Steam servers
+17:41:29 Starting mission:
+17:41:29  Mission file: Altis_Life
+17:41:29  Mission world: Altis
+17:41:29  Mission directory: mpmissions\Altis_Life.Altis\
+17:41:29 EPE manager release (0|0|0)
+17:41:29 EPE manager release (0|0|0)
+17:41:40 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+17:41:40 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+17:41:52 EPE manager release (0|0|0)
+17:41:52 EPE manager release (0|0|0)
+17:41:52 Attempt to override final function - bis_functions_list
+17:41:52 Attempt to override final function - bis_functions_listpreinit
+17:41:52 Attempt to override final function - bis_functions_listpostinit
+17:41:52 Attempt to override final function - bis_functions_listrecompile
+17:41:53 [18436,58.45,0,"XEH: PreInit Started. v1.1.21.150527. MISSINIT: missionName=Altis_Life, worldName=Altis, isMultiplayer=true, isServer=true, isDedicated=true"]
+17:41:53 [18436,58.664,0,"XEH: PreInit Finished. CACHE DISABLED? (Disable caching with cba_cache_disable.pbo): SLX_XEH_RECOMPILE=false, CBA_COMPILE_RECOMPILE=false, CBA_FUNC_RECOMPILE=false"]
+17:41:53 Attempt to override final function - bis_fnc_missiontaskslocal
+17:41:53 Attempt to override final function - bis_fnc_missionconversationslocal
+17:41:53 Attempt to override final function - bis_fnc_missionflow
+17:41:53 Animation tools\anims\hammergather.rtm not found or empty
+17:41:58 Animation tools\anims\shovel.rtm not found or empty
+17:42:00 No speaker given for Spencer Santorum
+17:42:00 No speaker given for Luke Thompson
+17:42:00 No speaker given for Spencer Davis
+17:42:01 No speaker given for Ashton Cooper
+17:42:01 No speaker given for Wallace Robinson
+17:42:01 No speaker given for Ryan Martin
+17:42:01 No speaker given for Imre Ibori
+17:42:02 No speaker given for Idi Awolowo
+17:42:02 No speaker given for Shaan Igwe
+17:42:03 No speaker given for Dwan Rollins
+17:42:03 No speaker given for Corey Anderson
+17:42:03 No speaker given for Kyle Harrison
+17:42:03 No speaker given for Dong Tung
+17:42:03 No speaker given for Lin Wu
+17:42:03 No speaker given for George Bennett
+17:42:03 No speaker given for Shawn Martinez
+17:42:03 No speaker given for Matthew Smith
+17:42:03 No speaker given for Wu Yeung
+17:42:04 No speaker given for John Turner
+17:42:04 No speaker given for Patterson Faulkner
+17:42:04 No speaker given for Terrence Morris
+17:42:04 soldier[B_diver_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+17:42:04 No speaker given for Ryan White
+17:42:04 No speaker given for Gamba Kuma
+17:42:04 No speaker given for Conor Brown
+17:42:04 No speaker given for William Hughes
+17:42:04 No speaker given for Ashton Campbell
+17:42:05 No speaker given for Thomas Williams
+17:42:06 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+17:42:06 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+17:42:07 Error: Object(2 : 116) not found
+17:42:07 c:\w\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+17:42:07 [18445,73.169,0,"XEH: PostInit Started"]
+17:42:07 [18445,73.186,0,"CBA_VERSIONING: cba=1.1.21.150527, "]
+17:42:07 [18445,73.237,0,"XEH: PostInit Finished. State: _isClient=false, _isJip=false, _isDedClient=false, _isServer=true, _isDedServer=true, _playerCheckDone=true, _sp=false, _startInitDone=true, _postInitDone=true, _mpRespawn=true, _machineType=0, _sessionId=1, _level=0, _timeOut=false, _game=3, BIS_functions=<NULL-object>, group=<NULL-group>"]
+17:42:08 Unable to get file version size: C:\Users\Administrator\Desktop\Steam\steamapps\common\Arma 3 Server\@extDB\extDB.dll
+17:42:08 "extDB: Version: 35"
+17:42:08 "extDB: Connected to the Database"
+17:42:38 Error: Object(5 : 4) not found
+17:42:48 Client: Local object 2:2197 not found
+17:42:48 Client: Object 2:2197 (type Type_91) not found.
+17:42:48 Client: Object 2:2197 (type Type_396) not found.
+17:42:48 Client: Object 2:2197 (type Type_119) not found.
+17:42:48 Client: Object 2:2197 (type Type_91) not found.
+17:42:48 Error: Object(2 : 2197) not found
+17:42:48 Client: Object 2:2197 (type Type_396) not found.
+17:42:49 Client: Object 2:2197 (type Type_119) not found.
+17:42:49 Error: Object(2 : 2197) not found
+17:42:49 Client: Object 2:2197 (type Type_119) not found.
+17:42:49 Error: Object(2 : 2197) not found
+17:42:49 Client: Object 2:2197 (type Type_91) not found.
+17:42:49 Client: Object 2:2197 (type Type_119) not found.
+17:43:05 Client: Local object 2:2204 not found
+17:43:05 Client: Object 2:2204 (type Type_91) not found.
+17:43:05 Client: Object 2:2204 (type Type_396) not found.
+17:43:05 Client: Object 2:2204 (type Type_119) not found.
+17:43:05 Error: Object(2 : 2204) not found
+17:43:05 Client: Object 2:2204 (type Type_119) not found.
+17:43:05 Client: Object 2:2204 (type Type_91) not found.
+17:43:05 Client: Object 2:2204 (type Type_396) not found.
+17:43:05 Error: Object(2 : 2204) not found
+17:43:05 Client: Object 2:2204 (type Type_119) not found.
+17:43:06 Error: Object(2 : 2204) not found
+17:43:06 Client: Object 2:2204 (type Type_91) not found.
+17:43:06 Client: Object 2:2204 (type Type_119) not found.
+17:43:12 Error: Object(5 : 7) not found
+17:43:12 Error: Object(5 : 10) not found
+17:43:12 Error: Object(5 : 8) not found
+17:43:12 Client: Object 5:8 (type Type_119) not found.
+17:43:12 Client: Object 5:8 (type Type_91) not found.
+17:43:12 Client: Object 5:8 (type Type_396) not found.
+17:43:17 Error: Object(5 : 13) not found
+17:43:17 Error: Object(5 : 16) not found
+17:43:17 Error: Object(5 : 14) not found
+17:43:17 Client: Object 5:14 (type Type_119) not found.
+17:43:17 Client: Object 5:14 (type Type_91) not found.
+17:43:17 Client: Object 5:14 (type Type_396) not found.
+17:43:19 Error: Object(8 : 2) not found
+17:43:29 Client: Local object 2:2220 not found
+17:43:29 Client: Object 2:2220 (type Type_119) not found.
+17:43:29 Client: Object 2:2220 (type Type_91) not found.
+17:43:29 Client: Object 2:2220 (type Type_396) not found.
+17:43:29 Client: Object 2:2220 (type Type_91) not found.
+17:43:29 Error: Object(2 : 2220) not found
+17:43:29 Client: Object 2:2220 (type Type_396) not found.
+17:43:29 Client: Object 2:2220 (type Type_119) not found.
+17:43:29 Error: Object(2 : 2220) not found
+17:43:29 Client: Object 2:2220 (type Type_119) not found.
+17:43:30 Error: Object(2 : 2220) not found
+17:43:30 Client: Object 2:2220 (type Type_91) not found.
+17:43:30 Client: Object 2:2220 (type Type_119) not found.
+17:43:31 Error: Object(10 : 3) not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 1c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 2c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 3c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 4c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 5c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 6c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 7c not found
+17:43:31 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 8c not found
+17:43:31 Wrong geometry convex component mapping  for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Convex component number 3. not found
+17:44:37 Client: Local object 2:2227 not found
+17:44:37 Client: Object 2:2227 (type Type_91) not found.
+17:44:37 Client: Object 2:2227 (type Type_396) not found.
+17:44:37 Client: Object 2:2227 (type Type_119) not found.
+17:44:37 Error: Object(2 : 2227) not found
+17:44:37 Client: Object 2:2227 (type Type_119) not found.
+17:44:37 Client: Object 2:2227 (type Type_91) not found.
+17:44:37 Client: Object 2:2227 (type Type_396) not found.
+17:44:37 Error: Object(2 : 2227) not found
+17:44:37 Client: Object 2:2227 (type Type_119) not found.
+17:44:37 Error: Object(2 : 2227) not found
+17:44:37 Client: Object 2:2227 (type Type_91) not found.
+17:44:37 Client: Object 2:2227 (type Type_119) not found.
+17:44:40 Client: Object 5:20 (type Type_119) not found.
+17:44:40 Client: Object 5:20 (type Type_91) not found.
+17:44:40 Client: Object 5:20 (type Type_396) not found.
+17:45:06 Client: Remote object 13:0 not found
+17:45:07 Warning: Cleanup player - person 2:2228 not found
+17:45:17 Error: Object(5 : 25) not found
+17:45:17 Error: Object(5 : 28) not found
+17:45:17 Error: Object(5 : 26) not found
+17:45:17 Client: Object 5:26 (type Type_119) not found.
+17:45:17 Client: Object 5:26 (type Type_91) not found.
+17:45:17 Client: Object 5:26 (type Type_396) not found.
+17:45:17 Error: Object(3 : 2) not found
+17:45:17 Error: Object(3 : 3) not found
+17:45:17 Error: Object(3 : 4) not found
+17:45:27 Error: Object(6 : 3) not found
+17:45:38 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+17:45:39 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+17:45:43 Error: Object(10 : 12) not found
+17:45:51 Client: Local object 2:2259 not found
+17:45:51 Client: Object 2:2259 (type Type_119) not found.
+17:45:51 Client: Object 2:2259 (type Type_91) not found.
+17:45:51 Client: Object 2:2259 (type Type_396) not found.
+17:45:51 Error: Object(2 : 2259) not found
+17:45:51 Client: Object 2:2259 (type Type_91) not found.
+17:45:51 Client: Object 2:2259 (type Type_396) not found.
+17:45:51 Client: Object 2:2259 (type Type_119) not found.
+17:45:51 Error: Object(2 : 2259) not found
+17:45:51 Client: Object 2:2259 (type Type_119) not found.
+17:45:51 Error: Object(2 : 2259) not found
+17:45:51 Client: Object 2:2259 (type Type_91) not found.
+17:45:51 Client: Object 2:2259 (type Type_119) not found.
+17:45:51 Error: Object(15 : 2) not found
+17:47:06 Client: Object 5:32 (type Type_119) not found.
+17:47:06 Client: Object 5:32 (type Type_91) not found.
+17:47:06 Client: Object 5:32 (type Type_396) not found.
+17:47:07 Error: Object(13 : 9) not found
+17:47:10 Error: Object(6 : 4) not found
+17:47:48 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+17:47:58 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+17:48:27 Error: Wheel reference not initialized
+17:48:30 Client: Local object 2:2268 not found
+17:48:30 Client: Object 2:2268 (type Type_119) not found.
+17:48:30 Client: Object 2:2268 (type Type_91) not found.
+17:48:30 Client: Object 2:2268 (type Type_396) not found.
+17:48:31 Error: Object(2 : 2268) not found
+17:48:31 Client: Object 2:2268 (type Type_119) not found.
+17:48:31 Client: Object 2:2268 (type Type_91) not found.
+17:48:31 Client: Object 2:2268 (type Type_396) not found.
+17:48:32 Error: Object(2 : 2268) not found
+17:48:32 Client: Object 2:2268 (type Type_91) not found.
+17:48:32 Client: Object 2:2268 (type Type_119) not found.
+17:48:33 Error: Object(16 : 3) not found
+17:48:33 Error: Object(16 : 4) not found
+17:48:45 Ragdoll - loading of ragdoll source "Soldier" started.
+17:48:45 Ragdoll - loading of ragdoll source "Soldier" finished successfully.
+17:48:56 Error: Object(7 : 11) not found
+17:49:09 Error: Object(16 : 7) not found
+17:49:25 Client: Object 5:38 (type Type_119) not found.
+17:49:25 Client: Object 5:38 (type Type_91) not found.
+17:49:25 Client: Object 5:38 (type Type_396) not found.
+17:51:10 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+17:51:32 Error: Object(12 : 8) not found
+17:51:33 Error: Object(12 : 9) not found
+17:51:33 Error: Object(12 : 10) not found
+17:51:43 Error: Object(12 : 11) not found
+17:51:48 Error: Object(12 : 16) not found
+17:51:48 Error: Object(12 : 17) not found
+17:52:05 Error: Object(7 : 17) not found
+17:53:16 Client: Local object 2:2282 not found
+17:53:16 Client: Object 2:2282 (type Type_91) not found.
+17:53:16 Client: Object 2:2282 (type Type_119) not found.
+17:53:16 Client: Object 2:2282 (type Type_396) not found.
+17:53:16 Error: Object(2 : 2282) not found
+17:53:16 Client: Object 2:2282 (type Type_119) not found.
+17:53:16 Client: Object 2:2282 (type Type_91) not found.
+17:53:16 Client: Object 2:2282 (type Type_396) not found.
+17:53:16 Error: Object(2 : 2282) not found
+17:53:16 Client: Object 2:2282 (type Type_119) not found.
+17:53:17 Error: Object(2 : 2282) not found
+17:53:17 Client: Object 2:2282 (type Type_91) not found.
+17:53:17 Client: Object 2:2282 (type Type_119) not found.
+17:53:19 Error: Object(18 : 3) not found
+17:54:46 Error: Object(5 : 49) not found
+17:54:46 Error: Object(5 : 52) not found
+17:54:46 Error: Object(5 : 50) not found
+17:54:46 Error: Object(5 : 48) not found
+17:54:46 Client: Object 5:50 (type Type_91) not found.
+17:54:46 Client: Object 5:50 (type Type_396) not found.
+17:54:52 Error: Object(6 : 17) not found
+17:54:56 Error: Object(15 : 17) not found
+17:54:58 Error: Object(6 : 18) not found
+17:55:00 Error: Object(10 : 23) not found
+17:55:51 Error: Object(7 : 45) not found
+17:56:22 Error: Object(7 : 51) not found
+17:56:32 Error: Object(6 : 26) not found
+17:57:18 NetServer::SendMsg: cannot find channel #1917158954, users.card=17
+17:57:18 NetServer: users.get failed when sending to 1917158954
+17:57:18 Message not sent - error 0, message ID = ffffffff, to 1917158954 (Alpha 2-3)
+17:57:59 Client: Local object 2:2299 not found
+17:57:59 Client: Object 2:2299 (type Type_119) not found.
+17:57:59 Client: Object 2:2299 (type Type_396) not found.
+17:57:59 Client: Object 2:2299 (type Type_91) not found.
+17:57:59 Client: Object 2:2299 (type Type_91) not found.
+17:58:00 Error: Object(2 : 2299) not found
+17:58:00 Client: Object 2:2299 (type Type_396) not found.
+17:58:00 Client: Object 2:2299 (type Type_119) not found.
+17:58:00 Error: Object(2 : 2299) not found
+17:58:00 Client: Object 2:2299 (type Type_119) not found.
+17:58:01 Error: Object(2 : 2299) not found
+17:58:01 Client: Object 2:2299 (type Type_91) not found.
+17:58:01 Client: Object 2:2299 (type Type_119) not found.
+17:58:09 Client: Remote object 19:0 not found
+17:58:10 Warning: Cleanup player - person 5:49 not found
+17:58:10 Client: Local object 2:2306 not found
+17:58:10 Client: Object 2:2306 (type Type_396) not found.
+17:58:10 Client: Object 2:2306 (type Type_119) not found.
+17:58:10 Client: Object 2:2306 (type Type_91) not found.
+17:58:10 Error: Object(2 : 2306) not found
+17:58:10 Client: Object 2:2306 (type Type_119) not found.
+17:58:10 Client: Object 2:2306 (type Type_91) not found.
+17:58:10 Client: Object 2:2306 (type Type_396) not found.
+17:58:11 Error: Object(2 : 2306) not found
+17:58:11 Client: Object 2:2306 (type Type_119) not found.
+17:58:11 Error: Object(2 : 2306) not found
+17:58:11 Client: Object 2:2306 (type Type_91) not found.
+17:58:11 Client: Object 2:2306 (type Type_119) not found.
+17:58:12 Warning: Cleanup player - person 5:49 not found
+17:58:16 Client: Remote object 14:0 not found
+17:58:17 Warning: Cleanup player - person 2:2248 not found
+17:58:37 Error: Object(14 : 18) not found
+17:58:37 Error: Object(14 : 19) not found
+17:59:40 Client: Local object 2:2318 not found
+17:59:40 Client: Object 2:2318 (type Type_396) not found.
+17:59:40 Client: Object 2:2318 (type Type_119) not found.
+17:59:40 Client: Object 2:2318 (type Type_91) not found.
+17:59:42 Error: Object(2 : 2318) not found
+17:59:42 Client: Object 2:2318 (type Type_119) not found.
+17:59:42 Client: Object 2:2318 (type Type_91) not found.
+17:59:42 Client: Object 2:2318 (type Type_396) not found.
+17:59:42 Error: Object(2 : 2318) not found
+17:59:42 Client: Object 2:2318 (type Type_119) not found.
+17:59:43 Error: Object(2 : 2318) not found
+17:59:43 Client: Object 2:2318 (type Type_91) not found.
+17:59:43 Client: Object 2:2318 (type Type_119) not found.
+18:00:07 Error: Object(17 : 13) not found
+18:00:22 NetServer::SendMsg: cannot find channel #1964113806, users.card=17
+18:00:22 NetServer: users.get failed when sending to 1964113806
+18:00:22 Message not sent - error 0, message ID = ffffffff, to 1964113806 (Sqn Ldr. J. Simpson)
+18:00:22 Client: Remote object 22:0 not found
+18:01:48 Error: Object(8 : 17) not found
+18:01:49 Error: Object(9 : 21) not found
+18:02:05 Error: Object(7 : 54) not found
+18:03:06 NetServer::SendMsg: cannot find channel #352201837, users.card=17
+18:03:06 NetServer: users.get failed when sending to 352201837
+18:03:06 Message not sent - error 0, message ID = ffffffff, to 352201837 (David)
+18:03:26 Error: Object(16 : 21) not found
+18:03:44 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+18:03:44 "extDB: Protocol Error: [0,"Error Statement Exception"]"
+18:03:48 Error: Object(16 : 22) not found
+18:03:50 Error: Object(16 : 23) not found
+18:04:22 Error: Object(14 : 28) not found
+18:04:39 Error: Object(7 : 57) not found
+18:04:53 Error: Object(17 : 18) not found
+18:05:14 Error in expression <2,[14073.5,18698.9,-0.0112152],[[],0],[[`B_supplyCrate_F`,[[[`srifle_GM6_F`],[1]>
+18:05:14   Error position: <`B_supplyCrate_F`,[[[`srifle_GM6_F`],[1]>
+18:05:14   Error Invalid number in expression
+18:05:14 Error in expression <2,[14073.5,18698.9,-0.0112152],[[],0],[[`B_supplyCrate_F`,[[[`srifle_GM6_F`],[1]>
+18:05:14   Error position: <`B_supplyCrate_F`,[[[`srifle_GM6_F`],[1]>
+18:05:14   Error Invalid number in expression
+18:05:14 Error in expression <ult = call compile _queryResult;
+
+
+if ((_queryResult select 0) == 0) exitWith {d>
+18:05:14   Error position: <_queryResult select 0) == 0) exitWith {d>
+18:05:14   Error Undefined variable in expression: _queryresult
+18:05:14 File life_server\Functions\MySQL\fn_asyncCall.sqf, line 61
+18:05:15 Error in expression <,true] call DB_fnc_asyncCall;
+
+if(count _houses == 0) exitWith {};
+{
+_pos = call>
+18:05:15   Error position: <_houses == 0) exitWith {};
+{
+_pos = call>
+18:05:15   Error Undefined variable in expression: _houses
+18:05:15 File life_server\Functions\Housing\fn_houseCleanup.sqf, line 12
+18:05:15 Warning: Cleanup player - person 2:2314 not found
+18:05:16 Error: Object(21 : 7) not found
+18:05:28 Client: Local object 2:2334 not found
+18:05:28 Client: Object 2:2334 (type Type_396) not found.
+18:05:28 Client: Object 2:2334 (type Type_119) not found.
+18:05:28 Client: Object 2:2334 (type Type_91) not found.
+18:05:28 Client: Object 2:2334 (type Type_91) not found.
+18:05:28 Error: Object(2 : 2334) not found
+18:05:28 Client: Object 2:2334 (type Type_396) not found.
+18:05:28 Client: Object 2:2334 (type Type_119) not found.
+18:05:28 Error: Object(2 : 2334) not found
+18:05:28 Client: Object 2:2334 (type Type_119) not found.
+18:05:29 Error: Object(2 : 2334) not found
+18:05:29 Client: Object 2:2334 (type Type_91) not found.
+18:05:29 Client: Object 2:2334 (type Type_119) not found.
+18:05:30 Error: Object(14 : 35) not found
+18:05:46 Error: Object(14 : 42) not found
+18:05:46 Error: Object(14 : 43) not found

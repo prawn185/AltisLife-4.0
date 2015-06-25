@@ -1,7 +1,7 @@
 #include <macro.h>
 /*
 	Author: Bryan "Tonic" Boardwine
-
+	
 	Description:
 	Pulls up the menu and creates the gang?
 */
@@ -22,4 +22,3 @@ if(BANK < (LIFE_SETTINGS(getNumber,"gang_price"))) exitWith {hint format[localiz
 hint localize "STR_NOTF_SendingData";
 closeDialog 0;
 life_action_gangInUse = true;
-group player setGroupId [_gangName, "ColorRed"];

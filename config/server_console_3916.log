@@ -1,0 +1,54 @@
+﻿ 2:18:56 BattlEye Server: Initialized (v1.204)
+ 2:18:56 Host identity created.
+ 2:18:57 Game Port: 2302, Steam Query Port: 2303
+ 2:18:57 Mission Altis Life RPG read from directory.
+ 2:18:58 Roles assigned.
+ 2:18:58 Reading mission ...
+ 2:19:32 Mission read.
+ 2:19:32 BattlEye Server: RCon admin #0 (89.11.242.39:62050) logged in
+ 2:19:32 BattlEye Server: RCon admin #1 (127.0.0.1:60567) logged in
+ 2:19:32 BattlEye Server: RCon admin #2 (156.34.232.39:58615) logged in
+ 2:19:32 Hammerite uses modified data file
+ 2:19:32 BattlEye Server: Player #0 Hammerite (86.2.2.179:2304) connected
+ 2:19:32 Player Hammerite connecting.
+ 2:19:32 Game started.
+ 2:19:33 BattlEye Server: Player #0 Hammerite - GUID: 9fee95956a3b0dafba44307a1d47256d (unverified)
+ 2:19:34 Player Hammerite connected (id=76561198122436832).
+ 2:19:34 BattlEye Server: Verified GUID (9fee95956a3b0dafba44307a1d47256d) of player #0 Hammerite
+ 2:23:09 Kyle uses modified data file
+ 2:23:09 BattlEye Server: Player #1 Kyle (156.34.232.39:2304) connected
+ 2:23:09 Player Kyle connecting.
+ 2:23:11 BattlEye Server: Player #1 Kyle - GUID: 142412b8a450a092100d030f142578dc (unverified)
+ 2:23:11 Player Kyle connected (id=76561198035774666).
+ 2:23:11 BattlEye Server: Verified GUID (142412b8a450a092100d030f142578dc) of player #1 Kyle
+ 2:28:44 Cmdr. TikTak [APD] uses modified data file
+ 2:28:44 BattlEye Server: Player #2 Cmdr. TikTak [APD] (89.11.242.39:2304) connected
+ 2:28:44 Player Cmdr. TikTak [APD] connecting.
+ 2:28:45 BattlEye Server: Player #2 Cmdr. TikTak [APD] - GUID: 361078412414d9a8d08c371c361172b3 (unverified)
+ 2:28:46 Player Cmdr. TikTak [APD] connected (id=76561198068283211).
+ 2:28:46 BattlEye Server: Verified GUID (361078412414d9a8d08c371c361172b3) of player #2 Cmdr. TikTak [APD]
+ 2:31:47 Andrew uses modified data file
+ 2:31:47 BattlEye Server: Player #3 Andrew (78.19.242.27:2304) connected
+ 2:31:47 Player Andrew connecting.
+ 2:31:48 BattlEye Server: Player #3 Andrew - GUID: c84d7dad541598a290c83b92049a6036 (unverified)
+ 2:31:49 Player Andrew connected (id=76561198095467281).
+ 2:31:49 BattlEye Server: Verified GUID (c84d7dad541598a290c83b92049a6036) of player #3 Andrew
+ 2:36:54 Player Hammerite kicked off by BattlEye: Admin Kick (Admin Kick)
+ 2:36:54 Player Hammerite disconnected.
+ 2:36:59 Hammerite uses modified data file
+ 2:36:59 BattlEye Server: Player #0 Hammerite (86.2.2.179:2304) connected
+ 2:36:59 Player Hammerite connecting.
+ 2:37:01 BattlEye Server: Player #0 Hammerite - GUID: 9fee95956a3b0dafba44307a1d47256d (unverified)
+ 2:37:01 Player Hammerite connected (id=76561198122436832).
+ 2:37:01 BattlEye Server: Verified GUID (9fee95956a3b0dafba44307a1d47256d) of player #0 Hammerite
+ 2:38:06 Player Cmdr. TikTak [APD] kicked off by BattlEye: Admin Kick
+ 2:38:06 Player Cmdr. TikTak [APD] disconnected.
+ 2:38:34 Wrong admin password entered by player: Hammerite, playerUID: 76561198122436832, IP: 192.168.0.2:2304.
+ 2:38:46 Wrong admin password entered by player: Hammerite, playerUID: 76561198122436832, IP: 192.168.0.2:2304.
+ 2:38:57 Admin logged in, player: Hammerite, playerUID: 76561198122436832, IP: 192.168.0.2:2304.
+ 2:39:19 Cmdr. TikTak [APD] uses modified data file
+ 2:39:19 BattlEye Server: Player #2 Cmdr. TikTak [APD] (89.11.242.39:2304) connected
+ 2:39:19 Player Cmdr. TikTak [APD] connecting.
+ 2:39:21 BattlEye Server: Player #2 Cmdr. TikTak [APD] - GUID: 361078412414d9a8d08c371c361172b3 (unverified)
+ 2:39:21 Player Cmdr. TikTak [APD] connected (id=76561198068283211).
+ 2:39:21 BattlEye Server: Verified GUID (361078412414d9a8d08c371c361172b3) of player #2 Cmdr. TikTak [APD]

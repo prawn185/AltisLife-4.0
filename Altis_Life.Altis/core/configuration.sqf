@@ -42,6 +42,7 @@ life_clothing_purchase = [-1,-1,-1,-1,-1];
 *****************************
 */
 life_maxWeight = LIFE_SETTINGS(getNumber,"total_maxWeight");
+life_maxWeightT = LIFE_SETTINGS(getNumber,"total_maxWeightT");
 life_carryWeight = 0; //Represents the players current inventory weight (MUST START AT 0).
 
 /*
@@ -62,15 +63,15 @@ life_vehicles = [];
 
 switch (playerSide) do {
 	case west: {
-		BANK = 500000; //Starting Bank Money
-		life_paycheck = 3000; //Paycheck Amount
+		BANK = 7000; //Starting Bank Money
+		life_paycheck = 500; //Paycheck Amount
 	};
-
+	
 	case civilian: {
-		BANK = 500000; //Starting Bank Money
-		life_paycheck = 2000; //Paycheck Amount
+		BANK = 3000; //Starting Bank Money
+		life_paycheck = 350; //Paycheck Amount
 	};
-
+	
 	case independent: {
 		BANK = 6500;
 		life_paycheck = 450;
@@ -89,6 +90,6 @@ switch (playerSide) do {
 {
 	_varName = getText(_x >> "variable");
 	_sideFlag = getText(_x >> "side");
-
+	
 	SVAR_MNS [LICENSE_VARNAME(_varName,_sideFlag),false];
 } foreach ("true" configClasses (missionConfigFile >> "Licenses"));

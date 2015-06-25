@@ -1,0 +1,77 @@
+﻿13:26:33 Host identity created.
+13:26:33 Game Port: 2302, Steam Query Port: 2303
+13:26:33 Mission Altis Life RPG read from directory.
+13:26:34 Roles assigned.
+13:26:34 Reading mission ...
+13:26:59 Mission read.
+13:26:59 Game started.
+13:27:22 Hammerite uses modified data file
+13:27:22 Player Hammerite connecting.
+13:27:24 Player Hammerite connected (id=76561198122436832).
+13:30:23 Admin logged in, player: Hammerite, playerUID: 76561198122436832, IP: 192.168.0.2:2304.
+13:33:45 Jonas uses modified data file
+13:33:45 Player Jonas connecting.
+13:33:47 Player Jonas connected (id=76561198060193396).
+13:33:49 Player Jonas disconnected.
+13:34:39 Jonas uses modified data file
+13:34:39 Player Jonas connecting.
+13:34:41 Player Jonas connected (id=76561198060193396).
+13:34:41 Player Jonas disconnected.
+13:54:03 PwnDWest uses modified data file
+13:54:03 Player PwnDWest connecting.
+13:54:05 Player PwnDWest connected (id=76561198088166641).
+13:54:06 Player PwnDWest disconnected.
+19:11:39 BattlEye Server: Initialized (v1.204)
+19:11:39 Host identity created.
+19:11:40 Game Port: 2302, Steam Query Port: 2303
+19:11:40 Mission Altis Life RPG read from directory.
+19:11:42 Roles assigned.
+19:11:42 Reading mission ...
+19:12:21 Mission read.
+19:12:21 BattlEye Server: RCon admin #0 (156.34.232.39:52028) logged in
+19:12:21 Hammerite uses modified data file
+19:12:21 BattlEye Server: Player #0 Hammerite (86.2.2.179:2304) connected
+19:12:22 Player Hammerite connecting.
+19:12:22 Game started.
+19:12:23 BattlEye Server: Player #0 Hammerite - GUID: 9fee95956a3b0dafba44307a1d47256d (unverified)
+19:12:23 Player Hammerite connected (id=76561198122436832).
+19:12:23 BattlEye Server: Verified GUID (9fee95956a3b0dafba44307a1d47256d) of player #0 Hammerite
+19:12:54 Toi Campbell uses modified data file
+19:12:54 BattlEye Server: Player #1 Toi Campbell (79.180.180.98:2304) connected
+19:12:55 Player Toi Campbell connecting.
+19:12:57 BattlEye Server: Player #1 Toi Campbell - GUID: 4c9566f2c0bf015524d145f724d2c8ff (unverified)
+19:12:57 Player Toi Campbell connected (id=76561198083964374).
+19:12:57 BattlEye Server: Verified GUID (4c9566f2c0bf015524d145f724d2c8ff) of player #1 Toi Campbell
+19:12:58 Wiiz  uses modified data file
+19:12:58 BattlEye Server: Player #2 Wiiz  (213.67.36.19:2304) connected
+19:12:58 Player Wiiz  connecting.
+19:12:58 Alpha 2-3 uses modified data file
+19:12:58 BattlEye Server: Player #3 Alpha 2-3 (74.105.211.34:2304) connected
+19:12:58 Player Alpha 2-3 connecting.
+19:12:59 BattlEye Server: Player #2 Wiiz  - GUID: 0db23ede23d049071abcd8abb2cccbb7 (unverified)
+19:13:00 Player Wiiz  connected (id=76561198080131948).
+19:13:00 BattlEye Server: Verified GUID (0db23ede23d049071abcd8abb2cccbb7) of player #2 Wiiz 
+19:13:02 BattlEye Server: Player #3 Alpha 2-3 - GUID: e3c29277fc8d4f00f2ec52ec7bfe949e (unverified)
+19:13:03 Player Alpha 2-3 connected (id=76561198061458053).
+19:13:03 BattlEye Server: Verified GUID (e3c29277fc8d4f00f2ec52ec7bfe949e) of player #3 Alpha 2-3
+19:13:05 J. Marston uses modified data file
+19:13:05 BattlEye Server: Player #4 J. Marston (90.194.129.20:2304) connected
+19:13:05 Player J. Marston connecting.
+19:13:08 Player J. Marston disconnected.
+19:13:09 BattlEye Server: Player #4 J. Marston disconnected
+19:13:16 BattlEye Server: RCon admin #1 (127.0.0.1:51701) logged in
+19:13:26 Ozzy Sheen uses modified data file
+19:13:26 BattlEye Server: Player #4 Ozzy Sheen (82.7.156.20:2304) connected
+19:13:26 Player Ozzy Sheen connecting.
+19:13:28 BattlEye Server: Player #4 Ozzy Sheen - GUID: 264b4c7e2474bc6e925150b67ac69d40 (unverified)
+19:13:28 Player Ozzy Sheen connected (id=76561198136421775).
+19:13:28 BattlEye Server: Verified GUID (264b4c7e2474bc6e925150b67ac69d40) of player #4 Ozzy Sheen
+19:13:39 Harry[APD] uses modified data file
+19:13:39 BattlEye Server: Player #5 Harry[APD] (92.12.173.63:2304) connected
+19:13:39 Player Harry[APD] connecting.
+19:13:41 BattlEye Server: Player #5 Harry[APD] - GUID: aac1d4c21cea94d19832ce7c2e21ae64 (unverified)
+19:13:41 Player Harry[APD] connected (id=76561198120604664).
+19:13:41 BattlEye Server: Verified GUID (aac1d4c21cea94d19832ce7c2e21ae64) of player #5 Harry[APD]
+19:13:42 J. Marston uses modified data file
+19:13:42 BattlEye Server: Player #6 J. Marston (90.194.129.20:2304) connected
+19:13:43 Player J. Marston connecting.

@@ -1,0 +1,810 @@
+﻿16:53:27 BattlEye server updated to version: 204
+16:53:27 BattlEye Server: Initialized (v1.204)
+16:53:27 Host identity created.
+16:53:29 Game Port: 2302, Steam Query Port: 2303
+16:53:29 Mission Altis Life RPG read from directory.
+16:53:30 Roles assigned.
+16:53:30 Reading mission ...
+16:54:17 Mission read.
+16:54:17 Game started.
+16:54:58 Hammerite uses modified data file
+16:54:59 BattlEye Server: Player #0 Hammerite (86.2.2.179:2304) connected
+16:54:59 Player Hammerite connecting.
+16:55:00 BattlEye Server: Player #0 Hammerite - GUID: 9fee95956a3b0dafba44307a1d47256d (unverified)
+16:55:00 Player Hammerite connected (id=76561198122436832).
+16:55:00 BattlEye Server: Verified GUID (9fee95956a3b0dafba44307a1d47256d) of player #0 Hammerite
+16:55:31 Player Hammerite is losing connection
+16:55:34 [RoA] Chas uses modified data file
+16:55:34 BattlEye Server: Player #1 [RoA] Chas (2.27.241.95:2304) connected
+16:55:34 Player [RoA] Chas connecting.
+16:55:36 BattlEye Server: Player #1 [RoA] Chas - GUID: 38fd77e0f71285d0d8e9cd940867e7da (unverified)
+16:55:36 Player [RoA] Chas connected (id=76561198131514561).
+16:55:36 BattlEye Server: Verified GUID (38fd77e0f71285d0d8e9cd940867e7da) of player #1 [RoA] Chas
+16:55:56 Player Hammerite kicked off by BattlEye: Client not responding
+16:55:56 Player Hammerite disconnected.
+16:56:34 Hammerite uses modified data file
+16:56:34 BattlEye Server: Player #0 Hammerite (86.2.2.179:2304) connected
+16:56:34 Player Hammerite connecting.
+16:56:36 BattlEye Server: Player #0 Hammerite - GUID: 9fee95956a3b0dafba44307a1d47256d (unverified)
+16:56:36 Player Hammerite connected (id=76561198122436832).
+16:56:36 BattlEye Server: Verified GUID (9fee95956a3b0dafba44307a1d47256d) of player #0 Hammerite
+16:58:25 Prawn Kalashnikov uses modified data file
+16:58:25 BattlEye Server: Player #2 Prawn Kalashnikov (86.149.187.98:2304) connected
+16:58:25 Player Prawn Kalashnikov connecting.
+16:58:27 BattlEye Server: Player #2 Prawn Kalashnikov - GUID: 8ed7b223410fcb577720190afbef079c (unverified)
+16:58:27 Player Prawn Kalashnikov connected (id=76561198059020084).
+16:58:27 BattlEye Server: Verified GUID (8ed7b223410fcb577720190afbef079c) of player #2 Prawn Kalashnikov
+16:58:40 Officer Mofonik [APD] uses modified data file
+16:58:40 BattlEye Server: Player #3 Officer Mofonik [APD] (62.255.139.147:2304) connected
+16:58:40 Player Officer Mofonik [APD] connecting.
+16:58:42 BattlEye Server: Player #3 Officer Mofonik [APD] - GUID: 75073c533ba31df0d10b7d7cbaf3e3ab (unverified)
+16:58:42 Player Officer Mofonik [APD] connected (id=76561198077387199).
+16:58:42 BattlEye Server: Verified GUID (75073c533ba31df0d10b7d7cbaf3e3ab) of player #3 Officer Mofonik [APD]
+16:58:57 BattlEye Server: RCon admin #0 (127.0.0.1:63298) logged in
+16:59:02 S.W.A.T Ash uses modified data file
+16:59:02 BattlEye Server: Player #4 S.W.A.T Ash (86.163.62.16:2304) connected
+16:59:02 Player S.W.A.T Ash connecting.
+16:59:04 BattlEye Server: Player #4 S.W.A.T Ash - GUID: 75e60c9e61267a0325b6d13c8c243371 (unverified)
+16:59:04 Player S.W.A.T Ash connected (id=76561198168958757).
+16:59:04 BattlEye Server: Verified GUID (75e60c9e61267a0325b6d13c8c243371) of player #4 S.W.A.T Ash
+16:59:42 Johhny Montana uses modified data file
+16:59:42 BattlEye Server: Player #5 Johhny Montana (86.13.167.157:2304) connected
+16:59:42 Player Johhny Montana connecting.
+16:59:43 BattlEye Server: Player #5 Johhny Montana - GUID: ce20f159dd4c87c2fd77fcf73e58db4e (unverified)
+16:59:44 Player Johhny Montana connected (id=76561198174963435).
+16:59:44 BattlEye Server: Verified GUID (ce20f159dd4c87c2fd77fcf73e58db4e) of player #5 Johhny Montana
+17:00:36 Officer Michael (APD) uses modified data file
+17:00:36 BattlEye Server: Player #6 Officer Michael (APD) (95.149.162.210:2304) connected
+17:00:36 Player Officer Michael (APD) connecting.
+17:00:38 BattlEye Server: Player #6 Officer Michael (APD) - GUID: bc1d59d4e453e465a5b0fbc89b2b81fa (unverified)
+17:00:38 Player Officer Michael (APD) connected (id=76561198111627001).
+17:00:38 BattlEye Server: Verified GUID (bc1d59d4e453e465a5b0fbc89b2b81fa) of player #6 Officer Michael (APD)
+17:00:39 DeadlyFox uses modified data file
+17:00:39 BattlEye Server: Player #7 DeadlyFox (77.98.245.225:2304) connected
+17:00:39 Player DeadlyFox connecting.
+17:00:40 BattlEye Server: Player #7 DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+17:00:41 Player DeadlyFox connected (id=76561198121637967).
+17:00:41 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #7 DeadlyFox
+17:00:58 Harry[APD] uses modified data file
+17:00:58 BattlEye Server: Player #8 Harry[APD] (92.12.173.63:2304) connected
+17:00:58 Player Harry[APD] connecting.
+17:01:01 Player Harry[APD] disconnected.
+17:01:01 BattlEye Server: Player #8 Harry[APD] disconnected
+17:01:24 Player DeadlyFox disconnected.
+17:01:24 BattlEye Server: Player #7 DeadlyFox disconnected
+17:01:49 Officer Griffin [APD] uses modified data file
+17:01:49 BattlEye Server: Player #7 Officer Griffin [APD] (81.96.215.215:2304) connected
+17:01:49 Player Officer Griffin [APD] connecting.
+17:01:51 BattlEye Server: Player #7 Officer Griffin [APD] - GUID: e83a53e107625a901deec2d243ac524a (unverified)
+17:01:51 Player Officer Griffin [APD] connected (id=76561198113211672).
+17:01:51 BattlEye Server: Verified GUID (e83a53e107625a901deec2d243ac524a) of player #7 Officer Griffin [APD]
+17:01:57 Harry[APD] uses modified data file
+17:01:57 BattlEye Server: Player #8 Harry[APD] (92.12.173.63:2304) connected
+17:01:57 Player Harry[APD] connecting.
+17:02:01 BattlEye Server: Player #8 Harry[APD] - GUID: aac1d4c21cea94d19832ce7c2e21ae64 (unverified)
+17:02:01 Player Harry[APD] connected (id=76561198120604664).
+17:02:01 BattlEye Server: Verified GUID (aac1d4c21cea94d19832ce7c2e21ae64) of player #8 Harry[APD]
+17:02:49 louis uses modified data file
+17:02:49 BattlEye Server: Player #9 louis (82.1.34.90:2304) connected
+17:02:49 Player louis connecting.
+17:02:51 BattlEye Server: Player #9 louis - GUID: af9aa18b8736cbf63cdfc527b4a23bab (unverified)
+17:02:51 Player louis connected (id=76561198094876374).
+17:02:51 BattlEye Server: Verified GUID (af9aa18b8736cbf63cdfc527b4a23bab) of player #9 louis
+17:02:55 Dimitri Levinsky uses modified data file
+17:02:55 BattlEye Server: Player #10 Dimitri Levinsky (94.212.22.21:2304) connected
+17:02:55 Player Dimitri Levinsky connecting.
+17:02:57 BattlEye Server: Player #10 Dimitri Levinsky - GUID: f9ae7a7a989740e7eceb82f494a429b2 (unverified)
+17:02:58 Player Dimitri Levinsky connected (id=76561198008324877).
+17:02:58 BattlEye Server: Verified GUID (f9ae7a7a989740e7eceb82f494a429b2) of player #10 Dimitri Levinsky
+17:03:00 Player Officer Griffin [APD] disconnected.
+17:03:00 BattlEye Server: Player #7 Officer Griffin [APD] disconnected
+17:03:12 Player Dimitri Levinsky disconnected.
+17:03:12 BattlEye Server: Player #10 Dimitri Levinsky disconnected
+17:03:15 Dimitri Levinsky uses modified data file
+17:03:15 BattlEye Server: Player #7 Dimitri Levinsky (94.212.22.21:2304) connected
+17:03:15 Player Dimitri Levinsky connecting.
+17:03:16 BattlEye Server: Player #7 Dimitri Levinsky - GUID: f9ae7a7a989740e7eceb82f494a429b2 (unverified)
+17:03:17 Player Dimitri Levinsky connected (id=76561198008324877).
+17:03:17 BattlEye Server: Verified GUID (f9ae7a7a989740e7eceb82f494a429b2) of player #7 Dimitri Levinsky
+17:03:43 [O.C] NeoN uses modified data file
+17:03:43 BattlEye Server: Player #10 [O.C] NeoN (82.37.236.207:2304) connected
+17:03:43 Player [O.C] NeoN connecting.
+17:03:45 BattlEye Server: Player #10 [O.C] NeoN - GUID: 8c4e3a12b0e08e0195239d0e04e7e0c3 (unverified)
+17:03:46 Player [O.C] NeoN connected (id=76561198080266773).
+17:03:46 BattlEye Server: Verified GUID (8c4e3a12b0e08e0195239d0e04e7e0c3) of player #10 [O.C] NeoN
+17:03:50 Player [RoA] Chas disconnected.
+17:03:50 BattlEye Server: Player #1 [RoA] Chas disconnected
+17:03:51 Lt. Wiiz [APD) uses modified data file
+17:03:51 BattlEye Server: Player #1 Lt. Wiiz [APD) (94.234.170.86:13176) connected
+17:03:51 Player Lt. Wiiz [APD) connecting.
+17:03:53 BattlEye Server: Player #1 Lt. Wiiz [APD) - GUID: 0db23ede23d049071abcd8abb2cccbb7 (unverified)
+17:03:53 Player Lt. Wiiz [APD) connected (id=76561198080131948).
+17:03:53 BattlEye Server: Verified GUID (0db23ede23d049071abcd8abb2cccbb7) of player #1 Lt. Wiiz [APD)
+17:04:01 Dxvid uses modified data file
+17:04:01 BattlEye Server: Player #11 Dxvid (86.45.63.36:2304) connected
+17:04:01 Player Dxvid connecting.
+17:04:02 BattlEye Server: Player #11 Dxvid - GUID: d764bd0d55f4103dfa66bb67c6164bb0 (unverified)
+17:04:03 Player Dxvid connected (id=76561198078107933).
+17:04:03 BattlEye Server: Verified GUID (d764bd0d55f4103dfa66bb67c6164bb0) of player #11 Dxvid
+17:04:03 Ahmed uses modified data file
+17:04:03 BattlEye Server: Player #12 Ahmed (151.227.148.188:2304) connected
+17:04:03 Player Ahmed connecting.
+17:04:05 BattlEye Server: Player #12 Ahmed - GUID: 6161c651ba49086d3121acc3157aaed8 (unverified)
+17:04:05 Player Ahmed connected (id=76561198162630371).
+17:04:05 BattlEye Server: Verified GUID (6161c651ba49086d3121acc3157aaed8) of player #12 Ahmed
+17:04:31 Ofc.Vegas [APD] uses modified data file
+17:04:31 BattlEye Server: Player #13 Ofc.Vegas [APD] (109.247.41.5:2304) connected
+17:04:31 Player Ofc.Vegas [APD] connecting.
+17:04:33 BattlEye Server: Player #13 Ofc.Vegas [APD] - GUID: 99df2c9ae4bdd067ad1b5876e1b4707f (unverified)
+17:04:33 Player Ofc.Vegas [APD] connected (id=76561198103313850).
+17:04:33 BattlEye Server: Verified GUID (99df2c9ae4bdd067ad1b5876e1b4707f) of player #13 Ofc.Vegas [APD]
+17:05:01 Admin logged in, player: Hammerite, playerUID: 76561198122436832, IP: 192.168.0.2:2304.
+17:05:27 Player Johhny Montana disconnected.
+17:05:27 BattlEye Server: Player #5 Johhny Montana disconnected
+17:06:15 Player Officer Mofonik [APD] disconnected.
+17:06:15 BattlEye Server: Player #3 Officer Mofonik [APD] disconnected
+17:06:25 Player louis disconnected.
+17:06:25 BattlEye Server: Player #9 louis disconnected
+17:07:20 ben uses modified data file
+17:07:20 BattlEye Server: Player #3 ben (77.97.69.83:2304) connected
+17:07:20 Player ben connecting.
+17:07:21 BattlEye Server: Player #3 ben - GUID: 6f3529d1b11122daa83fcb7aa2210a8e (unverified)
+17:07:22 Player ben connected (id=76561198054519084).
+17:07:22 BattlEye Server: Verified GUID (6f3529d1b11122daa83fcb7aa2210a8e) of player #3 ben
+17:07:43 Mofonik uses modified data file
+17:07:43 BattlEye Server: Player #5 Mofonik (62.255.139.147:2304) connected
+17:07:43 Player Mofonik connecting.
+17:07:45 BattlEye Server: Player #5 Mofonik - GUID: 75073c533ba31df0d10b7d7cbaf3e3ab (unverified)
+17:07:45 Player Mofonik connected (id=76561198077387199).
+17:07:45 BattlEye Server: Verified GUID (75073c533ba31df0d10b7d7cbaf3e3ab) of player #5 Mofonik
+17:08:35 Player Ahmed disconnected.
+17:08:35 BattlEye Server: Player #12 Ahmed disconnected
+17:08:53 Johhny Montana uses modified data file
+17:08:53 BattlEye Server: Player #9 Johhny Montana (86.13.167.157:2304) connected
+17:08:53 Player Johhny Montana connecting.
+17:08:54 BattlEye Server: Player #9 Johhny Montana - GUID: ce20f159dd4c87c2fd77fcf73e58db4e (unverified)
+17:08:55 Player Johhny Montana connected (id=76561198174963435).
+17:08:55 BattlEye Server: Verified GUID (ce20f159dd4c87c2fd77fcf73e58db4e) of player #9 Johhny Montana
+17:08:55 Andrew uses modified data file
+17:08:55 BattlEye Server: Player #12 Andrew (78.19.242.27:2304) connected
+17:08:55 Player Andrew connecting.
+17:08:57 BattlEye Server: Player #12 Andrew - GUID: c84d7dad541598a290c83b92049a6036 (unverified)
+17:08:57 Player Andrew connected (id=76561198095467281).
+17:08:57 BattlEye Server: Verified GUID (c84d7dad541598a290c83b92049a6036) of player #12 Andrew
+17:09:23 BattlEye Server: (Direct) Dxvid: WHAT DO YOU WANT
+17:09:26 BattlEye Server: (Direct) Dxvid: type
+17:09:32 BattlEye Server: (Direct) Lt. Wiiz [APD): my whitelist
+17:09:38 BattlEye Server: (Direct) Dxvid: idk
+17:09:44 BattlEye Server: (Direct) Lt. Wiiz [APD): But i want it 
+17:09:45 BattlEye Server: (Direct) Dxvid: come on ts and talk to andy 
+17:10:53 Player Dimitri Levinsky disconnected.
+17:10:53 BattlEye Server: Player #7 Dimitri Levinsky disconnected
+17:11:41 Dimitri Levinsky uses modified data file
+17:11:41 BattlEye Server: Player #7 Dimitri Levinsky (94.212.22.21:2304) connected
+17:11:41 Player Dimitri Levinsky connecting.
+17:11:43 BattlEye Server: Player #7 Dimitri Levinsky - GUID: f9ae7a7a989740e7eceb82f494a429b2 (unverified)
+17:11:43 Player Dimitri Levinsky connected (id=76561198008324877).
+17:11:43 BattlEye Server: Verified GUID (f9ae7a7a989740e7eceb82f494a429b2) of player #7 Dimitri Levinsky
+17:12:36 Officer Griffin [APD] uses modified data file
+17:12:36 BattlEye Server: Player #14 Officer Griffin [APD] (81.96.215.215:2304) connected
+17:12:36 Player Officer Griffin [APD] connecting.
+17:12:37 BattlEye Server: Player #14 Officer Griffin [APD] - GUID: e83a53e107625a901deec2d243ac524a (unverified)
+17:12:37 Player Officer Griffin [APD] connected (id=76561198113211672).
+17:12:38 BattlEye Server: Verified GUID (e83a53e107625a901deec2d243ac524a) of player #14 Officer Griffin [APD]
+17:13:26 Player Dxvid disconnected.
+17:13:26 BattlEye Server: Player #11 Dxvid disconnected
+17:16:43 Player Officer Griffin [APD] disconnected.
+17:16:43 BattlEye Server: Player #14 Officer Griffin [APD] disconnected
+17:19:13 [7TH] Mr Bunnie uses modified data file
+17:19:13 BattlEye Server: Player #11 [7TH] Mr Bunnie (31.89.189.153:2304) connected
+17:19:13 Player [7TH] Mr Bunnie connecting.
+17:19:15 DeadlyFox uses modified data file
+17:19:15 BattlEye Server: Player #14 DeadlyFox (77.98.245.225:2304) connected
+17:19:15 Player DeadlyFox connecting.
+17:19:17 BattlEye Server: Player #14 DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+17:19:17 Player DeadlyFox connected (id=76561198121637967).
+17:19:17 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #14 DeadlyFox
+17:19:23 Player DeadlyFox disconnected.
+17:19:23 BattlEye Server: Player #14 DeadlyFox disconnected
+17:19:45 Player  kicked off by BattlEye: Client not responding
+17:19:45 Player [7TH] Mr Bunnie disconnected.
+17:20:03 Player Lt. Wiiz [APD) disconnected.
+17:20:04 BattlEye Server: Player #1 Lt. Wiiz [APD) disconnected
+17:20:04 S.W.A.T  DeadlyFox uses modified data file
+17:20:05 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+17:20:05 Player S.W.A.T  DeadlyFox connecting.
+17:20:06 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+17:20:06 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+17:20:06 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+17:20:08 G.A.S.U lead Aaron uses modified data file
+17:20:08 BattlEye Server: Player #11 G.A.S.U lead Aaron (78.16.125.129:2304) connected
+17:20:08 Player G.A.S.U lead Aaron connecting.
+17:20:10 BattlEye Server: Player #11 G.A.S.U lead Aaron - GUID: 9dc9964702a20c5a4441b447770a4852 (unverified)
+17:20:10 Player G.A.S.U lead Aaron connected (id=76561198061886476).
+17:20:10 BattlEye Server: Verified GUID (9dc9964702a20c5a4441b447770a4852) of player #11 G.A.S.U lead Aaron
+17:20:38 Lt. Wiiz [APD) uses modified data file
+17:20:38 BattlEye Server: Player #14 Lt. Wiiz [APD) (94.234.170.86:13176) connected
+17:20:38 Player Lt. Wiiz [APD) connecting.
+17:20:40 BattlEye Server: Player #14 Lt. Wiiz [APD) - GUID: 0db23ede23d049071abcd8abb2cccbb7 (unverified)
+17:20:40 Player Lt. Wiiz [APD) connected (id=76561198080131948).
+17:20:40 BattlEye Server: Verified GUID (0db23ede23d049071abcd8abb2cccbb7) of player #14 Lt. Wiiz [APD)
+17:20:52 Player Dimitri Levinsky disconnected.
+17:20:52 BattlEye Server: Player #7 Dimitri Levinsky disconnected
+17:21:02 Player Harry[APD] disconnected.
+17:21:02 BattlEye Server: Player #8 Harry[APD] disconnected
+17:21:03 [7TH] Mr Bunnie uses modified data file
+17:21:03 BattlEye Server: Player #7 [7TH] Mr Bunnie (31.89.189.153:2304) connected
+17:21:03 Player [7TH] Mr Bunnie connecting.
+17:21:07 BattlEye Server: Player #7 [7TH] Mr Bunnie - GUID: b52cd17a06a582677f753bb100272618 (unverified)
+17:21:07 Player [7TH] Mr Bunnie connected (id=76561198120943359).
+17:21:07 BattlEye Server: Verified GUID (b52cd17a06a582677f753bb100272618) of player #7 [7TH] Mr Bunnie
+17:21:16 Player Ofc.Vegas [APD] disconnected.
+17:21:16 BattlEye Server: Player #13 Ofc.Vegas [APD] disconnected
+17:21:24 Dimitri Levinsky uses modified data file
+17:21:24 BattlEye Server: Player #8 Dimitri Levinsky (94.212.22.21:2304) connected
+17:21:24 Player Dimitri Levinsky connecting.
+17:21:26 BattlEye Server: Player #8 Dimitri Levinsky - GUID: f9ae7a7a989740e7eceb82f494a429b2 (unverified)
+17:21:26 Player Dimitri Levinsky connected (id=76561198008324877).
+17:21:26 BattlEye Server: Verified GUID (f9ae7a7a989740e7eceb82f494a429b2) of player #8 Dimitri Levinsky
+17:21:36 Player G.A.S.U lead Aaron disconnected.
+17:21:36 BattlEye Server: Player #11 G.A.S.U lead Aaron disconnected
+17:21:41 Player S.W.A.T Ash disconnected.
+17:21:41 BattlEye Server: Player #4 S.W.A.T Ash disconnected
+17:21:44 S.W.A.T Ash uses modified data file
+17:21:44 BattlEye Server: Player #4 S.W.A.T Ash (86.163.62.16:2304) connected
+17:21:44 Player S.W.A.T Ash connecting.
+17:21:45 BattlEye Server: Player #4 S.W.A.T Ash - GUID: 75e60c9e61267a0325b6d13c8c243371 (unverified)
+17:21:46 Player S.W.A.T Ash connected (id=76561198168958757).
+17:21:46 BattlEye Server: Verified GUID (75e60c9e61267a0325b6d13c8c243371) of player #4 S.W.A.T Ash
+17:21:46 Player S.W.A.T  DeadlyFox disconnected.
+17:21:46 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+17:21:49 S.W.A.T  DeadlyFox uses modified data file
+17:21:49 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+17:21:49 Player S.W.A.T  DeadlyFox connecting.
+17:21:50 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+17:21:51 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+17:21:51 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+17:21:55 BattlEye Server: (Direct) Mofonik: Leave cop base.
+17:21:56 G.A.S.U lead Aaron uses modified data file
+17:21:56 BattlEye Server: Player #11 G.A.S.U lead Aaron (78.16.125.129:2304) connected
+17:21:56 Player G.A.S.U lead Aaron connecting.
+17:21:58 BattlEye Server: Player #11 G.A.S.U lead Aaron - GUID: 9dc9964702a20c5a4441b447770a4852 (unverified)
+17:21:58 Player G.A.S.U lead Aaron connected (id=76561198061886476).
+17:21:58 BattlEye Server: Verified GUID (9dc9964702a20c5a4441b447770a4852) of player #11 G.A.S.U lead Aaron
+17:22:20 Officer Griffin [APD] uses modified data file
+17:22:20 BattlEye Server: Player #13 Officer Griffin [APD] (81.96.215.215:2304) connected
+17:22:20 Player Officer Griffin [APD] connecting.
+17:22:22 BattlEye Server: Player #13 Officer Griffin [APD] - GUID: e83a53e107625a901deec2d243ac524a (unverified)
+17:22:22 Player Officer Griffin [APD] connected (id=76561198113211672).
+17:22:22 BattlEye Server: Verified GUID (e83a53e107625a901deec2d243ac524a) of player #13 Officer Griffin [APD]
+17:22:23 Player Mofonik disconnected.
+17:22:23 BattlEye Server: Player #5 Mofonik disconnected
+17:22:51 Ofc.Vegas [APD] uses modified data file
+17:22:51 BattlEye Server: Player #5 Ofc.Vegas [APD] (109.247.41.5:2304) connected
+17:22:51 Player Ofc.Vegas [APD] connecting.
+17:22:53 BattlEye Server: Player #5 Ofc.Vegas [APD] - GUID: 99df2c9ae4bdd067ad1b5876e1b4707f (unverified)
+17:22:53 Player Ofc.Vegas [APD] connected (id=76561198103313850).
+17:22:53 BattlEye Server: Verified GUID (99df2c9ae4bdd067ad1b5876e1b4707f) of player #5 Ofc.Vegas [APD]
+17:23:03 Toi Campbell uses modified data file
+17:23:03 BattlEye Server: Player #15 Toi Campbell (79.177.30.186:2304) connected
+17:23:03 Player Toi Campbell connecting.
+17:23:05 BattlEye Server: Player #15 Toi Campbell - GUID: 4c9566f2c0bf015524d145f724d2c8ff (unverified)
+17:23:05 Player Toi Campbell connected (id=76561198083964374).
+17:23:05 BattlEye Server: Verified GUID (4c9566f2c0bf015524d145f724d2c8ff) of player #15 Toi Campbell
+17:23:14 Officer Mofonik [APD] uses modified data file
+17:23:14 BattlEye Server: Player #16 Officer Mofonik [APD] (62.255.139.147:2304) connected
+17:23:14 Player Officer Mofonik [APD] connecting.
+17:23:16 BattlEye Server: Player #16 Officer Mofonik [APD] - GUID: 75073c533ba31df0d10b7d7cbaf3e3ab (unverified)
+17:23:16 Player Officer Mofonik [APD] connected (id=76561198077387199).
+17:23:16 BattlEye Server: Verified GUID (75073c533ba31df0d10b7d7cbaf3e3ab) of player #16 Officer Mofonik [APD]
+17:23:18 Player Toi Campbell disconnected.
+17:23:18 BattlEye Server: Player #15 Toi Campbell disconnected
+17:23:21 Cameron uses modified data file
+17:23:21 BattlEye Server: Player #15 Cameron (86.3.166.189:2304) connected
+17:23:21 Player Cameron connecting.
+17:23:22 BattlEye Server: Player #15 Cameron - GUID: 91a280cf0b83e4d7f1d6906cc8c15824 (unverified)
+17:23:33 [7th] ScoTTyBoY uses modified data file
+17:23:33 BattlEye Server: Player #17 [7th] ScoTTyBoY (85.218.207.4:2304) connected
+17:23:33 Player [7th] ScoTTyBoY connecting.
+17:23:35 BattlEye Server: Player #17 [7th] ScoTTyBoY - GUID: 42bafa51e9fdf3e800912bd13f9d329a (unverified)
+17:23:35 Player [7th] ScoTTyBoY connected (id=76561198024910895).
+17:23:35 BattlEye Server: Verified GUID (42bafa51e9fdf3e800912bd13f9d329a) of player #17 [7th] ScoTTyBoY
+17:23:38 Player Cameron connected (id=76561198072679198).
+17:23:38 BattlEye Server: Verified GUID (91a280cf0b83e4d7f1d6906cc8c15824) of player #15 Cameron
+17:23:50 Player Cameron disconnected.
+17:23:50 BattlEye Server: Player #15 Cameron disconnected
+17:24:05 Player Officer Michael (APD) disconnected.
+17:24:05 BattlEye Server: Player #6 Officer Michael (APD) disconnected
+17:24:06 [7th] Cameron uses modified data file
+17:24:06 BattlEye Server: Player #6 [7th] Cameron (86.3.166.189:2304) connected
+17:24:06 Player [7th] Cameron connecting.
+17:24:08 BattlEye Server: Player #6 [7th] Cameron - GUID: 91a280cf0b83e4d7f1d6906cc8c15824 (unverified)
+17:24:08 Player [7th] Cameron connected (id=76561198072679198).
+17:24:08 BattlEye Server: Verified GUID (91a280cf0b83e4d7f1d6906cc8c15824) of player #6 [7th] Cameron
+17:24:11 Officer Michael (APD) uses modified data file
+17:24:11 BattlEye Server: Player #15 Officer Michael (APD) (95.149.162.210:2304) connected
+17:24:11 Player Officer Michael (APD) connecting.
+17:24:13 BattlEye Server: Player #15 Officer Michael (APD) - GUID: bc1d59d4e453e465a5b0fbc89b2b81fa (unverified)
+17:24:13 Player Officer Michael (APD) connected (id=76561198111627001).
+17:24:13 BattlEye Server: Verified GUID (bc1d59d4e453e465a5b0fbc89b2b81fa) of player #15 Officer Michael (APD)
+17:24:48 Toi Campbell uses modified data file
+17:24:48 BattlEye Server: Player #18 Toi Campbell (79.177.30.186:2304) connected
+17:24:48 Player Toi Campbell connecting.
+17:24:49 BattlEye Server: Player #18 Toi Campbell - GUID: 4c9566f2c0bf015524d145f724d2c8ff (unverified)
+17:24:49 Player Toi Campbell connected (id=76561198083964374).
+17:24:50 BattlEye Server: Verified GUID (4c9566f2c0bf015524d145f724d2c8ff) of player #18 Toi Campbell
+17:25:36 Player Officer Michael (APD) disconnected.
+17:25:36 BattlEye Server: Player #15 Officer Michael (APD) disconnected
+17:25:38 BattlEye Server: (Direct) Dimitri Levinsky: DUDE
+17:25:42 BattlEye Server: (Direct) Dimitri Levinsky: MOVE OR ILL DRIVE 
+17:25:44 Harry[APD] uses modified data file
+17:25:44 BattlEye Server: Player #15 Harry[APD] (92.12.173.63:2304) connected
+17:25:44 Player Harry[APD] connecting.
+17:25:46 BattlEye Server: Player #15 Harry[APD] - GUID: aac1d4c21cea94d19832ce7c2e21ae64 (unverified)
+17:25:46 BattlEye Server: (Direct) Dimitri Levinsky: LOL
+17:25:46 Player Harry[APD] connected (id=76561198120604664).
+17:25:46 BattlEye Server: Verified GUID (aac1d4c21cea94d19832ce7c2e21ae64) of player #15 Harry[APD]
+17:25:48 BattlEye Server: (Direct) Dimitri Levinsky: XD
+17:25:54 Player Ofc.Vegas [APD] disconnected.
+17:25:54 BattlEye Server: Player #5 Ofc.Vegas [APD] disconnected
+17:25:56 Player Johhny Montana kicked off by BattlEye: Client not responding
+17:25:56 Player Johhny Montana disconnected.
+17:26:00 Player G.A.S.U lead Aaron disconnected.
+17:26:00 BattlEye Server: Player #11 G.A.S.U lead Aaron disconnected
+17:26:01 BattlEye Server: (Direct) Dimitri Levinsky: I am going to drive
+17:26:05 BattlEye Server: (Direct) Dimitri Levinsky: you maybe die
+17:26:07 Zim Kwamie uses modified data file
+17:26:07 BattlEye Server: Player #5 Zim Kwamie (37.142.193.115:2304) connected
+17:26:07 Player Zim Kwamie connecting.
+17:26:13 Player Zim Kwamie disconnected.
+17:26:13 BattlEye Server: Player #5 Zim Kwamie disconnected
+17:26:13 Officer Michael (APD) uses modified data file
+17:26:13 BattlEye Server: Player #5 Officer Michael (APD) (95.149.162.210:2304) connected
+17:26:13 Player Officer Michael (APD) connecting.
+17:26:14 Player Toi Campbell disconnected.
+17:26:14 BattlEye Server: Player #18 Toi Campbell disconnected
+17:26:15 BattlEye Server: Player #5 Officer Michael (APD) - GUID: bc1d59d4e453e465a5b0fbc89b2b81fa (unverified)
+17:26:15 Player Officer Michael (APD) connected (id=76561198111627001).
+17:26:15 BattlEye Server: Verified GUID (bc1d59d4e453e465a5b0fbc89b2b81fa) of player #5 Officer Michael (APD)
+17:26:36 Player Officer Michael (APD) disconnected.
+17:26:36 BattlEye Server: Player #5 Officer Michael (APD) disconnected
+17:26:46 Officer Michael (APD) uses modified data file
+17:26:46 BattlEye Server: Player #5 Officer Michael (APD) (95.149.162.210:2304) connected
+17:26:46 Player Officer Michael (APD) connecting.
+17:26:47 BattlEye Server: Player #5 Officer Michael (APD) - GUID: bc1d59d4e453e465a5b0fbc89b2b81fa (unverified)
+17:26:47 Toi Campbell uses modified data file
+17:26:47 BattlEye Server: Player #9 Toi Campbell (79.177.30.186:2304) connected
+17:26:47 Player Toi Campbell connecting.
+17:26:48 Player Officer Michael (APD) connected (id=76561198111627001).
+17:26:48 BattlEye Server: Verified GUID (bc1d59d4e453e465a5b0fbc89b2b81fa) of player #5 Officer Michael (APD)
+17:26:49 Cpl.Vegas [APD] uses modified data file
+17:26:49 BattlEye Server: Player #11 Cpl.Vegas [APD] (109.247.41.5:2304) connected
+17:26:49 Player Cpl.Vegas [APD] connecting.
+17:26:49 BattlEye Server: Player #9 Toi Campbell - GUID: 4c9566f2c0bf015524d145f724d2c8ff (unverified)
+17:26:49 Player Toi Campbell connected (id=76561198083964374).
+17:26:49 BattlEye Server: Verified GUID (4c9566f2c0bf015524d145f724d2c8ff) of player #9 Toi Campbell
+17:26:50 BattlEye Server: Player #11 Cpl.Vegas [APD] - GUID: 99df2c9ae4bdd067ad1b5876e1b4707f (unverified)
+17:26:50 Player Cpl.Vegas [APD] connected (id=76561198103313850).
+17:26:50 BattlEye Server: Verified GUID (99df2c9ae4bdd067ad1b5876e1b4707f) of player #11 Cpl.Vegas [APD]
+17:27:00 BattlEye Server: (Vehicle) [O.C] NeoN: Ben, Why do slow? :3
+17:27:03 Zim Kwamie uses modified data file
+17:27:04 BattlEye Server: Player #18 Zim Kwamie (37.142.193.115:2304) connected
+17:27:04 Player Zim Kwamie connecting.
+17:27:06 BattlEye Server: Player #18 Zim Kwamie - GUID: 905a8b104412d4082a28ea4f77b81123 (unverified)
+17:27:13 Player Zim Kwamie connected (id=76561198059509300).
+17:27:13 BattlEye Server: Verified GUID (905a8b104412d4082a28ea4f77b81123) of player #18 Zim Kwamie
+17:27:22 Johhny Montana uses modified data file
+17:27:23 BattlEye Server: Player #19 Johhny Montana (86.13.167.157:2304) connected
+17:27:23 Player Johhny Montana connecting.
+17:27:24 BattlEye Server: Player #19 Johhny Montana - GUID: ce20f159dd4c87c2fd77fcf73e58db4e (unverified)
+17:27:24 Player Johhny Montana connected (id=76561198174963435).
+17:27:24 BattlEye Server: Verified GUID (ce20f159dd4c87c2fd77fcf73e58db4e) of player #19 Johhny Montana
+17:27:46 Player Johhny Montana disconnected.
+17:27:46 BattlEye Server: Player #19 Johhny Montana disconnected
+17:27:50 Johhny Montana uses modified data file
+17:27:50 BattlEye Server: Player #19 Johhny Montana (86.13.167.157:2304) connected
+17:27:50 Player Johhny Montana connecting.
+17:27:52 BattlEye Server: Player #19 Johhny Montana - GUID: ce20f159dd4c87c2fd77fcf73e58db4e (unverified)
+17:27:52 Player Johhny Montana connected (id=76561198174963435).
+17:27:52 BattlEye Server: Verified GUID (ce20f159dd4c87c2fd77fcf73e58db4e) of player #19 Johhny Montana
+17:30:00 Player Officer Michael (APD) disconnected.
+17:30:00 BattlEye Server: Player #5 Officer Michael (APD) disconnected
+17:31:52 Officer Michael (APD) uses modified data file
+17:31:52 BattlEye Server: Player #5 Officer Michael (APD) (95.149.162.210:2304) connected
+17:31:52 Player Officer Michael (APD) connecting.
+17:31:53 BattlEye Server: Player #5 Officer Michael (APD) - GUID: bc1d59d4e453e465a5b0fbc89b2b81fa (unverified)
+17:31:53 Player Officer Michael (APD) connected (id=76561198111627001).
+17:31:53 BattlEye Server: Verified GUID (bc1d59d4e453e465a5b0fbc89b2b81fa) of player #5 Officer Michael (APD)
+17:33:16 Player S.W.A.T Ash disconnected.
+17:33:16 BattlEye Server: Player #4 S.W.A.T Ash disconnected
+17:33:41 BattlEye Server: (Direct) Zim Kwamie: The Royal Gambino Family
+17:33:47 Cmdr. TheBane [APD] uses modified data file
+17:33:47 BattlEye Server: Player #4 Cmdr. TheBane [APD] (94.12.49.225:2304) connected
+17:33:47 Player Cmdr. TheBane [APD] connecting.
+17:33:48 BattlEye Server: Player #4 Cmdr. TheBane [APD] - GUID: fc77c72f117ac16a11848e2edacc3097 (unverified)
+17:33:48 Player Cmdr. TheBane [APD] connected (id=76561198090564554).
+17:33:48 BattlEye Server: Verified GUID (fc77c72f117ac16a11848e2edacc3097) of player #4 Cmdr. TheBane [APD]
+17:34:51 Bae uses modified data file
+17:34:51 BattlEye Server: Player #20 Bae (86.166.77.135:2304) connected
+17:34:51 Player Bae connecting.
+17:34:53 BattlEye Server: Player #20 Bae - GUID: 801e6fbe1bb58ef5be93033abe78df98 (unverified)
+17:34:53 Player Bae connected (id=76561198202648795).
+17:34:53 BattlEye Server: Verified GUID (801e6fbe1bb58ef5be93033abe78df98) of player #20 Bae
+17:35:52 Player Cmdr. TheBane [APD] disconnected.
+17:35:52 BattlEye Server: Player #4 Cmdr. TheBane [APD] disconnected
+17:35:54 Player Dimitri Levinsky disconnected.
+17:35:54 BattlEye Server: Player #8 Dimitri Levinsky disconnected
+17:35:56 G.A.S.U lead Aaron uses modified data file
+17:35:56 BattlEye Server: Player #4 G.A.S.U lead Aaron (78.16.125.129:2304) connected
+17:35:56 Player G.A.S.U lead Aaron connecting.
+17:35:57 BattlEye Server: Player #4 G.A.S.U lead Aaron - GUID: 9dc9964702a20c5a4441b447770a4852 (unverified)
+17:35:58 Player G.A.S.U lead Aaron connected (id=76561198061886476).
+17:35:58 BattlEye Server: Verified GUID (9dc9964702a20c5a4441b447770a4852) of player #4 G.A.S.U lead Aaron
+17:36:02 Whistle uses modified data file
+17:36:02 BattlEye Server: Player #8 Whistle (94.2.160.228:2304) connected
+17:36:02 Player Whistle connecting.
+17:36:04 BattlEye Server: Player #8 Whistle - GUID: 868725422d264c104cd4d2b5c2feebff (unverified)
+17:36:04 Player Whistle connected (id=76561198115565745).
+17:36:04 BattlEye Server: Verified GUID (868725422d264c104cd4d2b5c2feebff) of player #8 Whistle
+17:36:06 Player Johhny Montana is losing connection
+17:36:12 Raven uses modified data file
+17:36:12 BattlEye Server: Player #21 Raven (178.116.44.215:2304) connected
+17:36:12 Player Raven connecting.
+17:36:14 BattlEye Server: Player #21 Raven - GUID: 3312ec18526ed0fb421d76b1a4338e1d (unverified)
+17:36:14 Player Raven connected (id=76561198153934472).
+17:36:14 BattlEye Server: Verified GUID (3312ec18526ed0fb421d76b1a4338e1d) of player #21 Raven
+17:36:28 Player Johhny Montana kicked off by BattlEye: Client not responding
+17:36:28 Player Johhny Montana disconnected.
+17:36:32 [R.M] Dimitri Levinsky uses modified data file
+17:36:32 BattlEye Server: Player #19 [R.M] Dimitri Levinsky (94.212.22.21:2304) connected
+17:36:33 Player [R.M] Dimitri Levinsky connecting.
+17:36:34 Player [O.C] NeoN disconnected.
+17:36:34 BattlEye Server: Player #10 [O.C] NeoN disconnected
+17:36:34 BattlEye Server: Player #19 [R.M] Dimitri Levinsky - GUID: f9ae7a7a989740e7eceb82f494a429b2 (unverified)
+17:36:34 Player [R.M] Dimitri Levinsky connected (id=76561198008324877).
+17:36:34 BattlEye Server: Verified GUID (f9ae7a7a989740e7eceb82f494a429b2) of player #19 [R.M] Dimitri Levinsky
+17:37:33 Cmdr. TheBane [APD] uses modified data file
+17:37:33 BattlEye Server: Player #10 Cmdr. TheBane [APD] (94.12.49.225:2304) connected
+17:37:33 Player Cmdr. TheBane [APD] connecting.
+17:37:34 BattlEye Server: Player #10 Cmdr. TheBane [APD] - GUID: fc77c72f117ac16a11848e2edacc3097 (unverified)
+17:37:35 Player Cmdr. TheBane [APD] connected (id=76561198090564554).
+17:37:35 BattlEye Server: Verified GUID (fc77c72f117ac16a11848e2edacc3097) of player #10 Cmdr. TheBane [APD]
+17:38:23 Player Cmdr. TheBane [APD] disconnected.
+17:38:23 BattlEye Server: Player #10 Cmdr. TheBane [APD] disconnected
+17:38:29 Player [R.M] Dimitri Levinsky disconnected.
+17:38:29 BattlEye Server: Player #19 [R.M] Dimitri Levinsky disconnected
+17:38:41 Player ben disconnected.
+17:38:41 BattlEye Server: Player #3 ben disconnected
+17:39:12 Player S.W.A.T  DeadlyFox disconnected.
+17:39:12 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+17:39:22 S.W.A.T  DeadlyFox uses modified data file
+17:39:22 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+17:39:22 Player S.W.A.T  DeadlyFox connecting.
+17:39:23 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+17:39:24 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+17:39:24 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+17:39:37 [TL] Proxy uses modified data file
+17:39:37 BattlEye Server: Player #3 [TL] Proxy (2.120.234.137:2304) connected
+17:39:38 Player [TL] Proxy connecting.
+17:39:39 BattlEye Server: Player #3 [TL] Proxy - GUID: 07bb8810bd8361c53608c9490093ac89 (unverified)
+17:39:39 Player [TL] Proxy connected (id=76561198090234633).
+17:39:39 BattlEye Server: Verified GUID (07bb8810bd8361c53608c9490093ac89) of player #3 [TL] Proxy
+17:40:22 Cmdr. TheBane [APD] uses modified data file
+17:40:22 BattlEye Server: Player #10 Cmdr. TheBane [APD] (94.12.49.225:2304) connected
+17:40:22 Player Cmdr. TheBane [APD] connecting.
+17:40:23 BattlEye Server: Player #10 Cmdr. TheBane [APD] - GUID: fc77c72f117ac16a11848e2edacc3097 (unverified)
+17:40:23 Player Cmdr. TheBane [APD] connected (id=76561198090564554).
+17:40:24 BattlEye Server: Verified GUID (fc77c72f117ac16a11848e2edacc3097) of player #10 Cmdr. TheBane [APD]
+17:41:17 S.W.A.T Ash uses modified data file
+17:41:17 BattlEye Server: Player #19 S.W.A.T Ash (86.163.62.16:2304) connected
+17:41:17 Player S.W.A.T Ash connecting.
+17:41:18 BattlEye Server: Player #19 S.W.A.T Ash - GUID: 75e60c9e61267a0325b6d13c8c243371 (unverified)
+17:41:19 Player S.W.A.T Ash connected (id=76561198168958757).
+17:41:19 BattlEye Server: Verified GUID (75e60c9e61267a0325b6d13c8c243371) of player #19 S.W.A.T Ash
+17:41:23 BattlEye Server: (Unknown) [TL] Proxy: 1 mil start
+17:41:24 BattlEye Server: (Unknown) [TL] Proxy: wow
+17:41:37 BattlEye Server: (Unknown) Whistle: wtf
+17:42:17 BattlEye Server: (Unknown) [TL] Proxy: not the same
+17:42:19 BattlEye Server: (Unknown) Toi Campbell: Proxy is that you ?
+17:42:29 Player Cmdr. TheBane [APD] disconnected.
+17:42:29 BattlEye Server: Player #10 Cmdr. TheBane [APD] disconnected
+17:42:32 BattlEye Server: (Unknown) [TL] Proxy: yeeeeeeeeeeeeeeeeh buddy
+17:42:35 BattlEye Server: (Unknown) [TL] Proxy: ;)
+17:42:39 BattlEye Server: (Unknown) [TL] Proxy: AAD leader
+17:42:44 BattlEye Server: (Unknown) Toi Campbell: Been a long time :D
+17:42:50 BattlEye Server: (Unknown) [TL] Proxy: this andrew server?
+17:42:54 BattlEye Server: (Unknown) Toi Campbell: Yup
+17:43:03 BattlEye Server: (Unknown) Toi Campbell: hopin teamspeak maybe ?
+17:43:06 BattlEye Server: (Unknown) [TL] Proxy: bashed it in for crack been on grand theft altis for few month
+17:43:13 BattlEye Server: (Unknown) [TL] Proxy: was the info
+17:43:15 BattlEye Server: (Unknown) [TL] Proxy: om map
+17:43:27 BattlEye Server: (Unknown) [TL] Proxy: ?
+17:43:35 BattlEye Server: (Unknown) Toi Campbell: idk
+17:43:43 BattlEye Server: (Unknown) Toi Campbell: comein teamspeak mate
+17:43:43 BattlEye Server: (Unknown) Prawn Kalashnikov: We need a pickup from Pyrgos HQ - SWAT
+17:43:46 BattlEye Server: (Unknown) [TL] Proxy: send me msg
+17:43:52 BattlEye Server: (Unknown) G.A.S.U lead Aaron: coyp
+17:43:56 BattlEye Server: (Unknown) Toi Campbell: Hold on getting the ip for ya
+17:43:58 BattlEye Server: (Unknown) Hammerite: map dev hasn't done it yet
+17:44:02 BattlEye Server: (Unknown) G.A.S.U lead Aaron: copy
+17:44:14 BattlEye Server: (Unknown) Toi Campbell: 85.236.100.85:20627
+17:44:16 BattlEye Server: (Unknown) G.A.S.U lead Aaron: how many
+17:44:26 BattlEye Server: (Unknown) Prawn Kalashnikov: 3
+17:44:39 BattlEye Server: (Unknown) Toi Campbell: Ip in on the map also right side
+17:44:44 BattlEye Server: (Unknown) Andrew: 9 Capture points 4 Citys and towns can now be capture by the rebesl
+17:44:46 BattlEye Server: (Unknown) Toi Campbell: green mark
+17:44:49 BattlEye Server: (Unknown) [TL] Proxy: sweet ill pop on
+17:45:00 BattlEye Server: (Unknown) Toi Campbell: poke me when ur here
+17:45:03 BattlEye Server: (Unknown) Andrew: More to be added
+17:45:14 BattlEye Server: (Unknown) Toi Campbell: ANDREW <3
+17:45:37 BattlEye Server: (Unknown) Officer Mofonik [APD]: Requestin air support in Pygors ORange suv with 2 possible armed men essacped police please resoond when availible.
+17:45:54 BattlEye Server: (Unknown) Prawn Kalashnikov: 10-4
+17:46:02 BattlEye Server: (Unknown) Prawn Kalashnikov: enroute
+17:46:17 BattlEye Server: (Unknown) Officer Mofonik [APD]: Roger that.
+17:46:23 Player Zim Kwamie is losing connection
+17:46:56 BattlEye Server: (Unknown) Officer Mofonik [APD]: Cpl Vegas is in pusuit.
+17:47:07 Player Zim Kwamie kicked off by BattlEye: Ping too high (2953)
+17:47:07 Player Zim Kwamie disconnected.
+17:48:04 BattlEye Server: (Unknown) [TL] Proxy: ffs dont work
+17:48:12 BattlEye Server: (Unknown) [TL] Proxy: add me on steam and send it pal
+17:48:23 BattlEye Server: (Unknown) Toi Campbell: Whats your steam id ?
+17:48:50 BattlEye Server: (Vehicle) [7TH] Mr Bunnie: scott you drie
+17:49:09 Player [7TH] Mr Bunnie disconnected.
+17:49:09 BattlEye Server: Player #7 [7TH] Mr Bunnie disconnected
+17:49:12 BattlEye Server: (Unknown) Toi Campbell: accept meh
+17:49:18 BattlEye Server: (Unknown) Andrew: \
+17:49:25 BattlEye Server: (Unknown) Whistle: COMBAT LOG LOL
+17:49:29 BattlEye Server: (Unknown) Whistle: ANDREW NEED TO TALK TO YOU
+17:49:54 BattlEye Server: (Unknown) [TL] Proxy: bash it in lad
+17:49:56 BattlEye Server: (Unknown) Toi Campbell: If its for a report u can talk to me and ill let him know when he wont be that bussy
+17:50:17 Owner uses modified data file
+17:50:17 BattlEye Server: Player #7 Owner (70.72.80.50:2304) connected
+17:50:17 Player Owner connecting.
+17:50:19 BattlEye Server: (Unknown) [TL] Proxy: ta
+17:50:19 BattlEye Server: Player #7 Owner - GUID: c6ff0dddf7cafd680e803b3801e7633e (unverified)
+17:50:20 Player Owner connected (id=76561198122503425).
+17:50:20 BattlEye Server: Verified GUID (c6ff0dddf7cafd680e803b3801e7633e) of player #7 Owner
+17:50:22 Player Owner disconnected.
+17:50:22 BattlEye Server: Player #7 Owner disconnected
+17:51:17 BattlEye Server: (Vehicle) Bae: //I really gotta go, be quick please
+17:51:22 BattlEye Server: (Vehicle) Officer Mofonik [APD]: willd o
+17:54:01 BattlEye Server: (Direct) Bae: //i GOTTA GO MATE
+17:54:08 BattlEye Server: (Direct) Bae: //i HAVE TO ATTEND SOMETHING IRL
+17:54:25 Cmdr. TheBane [APD] uses modified data file
+17:54:25 BattlEye Server: Player #7 Cmdr. TheBane [APD] (94.12.49.225:2304) connected
+17:54:25 Player Cmdr. TheBane [APD] connecting.
+17:54:26 BattlEye Server: Player #7 Cmdr. TheBane [APD] - GUID: fc77c72f117ac16a11848e2edacc3097 (unverified)
+17:54:27 Player Cmdr. TheBane [APD] connected (id=76561198090564554).
+17:54:27 BattlEye Server: Verified GUID (fc77c72f117ac16a11848e2edacc3097) of player #7 Cmdr. TheBane [APD]
+17:54:44 Player Bae disconnected.
+17:54:44 BattlEye Server: Player #20 Bae disconnected
+17:55:03 Ripper [R.G.C] uses modified data file
+17:55:03 BattlEye Server: Player #10 Ripper [R.G.C] (82.36.137.123:2304) connected
+17:55:03 Player Ripper [R.G.C] connecting.
+17:55:05 BattlEye Server: Player #10 Ripper [R.G.C] - GUID: 7d61dccc65342c0d4136833f86d2afe3 (unverified)
+17:55:05 Player Ripper [R.G.C] connected (id=76561198163948141).
+17:55:05 BattlEye Server: Verified GUID (7d61dccc65342c0d4136833f86d2afe3) of player #10 Ripper [R.G.C]
+17:56:57 BattlEye Server: (Unknown) Andrew: Need Guys to help Capture Athria dont tell the Police
+17:57:08 BattlEye Server: (Unknown) Whistle: Im telling the police
+17:57:26 BattlEye Server: (Unknown) Andrew: I alwas knew u were a rat
+17:57:37 BattlEye Server: (Unknown) Whistle: good
+17:57:42 BattlEye Server: (Unknown) Whistle: ill shit on your forhead
+17:57:42 BattlEye Server: (Unknown) [TL] Proxy: where the heli licence
+17:57:43 BattlEye Server: (Unknown) Toi Campbell: andrew
+17:57:50 BattlEye Server: (Unknown) [TL] Proxy: /face palm
+17:57:51 BattlEye Server: (Unknown) Toi Campbell: where can we buy heli licenses
+17:59:06 BattlEye Server: (Vehicle) Whistle: hemmerite leave the gang your in
+17:59:32 Player S.W.A.T  DeadlyFox disconnected.
+17:59:32 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+18:00:43 S.W.A.T  DeadlyFox uses modified data file
+18:00:43 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+18:00:43 Player S.W.A.T  DeadlyFox connecting.
+18:00:44 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+18:00:45 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+18:00:45 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+18:00:58 Player Harry[APD] disconnected.
+18:00:58 BattlEye Server: Player #15 Harry[APD] disconnected
+18:00:59 BattlEye Server: (Direct) Lt. Wiiz [APD): hello comander
+18:03:21 BattlEye Server: (Unknown) [TL] Proxy: andrew
+18:03:26 BattlEye Server: (Group) Andrew: ..
+18:03:28 BattlEye Server: (Unknown) Andrew: YES
+18:03:34 BattlEye Server: (Unknown) [TL] Proxy: where the heli lience to by
+18:03:37 BattlEye Server: (Unknown) [TL] Proxy: not at the dv
+18:03:43 BattlEye Server: (Unknown) [TL] Proxy: buy
+18:03:58 Player Ripper [R.G.C] disconnected.
+18:03:58 BattlEye Server: Player #10 Ripper [R.G.C] disconnected
+18:04:02 BattlEye Server: (Unknown) Andrew: Mite be broke ill have a look
+18:04:22 BattlEye Server: (Unknown) Andrew: get to athria were taken it
+18:04:31 BattlEye Server: (Unknown) Hammerite: Join Us
+18:04:49 BattlEye Server: (Unknown) [TL] Proxy: got jack shit need heli then fly for guns
+18:04:56 BattlEye Server: (Unknown) Hammerite: Pyrgos is ours!!
+18:05:35 BattlEye Server: (Unknown) [TL] Proxy: someone gimmie a lift to rebal then
+18:05:39 Player Lt. Wiiz [APD) is losing connection
+18:05:44 BattlEye Server: (Unknown) [TL] Proxy: fk driving that
+18:06:02 Player Lt. Wiiz [APD) disconnected.
+18:06:02 BattlEye Server: Player #14 Lt. Wiiz [APD) disconnected
+18:06:12 Lt. Wiiz [APD) uses modified data file
+18:06:12 BattlEye Server: Player #10 Lt. Wiiz [APD) (213.67.36.19:2304) connected
+18:06:12 Player Lt. Wiiz [APD) connecting.
+18:06:14 BattlEye Server: Player #10 Lt. Wiiz [APD) - GUID: 0db23ede23d049071abcd8abb2cccbb7 (unverified)
+18:06:15 Player Lt. Wiiz [APD) connected (id=76561198080131948).
+18:06:15 BattlEye Server: Verified GUID (0db23ede23d049071abcd8abb2cccbb7) of player #10 Lt. Wiiz [APD)
+18:07:58 BattlEye Server: (Unknown) Whistle: ill invite anyone whos joining to the gang
+18:08:51 BattlEye Server: (Vehicle) Lt. Wiiz [APD): thank you cmdr
+18:10:22 BattlEye Server: (Unknown) [TL] Proxy: someone give heli
+18:10:32 BattlEye Server: (Unknown) [TL] Proxy: 100k for the ride come on lets on
+18:11:11 Zim Kwamie uses modified data file
+18:11:11 BattlEye Server: Player #14 Zim Kwamie (37.142.193.115:2304) connected
+18:11:11 Player Zim Kwamie connecting.
+18:11:12 BattlEye Server: Player #14 Zim Kwamie - GUID: 905a8b104412d4082a28ea4f77b81123 (unverified)
+18:11:13 Player Zim Kwamie connected (id=76561198059509300).
+18:11:13 BattlEye Server: Verified GUID (905a8b104412d4082a28ea4f77b81123) of player #14 Zim Kwamie
+18:11:34 BattlEye Server: (Group) S.W.A.T  DeadlyFox: veags make ur thing stop
+18:12:22 Player [7th] Cameron disconnected.
+18:12:22 BattlEye Server: Player #6 [7th] Cameron disconnected
+18:12:47 Player [7th] ScoTTyBoY disconnected.
+18:12:47 BattlEye Server: Player #17 [7th] ScoTTyBoY disconnected
+18:15:25 [PMC] Bart uses modified data file
+18:15:25 BattlEye Server: Player #6 [PMC] Bart (213.10.191.97:51365) connected
+18:15:25 Player [PMC] Bart connecting.
+18:15:27 BattlEye Server: Player #6 [PMC] Bart - GUID: 9683de7f44a0c34b10a66a62757bdcb2 (unverified)
+18:15:27 Player [PMC] Bart connected (id=76561198027315653).
+18:15:27 BattlEye Server: Verified GUID (9683de7f44a0c34b10a66a62757bdcb2) of player #6 [PMC] Bart
+18:18:26 Player Cmdr. TheBane [APD] disconnected.
+18:18:26 BattlEye Server: Player #7 Cmdr. TheBane [APD] disconnected
+18:19:08 Colonel Fortay uses modified data file
+18:19:08 BattlEye Server: Player #7 Colonel Fortay (92.238.254.6:2304) connected
+18:19:08 Player Colonel Fortay connecting.
+18:19:27 BattlEye Server: Player #7 Colonel Fortay - GUID: ee3ef0cf3893a74050214d1be51b2689 (unverified)
+18:19:28 Player Colonel Fortay connected (id=76561198083545551).
+18:19:28 BattlEye Server: Verified GUID (ee3ef0cf3893a74050214d1be51b2689) of player #7 Colonel Fortay
+18:19:40 [BH] Hurricane uses modified data file
+18:19:40 BattlEye Server: Player #15 [BH] Hurricane (80.4.252.72:2304) connected
+18:19:40 Player [BH] Hurricane connecting.
+18:19:42 BattlEye Server: Player #15 [BH] Hurricane - GUID: e455f41578fdeca35bda4a2fb38bab0f (unverified)
+18:19:43 Player [BH] Hurricane connected (id=76561198046368329).
+18:19:43 BattlEye Server: Verified GUID (e455f41578fdeca35bda4a2fb38bab0f) of player #15 [BH] Hurricane
+18:20:41 Player Whistle is losing connection
+18:20:44 Player Colonel Fortay disconnected.
+18:20:44 BattlEye Server: Player #7 Colonel Fortay disconnected
+18:21:03 BattlEye Server: (Unknown) Officer Mofonik [APD]: Andy mate
+18:21:05 Player Whistle kicked off by BattlEye: Client not responding
+18:21:05 Player Whistle disconnected.
+18:21:17 BattlEye Server: (Unknown) Officer Mofonik [APD]: Will change name soon, but did you get my ofroad of about 6 guns?
+18:21:18 Lt. Colonel Fortay uses modified data file
+18:21:18 BattlEye Server: Player #7 Lt. Colonel Fortay (92.238.254.6:2304) connected
+18:21:18 Player Lt. Colonel Fortay connecting.
+18:21:20 BattlEye Server: Player #7 Lt. Colonel Fortay - GUID: ee3ef0cf3893a74050214d1be51b2689 (unverified)
+18:21:20 Player Lt. Colonel Fortay connected (id=76561198083545551).
+18:21:20 BattlEye Server: Verified GUID (ee3ef0cf3893a74050214d1be51b2689) of player #7 Lt. Colonel Fortay
+18:21:34 BattlEye Server: (Unknown) Andrew: i send u payment
+18:21:42 BattlEye Server: (Unknown) Officer Mofonik [APD]: Alright cheers
+18:21:55 ben uses modified data file
+18:21:55 BattlEye Server: Player #8 ben (77.97.69.83:2304) connected
+18:21:55 Player ben connecting.
+18:21:57 BattlEye Server: Player #8 ben - GUID: 6f3529d1b11122daa83fcb7aa2210a8e (unverified)
+18:21:57 Player ben connected (id=76561198054519084).
+18:21:57 BattlEye Server: Verified GUID (6f3529d1b11122daa83fcb7aa2210a8e) of player #8 ben
+18:22:14 Cmdr. TheBane [APD] uses modified data file
+18:22:14 BattlEye Server: Player #17 Cmdr. TheBane [APD] (94.12.49.225:2304) connected
+18:22:14 Player Cmdr. TheBane [APD] connecting.
+18:22:15 BattlEye Server: Player #17 Cmdr. TheBane [APD] - GUID: fc77c72f117ac16a11848e2edacc3097 (unverified)
+18:22:16 Player Cmdr. TheBane [APD] connected (id=76561198090564554).
+18:22:16 BattlEye Server: Verified GUID (fc77c72f117ac16a11848e2edacc3097) of player #17 Cmdr. TheBane [APD]
+18:22:28 Player ben disconnected.
+18:22:28 BattlEye Server: Player #8 ben disconnected
+18:22:57 BattlEye Server: (Unknown) [TL] Proxy: rebal doesnt work
+18:23:15 Player Lt. Colonel Fortay kicked off by BattlEye: Client not responding
+18:23:15 Player Lt. Colonel Fortay disconnected.
+18:23:22 BattlEye Server: (Unknown) Officer Mofonik [APD]: There are still bugs.
+18:23:40 BattlEye Server: (Unknown) [TL] Proxy: yeh not playable thou, ill be back soon thou:)
+18:23:44 BattlEye Server: (Unknown) [BH] Hurricane: whats the ts3 ip
+18:23:49 BattlEye Server: (Unknown) Officer Mofonik [APD]: It is playable...
+18:23:55 BattlEye Server: (Unknown) Officer Mofonik [APD]: You don't have to murder everyone
+18:24:00 BattlEye Server: (Unknown) [BH] Hurricane: tell griffin to send it to jack on steam
+18:24:11 BattlEye Server: (Unknown) [BH] Hurricane: and tell him hes my little sugarplum
+18:24:15 BattlEye Server: (Unknown) Officer Mofonik [APD]: 85.236.100.85:20627  
+18:24:19 BattlEye Server: (Unknown) Officer Mofonik [APD]: is ts ip
+18:24:34 Officer B Sewell[APD] uses modified data file
+18:24:34 BattlEye Server: Player #7 Officer B Sewell[APD] (77.97.69.83:2304) connected
+18:24:34 Player Officer B Sewell[APD] connecting.
+18:24:35 Cmdr. TikTak [APD] uses modified data file
+18:24:35 BattlEye Server: Player #8 Cmdr. TikTak [APD] (89.11.242.39:2304) connected
+18:24:35 Player Cmdr. TikTak [APD] connecting.
+18:24:36 BattlEye Server: Player #7 Officer B Sewell[APD] - GUID: 6f3529d1b11122daa83fcb7aa2210a8e (unverified)
+18:24:36 Player Officer B Sewell[APD] connected (id=76561198054519084).
+18:24:36 BattlEye Server: Verified GUID (6f3529d1b11122daa83fcb7aa2210a8e) of player #7 Officer B Sewell[APD]
+18:24:37 BattlEye Server: Player #8 Cmdr. TikTak [APD] - GUID: 361078412414d9a8d08c371c361172b3 (unverified)
+18:24:37 Player Cmdr. TikTak [APD] connected (id=76561198068283211).
+18:24:37 BattlEye Server: Verified GUID (361078412414d9a8d08c371c361172b3) of player #8 Cmdr. TikTak [APD]
+18:24:44 Lt. Colonel Fortay uses modified data file
+18:24:44 BattlEye Server: Player #18 Lt. Colonel Fortay (92.238.254.6:2304) connected
+18:24:44 Player Lt. Colonel Fortay connecting.
+18:24:54 BattlEye Server: Player #18 Lt. Colonel Fortay - GUID: ee3ef0cf3893a74050214d1be51b2689 (unverified)
+18:24:54 Player Lt. Colonel Fortay connected (id=76561198083545551).
+18:24:54 BattlEye Server: Verified GUID (ee3ef0cf3893a74050214d1be51b2689) of player #18 Lt. Colonel Fortay
+18:25:21 Player Cmdr. TheBane [APD] disconnected.
+18:25:21 BattlEye Server: Player #17 Cmdr. TheBane [APD] disconnected
+18:26:04 Player [TL] Proxy disconnected.
+18:26:04 BattlEye Server: Player #3 [TL] Proxy disconnected
+18:27:38 Player S.W.A.T  DeadlyFox disconnected.
+18:27:38 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+18:28:39 S.W.A.T  DeadlyFox uses modified data file
+18:28:39 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+18:28:39 Player S.W.A.T  DeadlyFox connecting.
+18:28:40 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+18:28:40 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+18:28:41 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+18:28:50 Player S.W.A.T  DeadlyFox disconnected.
+18:28:50 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+18:29:29 Player Officer B Sewell[APD] disconnected.
+18:29:29 BattlEye Server: Player #7 Officer B Sewell[APD] disconnected
+18:29:35 S.W.A.T  DeadlyFox uses modified data file
+18:29:35 BattlEye Server: Player #1 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+18:29:35 Player S.W.A.T  DeadlyFox connecting.
+18:29:37 BattlEye Server: Player #1 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+18:29:37 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+18:29:37 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #1 S.W.A.T  DeadlyFox
+18:30:02 BattlEye Server: RCon admin #1 (86.2.2.179:60087) logged in
+18:30:21 Ben uses modified data file
+18:30:21 BattlEye Server: Player #3 Ben (77.97.69.83:2304) connected
+18:30:21 Player Ben connecting.
+18:30:22 BattlEye Server: Player #3 Ben - GUID: 6f3529d1b11122daa83fcb7aa2210a8e (unverified)
+18:30:23 Player Ben connected (id=76561198054519084).
+18:30:23 BattlEye Server: Verified GUID (6f3529d1b11122daa83fcb7aa2210a8e) of player #3 Ben
+18:30:25 Player Officer Griffin [APD] disconnected.
+18:30:25 BattlEye Server: Player #13 Officer Griffin [APD] disconnected
+18:31:02 Griffin uses modified data file
+18:31:02 BattlEye Server: Player #7 Griffin (81.96.215.215:2304) connected
+18:31:02 Player Griffin connecting.
+18:31:03 Player Lt. Colonel Fortay disconnected.
+18:31:03 BattlEye Server: Player #18 Lt. Colonel Fortay disconnected
+18:31:04 BattlEye Server: Player #7 Griffin - GUID: e83a53e107625a901deec2d243ac524a (unverified)
+18:31:04 Player Griffin connected (id=76561198113211672).
+18:31:04 BattlEye Server: Verified GUID (e83a53e107625a901deec2d243ac524a) of player #7 Griffin
+18:32:25 BattlEye Server: RCon admin #1: (Global) [Hammerite] SERVER RESTART IN 5 MINUTES
+18:33:19 Player [BH] Hurricane disconnected.
+18:33:19 BattlEye Server: Player #15 [BH] Hurricane disconnected
+18:33:19 Player S.W.A.T  DeadlyFox disconnected.
+18:33:19 BattlEye Server: Player #1 S.W.A.T  DeadlyFox disconnected
+18:33:24 BattlEye Server: (Direct) Officer Mofonik [APD]: Andy mate, does the payment thing count after restart? or does it not
+18:33:46 Ozzy Sheen uses modified data file
+18:33:46 BattlEye Server: Player #1 Ozzy Sheen (82.7.156.20:2304) connected
+18:33:46 Player Ozzy Sheen connecting.
+18:33:48 BattlEye Server: Player #1 Ozzy Sheen - GUID: 264b4c7e2474bc6e925150b67ac69d40 (unverified)
+18:33:48 Player Ozzy Sheen connected (id=76561198136421775).
+18:33:48 BattlEye Server: Verified GUID (264b4c7e2474bc6e925150b67ac69d40) of player #1 Ozzy Sheen
+18:33:51 Johhny Montana uses modified data file
+18:33:51 BattlEye Server: Player #13 Johhny Montana (86.13.167.157:2304) connected
+18:33:52 Player Johhny Montana connecting.
+18:33:53 BattlEye Server: Player #13 Johhny Montana - GUID: ce20f159dd4c87c2fd77fcf73e58db4e (unverified)
+18:33:53 Player Johhny Montana connected (id=76561198174963435).
+18:33:53 BattlEye Server: Verified GUID (ce20f159dd4c87c2fd77fcf73e58db4e) of player #13 Johhny Montana
+18:33:56 Player Ben disconnected.
+18:33:56 BattlEye Server: Player #3 Ben disconnected
+18:34:18 Player Ozzy Sheen kicked off by BattlEye: Client not responding
+18:34:18 Player Ozzy Sheen disconnected.
+18:34:28 Harry[APD] uses modified data file
+18:34:29 BattlEye Server: Player #1 Harry[APD] (92.12.173.63:2304) connected
+18:34:29 Player Harry[APD] connecting.
+18:34:32 Player Harry[APD] disconnected.
+18:34:32 BattlEye Server: Player #1 Harry[APD] disconnected
+18:35:13 Harry[APD] uses modified data file
+18:35:13 BattlEye Server: Player #1 Harry[APD] (92.12.173.63:2304) connected
+18:35:13 Player Harry[APD] connecting.
+18:35:16 BattlEye Server: Player #1 Harry[APD] - GUID: aac1d4c21cea94d19832ce7c2e21ae64 (unverified)
+18:35:17 Player Harry[APD] connected (id=76561198120604664).
+18:35:17 BattlEye Server: Verified GUID (aac1d4c21cea94d19832ce7c2e21ae64) of player #1 Harry[APD]
+18:35:17 BattlEye Server: (Global) Hammerite: SERVER RESTART, SYNC DATA AND DISCONNECT
+18:35:22 S.W.A.T  DeadlyFox uses modified data file
+18:35:22 BattlEye Server: Player #3 S.W.A.T  DeadlyFox (77.98.245.225:2304) connected
+18:35:22 Player S.W.A.T  DeadlyFox connecting.
+18:35:23 BattlEye Server: Player #3 S.W.A.T  DeadlyFox - GUID: 659452063d40bbd367b9268a47266aba (unverified)
+18:35:23 Player S.W.A.T  DeadlyFox connected (id=76561198121637967).
+18:35:24 BattlEye Server: Verified GUID (659452063d40bbd367b9268a47266aba) of player #3 S.W.A.T  DeadlyFox
+18:35:30 Ozzy Sheen uses modified data file
+18:35:30 BattlEye Server: Player #15 Ozzy Sheen (82.7.156.20:2304) connected
+18:35:30 Player Ozzy Sheen connecting.
+18:35:35 BattlEye Server: Player #15 Ozzy Sheen - GUID: 264b4c7e2474bc6e925150b67ac69d40 (unverified)
+18:35:36 Player Ozzy Sheen connected (id=76561198136421775).
+18:35:36 BattlEye Server: Verified GUID (264b4c7e2474bc6e925150b67ac69d40) of player #15 Ozzy Sheen
