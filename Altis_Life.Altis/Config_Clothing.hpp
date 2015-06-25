@@ -99,16 +99,15 @@ class Clothing {
 		uniforms[] = {
 			{ "NONE", "Remove Uniform", 0, { "", "", -1 } },
 			{ "U_Rangemaster", "Cop Uniform", 25, { "", "", -1 } },
-			{ "U_B_CombatUniform_mcam_tshirt", "", 350, { "life_coplevel", "SCALAR", 1 } },
-			{ "U_B_survival_uniform", "", 1250, { "life_coplevel", "SCALAR", 1 } },
-			{ "U_B_CombatUniform_mcam_worn", "", 550, { "life_coplevel", "SCALAR", 2 } }
+			{ "U_B_HeliPilotCoveralls", "", 350, { "life_coplevel", "SCALAR", 1 } }
+			
 		};
 
 		headgear[] = {
 			{ "NONE", "Remove Hat", 0, { "", "", -1 } },
-			{ "H_HelmetB_plain_mcamo", "", 75, { "life_coplevel", "SCALAR", 1 } },
-			{ "H_Booniehat_mcamo", "", 120, { "life_coplevel", "SCALAR", 1 } },
-			{ "H_MilCap_mcamo", "", 100, { "life_coplevel", "SCALAR", 2 } }
+			{ "H_Cap_police", "", 75, { "life_coplevel", "SCALAR", 1 } },
+			{ "H_Beret_blk_POLICE", "", 120, { "life_coplevel", "SCALAR", 1 } },
+			{ "H_PilotHelmetHeli_B", "", 100, { "life_coplevel", "SCALAR", 2 } }
 		};
 
 		goggles[] = {
@@ -130,8 +129,8 @@ class Clothing {
 
 		vests[] = {
 			{ "NONE", "Remove Vest", 0, { "", "", -1 } },
-			{ "V_Rangemaster_belt", "", 800, { "", "", -1 } },
-			{ "V_PlateCarrier2_rgr", "", 1500, { "life_coplevel", "SCALAR", 1 } }
+			{ "V_TacVest_blk_POLICE", "", 800, { "", "", -1 } },
+			{ "V_PlateCarrier1_blk", "", 1500, { "", "", -1 } }
 		};
 
 		backpacks[] = {
@@ -143,7 +142,37 @@ class Clothing {
 			{ "B_Carryall_cbr", "", 3500, { "", "", -1 } }
 		};
 	};
+	class swat {
+		title = "SWAT CLOTHING SHOP";
+		license = "swat";
+		side = "cop";
 
+		
+		uniforms[] = {
+			{ "NONE", "Remove Uniform", 0, { "", "", -1 } },
+			{ "U_B_CombatUniform_mcam", "SWAT UNIFORM", 350, { "life_coplevel", "SCALAR", 8 } }
+		};
+
+		headgear[] = {
+			{ "NONE", "Remove Hat", 0, { "", "", -1 } }
+		};
+
+		goggles[] = {
+			{ "NONE", "Remove Glasses", 0, { "", "", -1 } },
+			{ "G_Diving", "", 500, { "", "", -1 } }
+		};
+
+		vests[] = {
+			{ "NONE", "Remove Vest", 0, { "", "", -1 } },
+			{ "V_TacVest_blk_POLICE", "", 800, { "", "", -1 } },
+			{ "V_PlateCarrier1_blk", "", 1500, { "", "", -1 } }
+		};
+
+		backpacks[] = {
+			{ "NONE", "Remove Backpack", 0, { "", "", -1 } }
+		};
+
+	};
 	class dive {
 		title = "STR_Shops_C_Diving";
 		license = "dive";
@@ -276,6 +305,76 @@ class Clothing {
 
 		backpacks[] = {
 			{ "NONE", "Remove Backpack", 0, { "", "", -1 } }
+		};
+	};
+	class pmc {
+		title = "PMC Store";
+		license = "pmc";
+		side = "civ";
+
+		uniforms[] = {
+			{ "NONE", "Remove Uniform", 0, { "", "", -1 } },
+			{"U_I_CombatUniform_shortsleeve","PMC Uniform",2500, { "", "", -1 } },
+			{"U_B_CombatUniform_mcam_vest","Combat Uniform", 3000, { "", "", -1 } },
+			{"U_Rangemaster","Red Checkered Shirt", 2500, { "", "", -1 } },
+			{"U_IG_leader","PMC Chero",2500, { "", "", -1 } },
+			{"U_IG_Guerilla3_2","" ,5000, { "", "", -1 } },
+			{"U_B_HeliPilotCoveralls","" ,5000, { "", "", -1 } },
+			{"U_O_PilotCoveralls","" ,6000, { "", "", -1 } },
+			{"U_O_Wetsuit","" ,8000, { "", "", -1 } },
+			{"U_I_GhillieSuit","" ,25000, { "", "", -1 } },
+			{"U_I_CombatUniform_shortsleeve","" ,5000, { "", "", -1 } },
+			{"U_I_CombatUniform_tshirt","" ,5000, { "", "", -1 } },
+			{"U_I_CombatUniform","" ,5000, { "", "", -1 } }
+			
+		};
+
+		headgear[] = {
+			{ "NONE", "Remove Hat", 0, { "", "", -1 } },
+			{"H_Watchcap_blk","" ,850, { "", "", -1 } },
+			{"H_Beret_blk","" ,850, { "", "", -1 } },
+			{"H_Bandanna_khk_hs","" ,800, { "", "", -1 } },
+			{"H_MilCap_gry","" ,2500, { "", "", -1 } },
+			{"H_Cap_blk","" ,1200, { "", "", -1 } }
+		};
+
+		goggles[] = {
+			{ "NONE", "Remove Glasses", 0, { "", "", -1 } },
+			{"G_Shades_Black","" ,25, { "", "", -1 } },
+			{"G_Shades_Blue","" ,20, { "", "", -1 } },
+			{"G_Sport_Blackred","" ,20, { "", "", -1 } },
+			{"G_Sport_Checkered","" ,20, { "", "", -1 } },
+			{"G_Sport_Blackyellow","" ,20, { "", "", -1 } },
+			{"G_Sport_BlackWhite","" ,20, { "", "", -1 } },
+			{"G_Squares","" ,10, { "", "", -1 } },
+			{"G_Lowprofile","" ,30, { "", "", -1 } },
+			{"G_Combat","" ,55, { "", "", -1 } }
+		};
+
+		vests[] = {
+			{ "NONE", "Remove Vest", 0, { "", "", -1 } },
+			{"V_TacVestIR_blk","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrier1_rgr","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrier2_rgr","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrier3_rgr","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrierGL_rgr","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrier1_blk","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrierSpec_rgr","" ,12500, { "", "", -1 } },
+			{"V_PlateCarrierIA2_dgtl","" ,20000, { "", "", -1 } },
+			{"V_PlateCarrierIAGL_dgtl","" ,20000, { "", "", -1 } },
+			{"V_RebreatherIR","" ,15000, { "", "", -1 } }
+		};
+
+		backpacks[] = {
+			{ "NONE", "Remove Backpack", 0, { "", "", -1 } },
+			{"B_AssaultPack_cbr","" ,2500, { "", "", -1 } },
+			{"B_Kitbag_mcamo","" ,4500, { "", "", -1 } },
+			{"B_TacticalPack_oli","" ,3500, { "", "", -1 } },
+			{"B_FieldPack_ocamo","" ,3000, { "", "", -1 } },
+			{"B_Bergen_sgg","" ,4500, { "", "", -1 } },
+			{"B_Kitbag_cbr","" ,4500, { "", "", -1 } },
+			{"B_Carryall_oli","" ,5000, { "", "", -1 } },
+			{"B_Carryall_khk","" ,5000, { "", "", -1 } }
 		};
 	};
 };

@@ -27,6 +27,7 @@ class Life_Client_Core
 		class initMedic {};
 		class welcomeNotification {};
 		class survival {};
+		class updateClothing {};
 	};
 	
 	class Admin
@@ -37,6 +38,13 @@ class Life_Client_Core
 		class admingetID {};
 		class adminMenu {};
 		class adminQuery {};
+		class adminSpectate {};
+		class adminTeleport {};
+		class adminCompensate {};
+		class adminTpHere {};
+		class adminGodMode {};
+		class adminTpTo{};
+		class adminMarkers {};
 	};
 	
 	class Medical_System
@@ -189,6 +197,9 @@ class Life_Client_Core
 		class loadGear {};
 		class stripDownPlayer {};
 		class nearATM {};
+		class captureBroadcast {};
+		class captureBroadcast2 {};
+
 	};
 	
 	class Network
