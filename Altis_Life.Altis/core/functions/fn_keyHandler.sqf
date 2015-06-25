@@ -6,7 +6,7 @@
 	Description:
 	Main key handler for event 'keyDown'
 */
-private ["_handled","_shift","_alt","_code","_ctrl","_alt","_ctrlKey","_veh","_locked","_interactionKey","_mapKey","_interruptionKeys"];
+private ["_blinkerWarn","_blinkerRechts","_blinkerLinks","_handled","_shift","_alt","_code","_ctrl","_alt","_ctrlKey","_veh","_locked","_interactionKey","_mapKey","_interruptionKeys"];
 _ctrl = SEL(_this,0);
 _code = SEL(_this,1);
 _shift = SEL(_this,2);
@@ -14,6 +14,10 @@ _ctrlKey = SEL(_this,3);
 _alt = SEL(_this,4);
 _speed = speed cursorTarget;
 _handled = false;
+
+_blinkerLinks = if(count (actionKeys "User2") == 0) then {16} else {(actionKeys "User2") select 0};	
+_blinkerRechts = if(count (actionKeys "User1") == 0) then {18} else {(actionKeys "User1") select 0};
+_blinkerWarn = if(count (actionKeys "User3") == 0) then {15} else {(actionKeys "User3") select 0};
 
 _interactionKey = if((EQUAL(count (actionKeys "User10"),0))) then {219} else {(actionKeys "User10") select 0};
 _mapKey = SEL(actionKeys "ShowMap",0);
@@ -178,27 +182,7 @@ switch (_code) do {
 	//F Key
 	case 33: {
 		if(playerSide in [west,independent] && {vehicle player != player} && {!life_siren_active} && {((driver vehicle player) == player)}) then {
-			[] spawn {
-				life_siren_active = true;
-				sleep 4.7;
-				life_siren_active = false;
-			};
-			
-			_veh = vehicle player;
-			if(isNil {_veh GVAR "siren"}) then {_veh SVAR ["siren",false,true];};
-			if((_veh GVAR "siren")) then {
-				titleText [localize "STR_MISC_SirensOFF","PLAIN"];
-				_veh SVAR ["siren",false,true];
-			} else {
-				titleText [localize "STR_MISC_SirensON","PLAIN"];
-				_veh SVAR ["siren",true,true];
-				if(playerSide == west) then {
-					[[_veh],"life_fnc_copSiren",nil,true] call life_fnc_MP;
-				} else {
-					//I do not have a custom sound for this and I really don't want to go digging for one, when you have a sound uncomment this and change medicSiren.sqf in the medical folder.
-					//[[_veh],"life_fnc_medicSiren",nil,true] call life_fnc_MP;
-				};
-			};
+			[vehicle player,"SirenLong",4.7] spawn life_fnc_SirenHandler;
 		};
 	};
 	
@@ -249,6 +233,22 @@ switch (_code) do {
 			};
 		};
 	};
+	// indiactors by RageBone.  15 / 16 / 18  Tab, q and E.  Rebindabel to useractions 1 to 3
+	case _blinkerLinks:{ // Q
+		if(alive _veh && _veh != player && ((driver _veh) == player) ) then {
+			[_veh,"left"] call life_fnc_BlinkerInit;		
+		};
+	};	
+	case _blinkerRechts:{ // E
+		if(alive _veh && _veh != player && ((driver _veh) == player) ) then{
+			[_veh,"right"] call life_fnc_BlinkerInit;			
+		};
+	};		
+	case _blinkerWarn:{ // Tab
+		if(alive _veh && _veh != player && ((driver _veh) == player) ) then{
+			[_veh,"warning"] call life_fnc_BlinkerInit;			
+		};		
+ 	};
 };
 
 _handled;
