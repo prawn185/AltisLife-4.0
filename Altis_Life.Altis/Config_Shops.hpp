@@ -321,27 +321,23 @@ class WeaponShops {
                         { "muzzle_snds_B","" ,0 },
                         { "muzzle_snds_H_MG","" ,0 },
                         { "muzzle_snds_H_SW","" ,0 },
-<<<<<<< HEAD
-                        { "optic_Arco","" ,0 },
-                        { "optic_Hamr","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "optic_Aco_smg","" ,0 }
-                       //{ "optic_Holosight","" ,0 },
-                        //{ "optic_SOS","" ,0 },
-                        
-                       // { "optic_NVS","" ,0 { "life_coplevel", 8 } },
-                        //{ "optic_Nightstalker","" ,0 { "life_coplevel", 8 } }
-=======
-                        { "optic_Holosight","" ,0 },
-                        { "optic_SOS","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "optic_NVS","" ,0 { "life_coplevel", 8 } },
-                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } }
+
                         { "optic_Arco","" ,0 },
                         { "optic_Hamr","" ,0 },
                         { "optic_ACO_grn","" ,0 },
                         { "optic_Aco_smg","" ,0 },
->>>>>>> origin/master
+                       
+
+                        { "optic_Holosight","" ,0 },
+                        { "optic_SOS","" ,0 },
+                        { "optic_MRCO","" ,0 },
+                        { "optic_NVS","" ,0 { "life_coplevel", 8 } },
+                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } },
+                        { "optic_Arco","" ,0 },
+                        { "optic_Hamr","" ,0 },
+                        { "optic_ACO_grn","" ,0 },
+                        { "optic_Aco_smg","" ,0 },
+
         };
     };
 
