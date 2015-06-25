@@ -80,22 +80,33 @@ class WeaponShops {
         };
     };
     //Cop Shops
+    class cop_items {
+        name = "Altis Police Equipment Shop";
+        side = "cop";
+        license = "";
+        level = 0;
+        msg = "";
+        items[] = {
+
+                        { "Binocular","Binocs" ,0 },
+                        { "ItemGPS","TomTom SatNav" ,0 },
+                        { "ToolKit","Repair Kit" ,0 },
+                        { "FirstAidKit","" ,0 },
+                        { "Medikit","" ,0 },
+                        { "NVGoggles","" ,0 },
+                        { "HandGrenade_Stone","Flashbang", 0, { "life_coplevel", 3 } }
+        };
+    };
+    //Cop Shops    
     class cop_cadet {
         name = "Altis Cadet Shop";
         side = "cop";
         license = "";
-        level = 1;
+        level = 0;
         msg = "";
         items[] = {
                         { "hgun_P07_snds_F","Stun Pistol",0 },
-                        { "hgun_P07_F","Taser Pistol" ,0 },
-                        { "Binocular","" ,0 },
-                        { "ItemGPS","Tom Tom SatNav" ,0 },
-                        { "ToolKit","" ,0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "FirstAidKit","" ,0 },
-                        { "Medikit","" ,0 },
-                        { "NVGoggles","" ,0 },
                         { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
         };
     };
@@ -104,27 +115,19 @@ class WeaponShops {
         name = "Altis Officer Shop";
         side = "cop";
         license = "";
-        level = 2;
+        level = 1;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
-                        { "hgun_P07_F","" ,0 },
-                        { "SMG_02_ACO_F","" ,0 },
-                        { "30Rnd_9x21_Mag","" ,0 },
-                        { "hgun_Rook40_F","" ,0 },
-                        { "16Rnd_9x21_Mag","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "acc_flashlight","" ,0 },
-                        { "Binocular","" ,0 },
-                        { "ItemGPS","" ,0 },
-                        { "ToolKit","" ,0 },
-                        { "muzzle_snds_L","" ,0 },
-                        { "FirstAidKit","" ,0 },
-                        { "Medikit","" ,0 },
-                        { "NVGoggles","" ,0 },
-                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
                         { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "SMG_02_ACO_F","Sting" ,0 },
+                        { "30Rnd_9x21_Mag","Sting Magazine" ,0 },
+                        { "hgun_Rook40_F","Rook" ,0 },
+                        { "16Rnd_9x21_Mag","Rook Magazine" ,0 },
+
         };
     };
 
@@ -132,29 +135,20 @@ class WeaponShops {
         name = "Altis Corporal Shop";
         side = "cop";
         license = "";
-        level = 3;
+        level = 2;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
-                        { "hgun_P07_F","" ,0 },
-                        { "SMG_02_ACO_F","" ,0 },
-                        { "30Rnd_9x21_Mag","" ,0 },
-                        { "hgun_Rook40_F","" ,0 },
-                        { "16Rnd_9x21_Mag","" ,0 },
-                        { "arifle_MXM_DMS_F","" ,0 },
-                        { "30Rnd_65x39_caseless_mag","" ,0 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "Binocular","" ,0 },
-                        { "ItemGPS","" ,0 },
-                        { "ToolKit","" ,0 },
-                        { "muzzle_snds_L","" ,0 },
-                        { "FirstAidKit","" ,0 },
-                        { "Medikit","" ,0 },
-                        { "NVGoggles","" ,0 },
-                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
                         { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "SMG_02_ACO_F","Sting" ,0 },
+                        { "30Rnd_9x21_Mag","Sting Magazine" ,0 },
+                        { "hgun_Rook40_F","Rook" ,0 },
+                        { "16Rnd_9x21_Mag","Rook Magazine" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
         };
     };
     
@@ -162,31 +156,24 @@ class WeaponShops {
         name = "Altis Sergeant Shop";
         side = "cop";
         license = "";
-        level = 4;
+        level = 3;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
-                        { "hgun_P07_F","" ,0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
                         { "SMG_02_ACO_F","" ,0 },
                         { "30Rnd_9x21_Mag","" ,0 },
                         { "hgun_Rook40_F","" ,0 },
                         { "16Rnd_9x21_Mag","" ,0 },
-                        { "arifle_MXM_DMS_F","" ,0 },
                         { "arifle_MXC_Black_F","" ,0 },
                         { "30Rnd_65x39_caseless_mag","" ,0 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "Binocular","" ,0 },
-                        { "ItemGPS","" ,0 },
-                        { "ToolKit","" ,0 },
-                        { "muzzle_snds_L","" ,0 },
-                        { "FirstAidKit","" ,0 },
-                        { "Medikit","" ,0 },
-                        { "NVGoggles","" ,0 },
                         { "16Rnd_9x21_Mag","" ,0 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "arifle_MX_F","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
+
 
         };
     }; 
@@ -195,37 +182,27 @@ class WeaponShops {
         name = "Altis Lieutenant Shop";
         side = "cop";
         license = "";
-        level = 5;
+        level = 4;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,1000 },
-                        { "arifle_MXC_Black_F","" ,1000 },
-                        { "arifle_MX_SW_F","" ,1000 },
-                        { "100Rnd_65x39_caseless_mag","" ,500 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
-                        { "srifle_EBR_MRCO_pointer_F","" ,10000 },
-                        { "20Rnd_762x51_Mag","" ,100 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 },
-                        { "B_UavTerminal","UAV TERMINAL", 200 }
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "arifle_MX_SW_F","" ,0 },
+                        { "100Rnd_65x39_caseless_mag","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
+                        { "srifle_EBR_MRCO_LP_BI_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_EBR_SOS_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
 
         };
     }; 
@@ -234,37 +211,34 @@ class WeaponShops {
         name = "Altis Captain Shop";
         side = "cop";
         license = "";
-        level = 6;
+        level = 5;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,1000 },
-                        { "arifle_MXC_Black_F","" ,1000 },
-                        { "arifle_MX_SW_F","" ,1000 },
-                        { "100Rnd_65x39_caseless_mag","" ,500 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
-                        { "srifle_EBR_MRCO_pointer_F","" ,10000 },
-                        { "20Rnd_762x51_Mag","" ,100 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 },
-                        { "B_UavTerminal","UAV TERMINAL", 200 }
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "arifle_MX_SW_F","" ,0 },
+                        { "100Rnd_65x39_caseless_mag","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
+                        { "srifle_EBR_MRCO_LP_BI_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_EBR_SOS_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_02_MRCO_F","" ,0 },
+                        { "10Rnd_338_Mag","" ,0 },
+                        { "srifle_DMR_06_camo_khs_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_05_MRCO_F","" ,0 },
+                        { "10Rnd_93x64_DMR_05_Mag","" ,0 },
+
 
         };
     }; 
@@ -273,45 +247,34 @@ class WeaponShops {
         name = "Altis Regional Commander Shop";
         side = "cop";
         license = "";
-        level = 7;
+        level = 6;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,1000 },
-                        { "arifle_MXC_Black_F","" ,1000 },
-                        { "arifle_MX_SW_F","" ,1000 },
-                        { "100Rnd_65x39_caseless_mag","" ,500 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
-                        { "srifle_EBR_MRCO_pointer_F","" ,10000 },
-                        { "20Rnd_762x51_Mag","" ,100 },
-                        { "arifle_Katiba_F","" ,5000 },
-                        { "30Rnd_65x39_caseless_green","" ,500 },
-                        { "srifle_DMR_02_SOS_F","" ,10000 },
-                        { "10Rnd_338_Mag","" ,1000 },
-                        { "srifle_DMR_05_SOS_F","" ,10000 },
-                        { "10Rnd_93x64_DMR_05_Mag","" ,1000 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_Arco","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 },
-                        { "B_UavTerminal","UAV TERMINAL", 200 }
+                        { "arifle_sdar_F","Taser Rifle",0 },
+                        { "hgun_P07_snds_F","Stun Pistol",0 },
+                        { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "arifle_MX_SW_F","" ,0 },
+                        { "100Rnd_65x39_caseless_mag","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
+                        { "srifle_EBR_MRCO_LP_BI_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_EBR_SOS_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_02_MRCO_F","" ,0 },
+                        { "10Rnd_338_Mag","" ,0 },
+                        { "srifle_DMR_06_camo_khs_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_05_MRCO_F","" ,0 },
+                        { "10Rnd_93x64_DMR_05_Mag","" ,0 },
+
 
         };
     }; 
@@ -319,53 +282,58 @@ class WeaponShops {
         name = "Altis S.W.A.T Shop";
         side = "cop";
         license = "swat";
-        level = 8;
+        level = 7;
         msg = "";
         items[] = {
-                        { "arifle_sdar_F","Taser Rifle",20000 },
-                        { "hgun_P07_snds_F","Stun Pistol",2000 },
-                        { "hgun_P07_F","" ,7500 },
-                        { "SMG_02_ACO_F","" ,500 },
-                        { "30Rnd_9x21_Mag","" ,500 },
-                        { "hgun_Rook40_F","" ,60 },
-                        { "16Rnd_9x21_Mag","" ,25 },
-                        { "arifle_MXM_DMS_F","" ,1000 },
-                        { "arifle_MXC_Black_F","" ,1000 },
-                        { "arifle_MXM_RCO_pointer_snds_F",1700 },
-                        { "arifle_MX_SW_F","" ,1000 },
-                        { "100Rnd_65x39_caseless_mag","" ,500 },
-                        { "30Rnd_65x39_caseless_mag","" ,500 },
-                        { "srifle_LRR_SOS_F",17000 },
-                        { "7Rnd_408_Mag",1700 },
-                        { "srifle_EBR_MRCO_pointer_F","" ,10000 },
-                        { "20Rnd_762x51_Mag","" ,100 },
-                        { "arifle_Katiba_F","" ,5000 },
-                        { "30Rnd_65x39_caseless_green","" ,500 },
-                        { "srifle_DMR_02_SOS_F","" ,10000 },
-                        { "10Rnd_338_Mag","" ,1000 },
-                        { "srifle_DMR_05_SOS_F","" ,10000 },
-                        { "10Rnd_93x64_DMR_05_Mag","" ,1000 },
-                        { "arifle_TRG20_F","" ,500 }, 
-                        { "30Rnd_556x45_Stanag","" ,500 },
-                        { "acc_flashlight","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_Arco","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "HandGrenade_Stone","Flashbang",1700 },
-                        { "Binocular","" ,150 },
-                        { "ItemGPS","" ,100 },
-                        { "ToolKit","" ,250 },
-                        { "muzzle_snds_L","" ,650 },
-                        { "FirstAidKit","" ,150 },
-                        { "Medikit","" ,1000 },
-                        { "NVGoggles","" ,2000 },
-                        { "16Rnd_9x21_Mag","" ,50 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",125 },
-                        { "B_UavTerminal","UAV TERMINAL", 200 }
+                        { "SMG_02_ACO_F","" ,0 },
+                        { "30Rnd_9x21_Mag","" ,0 },
+                        { "hgun_Rook40_F","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "16Rnd_9x21_Mag","" ,0 },
+                        { "arifle_MXC_Black_F","" ,0 },
+                        { "arifle_MX_SW_F","" ,0 },
+                        { "100Rnd_65x39_caseless_mag","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 },
+                        { "srifle_EBR_MRCO_LP_BI_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_EBR_SOS_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_02_MRCO_F","" ,0 },
+                        { "10Rnd_338_Mag","" ,0 },
+                        { "srifle_DMR_06_camo_khs_F","" ,0 },
+                        { "20Rnd_762x51_Mag","" ,0 },
+                        { "srifle_DMR_05_MRCO_F","" ,0 },
+                        { "10Rnd_93x64_DMR_05_Mag","" ,0 },
 
         };
-    }; 
+    };
+    //Cop Shops
+    class cop_scopes {
+        name = "Altis Police Scope Shop";
+        side = "cop";
+        license = "";
+        level = 0;
+        msg = "";
+        items[] = {
+
+                        { "muzzle_snds_H","" ,0 },
+                        { "muzzle_snds_L","" ,0 },
+                        { "muzzle_snds_M","" ,0 },
+                        { "muzzle_snds_B","" ,0 },
+                        { "muzzle_snds_H_MG","" ,0 },
+                        { "muzzle_snds_H_SW","" ,0 },
+                        { "optic_Arco","" ,0 },
+                        { "optic_Hamr","" ,0 },
+                        { "optic_ACO_grn","" ,0 },
+                        { "optic_Aco_smg","" ,0 },
+                        { "optic_Holosight","" ,0 },
+                        { "optic_SOS","" ,0 },
+                        { "optic_MRCO","" ,0 },
+                        { "optic_NVS","" ,0 { "life_coplevel", 8 } },
+                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } },
+        };
+    };
+
     //Medic Shops
     class med_basic {
         name = "store";
@@ -373,13 +341,13 @@ class WeaponShops {
         license = "";
         level = -1;
         items[] = {
-            { "ItemGPS", "", 100 },
-			{ "Binocular", "", 150 },
-			{ "ToolKit", "", 250 },
-			{ "FirstAidKit", "", 150 },
-			{ "Medikit", "", 500 },
-			{ "NVGoggles", "", 1200 },
-			{ "B_FieldPack_ocamo", "", 3000 }
+            { "ItemGPS", "", 0 },
+			{ "Binocular", "", 0 },
+			{ "ToolKit", "", 0 },
+			{ "FirstAidKit", "", 0 },
+			{ "Medikit", "", 0 },
+			{ "NVGoggles", "", 0 },
+			{ "B_FieldPack_ocamo", "", 0 }
         };
     };
 
@@ -390,70 +358,34 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "arifle_TRG20_F","" ,10000 }, //assault
-                        { "30Rnd_556x45_Stanag","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Red","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Green","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,100 },
-                        { "srifle_DMR_01_F","" ,50000 },
-                        { "10Rnd_762x51_Mag","" ,100 },
-                        { "srifle_EBR_F","" ,50000 },
-                        { "10Rnd_762x51_Mag","" ,100 },
-                        { "20Rnd_762x51_Mag","" ,100 },
-                        { "arifle_Mk20_F","" ,20000 },
-                        { "arifle_Mk20_GL_F","" ,20000 },
-                        { "30Rnd_556x45_Stanag","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Red","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Green","" ,100 },
-                        { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,100 },
-                        { "UGL_FlareWhite_F","" ,100 },
-                        { "UGL_FlareGreen_F","" ,100 },
-                        { "UGL_FlareRed_F","" ,100 },
-                        { "UGL_FlareYellow_F","" ,100 },
-                        { "UGL_FlareCIR_F","" ,100 },
-                        { "1Rnd_Smoke_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeRed_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeGreen_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeYellow_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokePurple_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeBlue_Grenade_shell","" ,100 },
-                        { "1Rnd_SmokeOrange_Grenade_shell","" ,100 },
-                        { "arifle_Katiba_C_F","" ,30000 },
-                        { "30Rnd_65x39_caseless_green","" ,100 },
-                        { "30Rnd_65x39_caseless_green_mag_Tracer","" ,100 },
-                        { "arifle_MX_F","" ,40000 },
-                        { "arifle_MXC_F","" ,40000 },
-                        { "arifle_MXC_Black_F","" ,40000 },
-                        { "arifle_MX_GL_Black_F","" ,60000 },
-                        { "arifle_MX_GL_F","" ,60000 },
-                        { "30Rnd_65x39_caseless_mag","" ,100 },
-                        { "30Rnd_65x39_caseless_mag_Tracer","" ,100 },
-                        { "1Rnd_HE_Grenade_shell","" ,100 }
+                        { "arifle_TRG20_F","" ,200000 }, //assault
+                        { "30Rnd_556x45_Stanag","" ,5000 },
+                        { "30Rnd_556x45_Stanag_Tracer_Red","" ,7500 },
+                        { "30Rnd_556x45_Stanag_Tracer_Green","" ,7500 },
+                        { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,7500 },
+                        { "srifle_DMR_01_F","" ,350000 },
+                        { "10Rnd_762x51_Mag","" ,5000 },
+                        { "srifle_EBR_F","" ,350000 },
+                        { "10Rnd_762x51_Mag","" ,5000 },
+                        { "20Rnd_762x51_Mag","" ,5000 },
+                        { "arifle_Mk20_F","" ,200000 },
+                        { "arifle_Mk20_GL_F","" ,200000 },
+                        { "30Rnd_556x45_Stanag","" ,5000 },
+                        { "30Rnd_556x45_Stanag_Tracer_Red","" ,7500 },
+                        { "30Rnd_556x45_Stanag_Tracer_Green","" ,7500 },
+                        { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,7500 },
+                        { "arifle_Katiba_C_F","" ,300000 },
+                        { "30Rnd_65x39_caseless_green","" ,5000 },
+                        { "30Rnd_65x39_caseless_green_mag_Tracer","" ,7500 },
+                        { "arifle_MX_F","" ,400000 },
+                        { "arifle_MXC_F","" ,400000 },
+                        { "arifle_MXC_Black_F","" ,400000 },
+                        { "30Rnd_65x39_caseless_mag","" ,5000 },
+                        { "30Rnd_65x39_caseless_mag_Tracer","" ,7500 },
                         
         };
     };
 
-    class pmc_launcher {
-        name = "PMC STORE";
-        side = "civ";
-        license = "pmc";
-        level = -1;
-        msg = "";
-        items[] = {
-                        { "launch_B_Titan_F","" ,100000 }, //launcher
-                        { "Titan_AA","" ,100000 },
-                        { "launch_B_Titan_short_F","" ,100000 },
-                        { "Titan_AT","" ,1000 },
-                        { "Titan_AP","" ,1000 },
-                        { "launch_I_Titan_F","" ,100000 },
-                        { "launch_I_Titan_short_F","" ,100000 },
-                        { "launch_NLAW_F","" ,100000 },
-                        { "NLAW_F","" ,1000 },
-                        { "launch_RPG32_F","" ,100000 },
-                        { "RPG32_F","" ,1000 },
-                        { "RPG32_HE_F","" ,1000 }
-        };
-    };
     class pmc_attachements {
         name = "PMC STORE";
         side = "civ";
@@ -461,29 +393,29 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "acc_flashlight","" ,1000 }, //atachements
-                        { "acc_pointer_IR","" ,1000 },
-                        { "optic_Aco","" ,1000 },
-                        { "optic_ACO_grn","" ,1000 },
-                        { "optic_ACO_grn_smg","" ,1000 },
-                        { "optic_Aco_smg","" ,1000 },
-                        { "optic_Arco","" ,1000 },
-                        { "optic_Hamr","" ,1000 },
-                        { "optic_Holosight","" ,1000 },
-                        { "optic_Holosight_smg","" ,1000 },
-                        { "optic_MRCO","" ,1000 },
-                        { "optic_Nightstalker","" ,1000 },
-                        { "optic_NVS","" ,1000 },
-                        { "optic_SOS","" ,1000 },
-                        { "optic_tws","" ,1000 },
-                        { "optic_tws_mg","" ,1000 },
-                        { "muzzle_snds_acp","" ,1000 },
-                        { "muzzle_snds_B","" ,1000 },
-                        { "muzzle_snds_H","" ,1000 },
-                        { "muzzle_snds_H_MG","" ,1000 },
-                        { "muzzle_snds_L","" ,1000 },
-                        { "muzzle_snds_M","" ,1000 },
-                        { "NVGoggles_OPFOR","" ,1000 },
+                        { "acc_flashlight","" ,10000 }, //attach+ments
+                        { "acc_pointer_IR","" ,10000 },
+                        { "optic_Aco","" ,10000 },
+                        { "optic_ACO_grn","" ,10000 },
+                        { "optic_ACO_grn_smg","" ,10000 },
+                        { "optic_Aco_smg","" ,10000 },
+                        { "optic_Arco","" ,10000 },
+                        { "optic_Hamr","" ,10000 },
+                        { "optic_Holosight","" ,10000 },
+                        { "optic_Holosight_smg","" ,10000 },
+                        { "optic_MRCO","" ,10000 },
+                        { "optic_Nightstalker","" ,10000 },
+                        { "optic_NVS","" ,10000 },
+                        { "optic_SOS","" ,10000 },
+                        { "optic_tws","" ,10000 },
+                        { "optic_tws_mg","" ,10000 },
+                        { "muzzle_snds_acp","" ,10000 },
+                        { "muzzle_snds_B","" ,10000 },
+                        { "muzzle_snds_H","" ,10000 },
+                        { "muzzle_snds_H_MG","" ,10000 },
+                        { "muzzle_snds_L","" ,10000 },
+                        { "muzzle_snds_M","" ,10000 },
+                        { "NVGoggles_OPFOR","" ,2000 },
                         { "Rangefinder","" ,1000 },
                         { "ItemMap","" ,1000 },
                         { "ItemGPS","" ,1000 }      
@@ -496,10 +428,10 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "srifle_GM6_F","" ,600000 }, //sniper
+                        { "srifle_GM6_F","" ,2000000 }, //sniper
                         { "5Rnd_127x108_Mag","" ,1000 },
                         { "5Rnd_127x108_APDS_Mag","" ,1000 },
-                        { "srifle_LRR_F","" ,600000 },
+                        { "srifle_LRR_F","" ,1000000 },
                         { "7Rnd_408_Mag","" ,1000 }
         };
     };
@@ -510,11 +442,11 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "SMG_01_F","" ,40000 }, // sub
-                        { "30Rnd_45ACP_Mag_SMG_01","" ,100 },
-                        { "30Rnd_45ACP_Mag_SMG_01_tracer_green","" ,100 },
-                        { "SMG_02_F","" ,40000 },
-                        { "30Rnd_9x21_Mag","" ,100 }
+                        { "SMG_01_F","" ,200000 }, // Sub Machine Gun
+                        { "30Rnd_45ACP_Mag_SMG_01","" ,2500 },
+                        { "30Rnd_45ACP_Mag_SMG_01_tracer_green","" ,5000 },
+                        { "SMG_02_F","" ,200000 },
+                        { "30Rnd_9x21_Mag","" ,2500 }
         };
     };
     class pmc_lmg {
@@ -525,11 +457,11 @@ class WeaponShops {
         msg = "";
         items[] = {
                         { "LMG_Mk200_F","" ,100000 }, //lmg
-                        { "200Rnd_65x39_cased_Box","" ,1000 },
-                        { "200Rnd_65x39_cased_Box_Tracer","" ,1000 },
-                        { "LMG_Zafir_F","" ,100000 },
-                        { "150Rnd_762x51_Box","" ,1000 },
-                        { "150Rnd_762x51_Box_Tracer","" ,1000 }
+                        { "200Rnd_65x39_cased_Box","" ,7500 },
+                        { "200Rnd_65x39_cased_Box_Tracer","" ,10000 },
+                        { "LMG_Zafir_F","" ,1000000 },
+                        { "150Rnd_762x51_Box","" ,7500 },
+                        { "150Rnd_762x51_Box_Tracer","" ,5000 }
         };
     };
 };
