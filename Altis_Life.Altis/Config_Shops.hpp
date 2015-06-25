@@ -330,7 +330,7 @@ class WeaponShops {
                         { "optic_SOS","" ,0 },
                         { "optic_MRCO","" ,0 },
                         { "optic_NVS","" ,0 { "life_coplevel", 8 } },
-                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } },
+                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } }
         };
     };
 
@@ -381,7 +381,7 @@ class WeaponShops {
                         { "arifle_MXC_F","" ,400000 },
                         { "arifle_MXC_Black_F","" ,400000 },
                         { "30Rnd_65x39_caseless_mag","" ,5000 },
-                        { "30Rnd_65x39_caseless_mag_Tracer","" ,7500 },
+                        { "30Rnd_65x39_caseless_mag_Tracer","" ,7500 }
                         
         };
     };
