@@ -75,8 +75,8 @@ class CarShops {
 		vehicles[] = {
 			{ "C_Offroad_01_F", 0, ""},
 			{ "C_SUV_01_F", 0, "" },
-			{ "B_MRAP_01_F", 0, { "life_coplevel", 7 }, }
-			{ "C_Hatchback_01_sport_F", 0, "", }
+			{ "B_MRAP_01_F", 0, "", { "life_coplevel", 7 } },
+			{ "C_Hatchback_01_sport_F", 0, "" }
 		};
 	};
 
@@ -92,12 +92,12 @@ class CarShops {
 		side = "cop";
 		vehicles[] = {
 			{ "B_Heli_Light_01_F", 0, "cAir" },
-			{ "B_Heli_Transport_01_F", 0, "cAir", }
+			{ "B_Heli_Transport_01_F", 0, "cAir" },
 			{ "B_UAV_02_F", 0, "cAir" },
-			{ "B_UAV_01_F ", 0, "cAir", }
+			{ "B_UAV_01_F ", 0, "cAir" },
 			{ "O_Heli_Light_02_unarmed_F", 0, "cAir" },
-			{ "I_Heli_light_03_unarmed_F", 0, "cAir", }
-			{ "I_Heli_Transport_02_F", 0, "cAir" },
+			{ "I_Heli_light_03_unarmed_F", 0, "cAir" },
+			{ "I_Heli_Transport_02_F", 0, "cAir" }
 		};
 	};
 
@@ -125,6 +125,28 @@ class CarShops {
 			{ "C_Rubberboat", 5000, "boat" },
 			{ "C_Boat_Civil_01_F", 22000, "boat" },
 			{ "B_SDV_01_F", 150000, "boat" }
+		};
+	};
+	class pmc_air {
+		side = "civ";
+		vehicles[] = {
+			{ "C_Heli_Light_01_civil_F", 500000, "pmc" },
+			{ "I_Heli_light_03_unarmed_F", 220000, "pmc" },
+			{ "O_Heli_Transport_04_covered_F", 1500000, "pmc" },
+			{ "I_Heli_Transport_02_F", 1500000, "pmc" },
+			{ "B_Heli_Transport_01_F", 1500000, "pmc" },
+			{ "O_Heli_Transport_04_F", 1500000, "pmc" }
+
+		};
+	};
+
+	class pmc_car {
+		side = "civ";
+		vehicles[] = {
+			{ "I_MRAP_03_F", 600000, "pmc" },
+			{ "B_Quadbike_01_F", 22000, "pmc" },
+			{ "I_G_Offroad_01_armed_F", 500000, "pmc" },
+			{ "B_G_Offroad_01_F", 150000, "pmc" }			
 		};
 	};
 };
@@ -385,11 +407,16 @@ class CfgVehicles {
 	                "#(ai,64,64,1)Fresnel(0.3,3)"
             } },
 			{ "Police", "cop", {
-	                "#(ai,64,64,1)Fresnel(1.3,7)"
+	                "textures\Vehicles\Cop\lapd_offroader.paa"
             } },
             { "Taxi", "civ", {
 	                "#(argb,8,8,3)color(0.6,0.3,0.01,1)"
             } }
+            
+
+            
+
+
 	    };
     };
 
@@ -432,7 +459,7 @@ class CfgVehicles {
 	                "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_sport06_co.paa"
             } },
             { "Police", "cop", {
-                "#(ai,64,64,1)Fresnel(1.3,7)"
+                "textures\Vehicles\Cop\lapd_hatchback.paa"
             } }
         };
     };
@@ -536,6 +563,9 @@ class CfgVehicles {
             } },
             { "Black", "civ", {
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_base09_co.paa"
+            } },
+            { "Police", "cop", {
+            	"textures\Vehicles\Cop\lapd_hatchback.paa"
             } }
         };
     };
@@ -559,10 +589,10 @@ class CfgVehicles {
 			{ "Orange", "civ", {
 	                "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_04_co.paa"
             } },
-            { "Cop", "cop", {
-                "#(ai,64,64,1)Fresnel(1.3,7)"
+            { "Police", "cop", {
+                "textures\Vehicles\Cop\lapd_suv.paa"
             } }
-	        };
+	    };
     };
 
 	class C_Van_01_transport_F {
