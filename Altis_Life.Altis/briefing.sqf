@@ -39,7 +39,7 @@ player createDiarySubject ["controls","Controls"];
 		]
 	];
 
-		player createDiaryRecord ["serverrules",
+	player createDiaryRecord ["serverrules",
 		[
 			"Exploits", 
 				"

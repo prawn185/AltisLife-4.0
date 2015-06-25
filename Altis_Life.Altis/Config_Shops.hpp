@@ -121,12 +121,12 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","Sting" ,0 },
                         { "30Rnd_9x21_Mag","Sting Magazine" ,0 },
                         { "hgun_Rook40_F","Rook" ,0 },
-                        { "16Rnd_9x21_Mag","Rook Magazine" ,0 },
+                        { "16Rnd_9x21_Mag","Rook Magazine" ,0 }
 
         };
     };
@@ -141,14 +141,14 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","Sting" ,0 },
                         { "30Rnd_9x21_Mag","Sting Magazine" ,0 },
                         { "hgun_Rook40_F","Rook" ,0 },
                         { "16Rnd_9x21_Mag","Rook Magazine" ,0 },
                         { "arifle_MXC_Black_F","" ,0 },
-                        { "30Rnd_65x39_caseless_mag","" ,0 },
+                        { "30Rnd_65x39_caseless_mag","" ,0 }
         };
     };
     
@@ -162,8 +162,8 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","" ,0 },
                         { "30Rnd_9x21_Mag","" ,0 },
                         { "hgun_Rook40_F","" ,0 },
@@ -188,8 +188,8 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","" ,0 },
                         { "30Rnd_9x21_Mag","" ,0 },
                         { "hgun_Rook40_F","" ,0 },
@@ -217,8 +217,8 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","" ,0 },
                         { "30Rnd_9x21_Mag","" ,0 },
                         { "hgun_Rook40_F","" ,0 },
@@ -253,8 +253,8 @@ class WeaponShops {
                         { "arifle_sdar_F","Taser Rifle",0 },
                         { "hgun_P07_snds_F","Stun Pistol",0 },
                         { "muzzle_snds_L","Taser Pistol Suppressor" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
                         { "SMG_02_ACO_F","" ,0 },
                         { "30Rnd_9x21_Mag","" ,0 },
                         { "hgun_Rook40_F","" ,0 },
@@ -325,12 +325,12 @@ class WeaponShops {
                         { "optic_Arco","" ,0 },
                         { "optic_Hamr","" ,0 },
                         { "optic_ACO_grn","" ,0 },
-                        { "optic_Aco_smg","" ,0 },
-                        { "optic_Holosight","" ,0 },
-                        { "optic_SOS","" ,0 },
-                        { "optic_MRCO","" ,0 },
-                        { "optic_NVS","" ,0 { "life_coplevel", 8 } },
-                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } }
+                        { "optic_Aco_smg","" ,0 }
+                       //{ "optic_Holosight","" ,0 },
+                        //{ "optic_SOS","" ,0 },
+                        
+                       // { "optic_NVS","" ,0 { "life_coplevel", 8 } },
+                        //{ "optic_Nightstalker","" ,0 { "life_coplevel", 8 } }
         };
     };
 
