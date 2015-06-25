@@ -88,13 +88,13 @@ class WeaponShops {
         msg = "";
         items[] = {
 
-                        { "Binocular","" ,0 },
+                        { "Binocular","Binocs" ,0 },
                         { "ItemGPS","TomTom SatNav" ,0 },
                         { "ToolKit","Repair Kit" ,0 },
                         { "FirstAidKit","" ,0 },
                         { "Medikit","" ,0 },
                         { "NVGoggles","" ,0 },
-                        { "HandGrenade_Stone","Flashbang", 0, { "life_coplevel", 7 } }
+                        { "HandGrenade_Stone","Flashbang", 0, { "life_coplevel", 3 } }
         };
     };
     //Cop Shops    
@@ -331,12 +331,12 @@ class WeaponShops {
                         { "optic_Holosight","" ,0 },
                         { "optic_SOS","" ,0 },
                         { "optic_MRCO","" ,0 },
-                        { "optic_NVS","" ,0 { "life_coplevel", 8 } },
-                        { "optic_Nightstalker","" ,0 { "life_coplevel", 8 } },
+                        { "optic_NVS","" ,0 },
+                        { "optic_Nightstalker","" ,0 },
                         { "optic_Arco","" ,0 },
                         { "optic_Hamr","" ,0 },
                         { "optic_ACO_grn","" ,0 },
-                        { "optic_Aco_smg","" ,0 },
+                        { "optic_Aco_smg","" ,0 }
 
         };
     };
