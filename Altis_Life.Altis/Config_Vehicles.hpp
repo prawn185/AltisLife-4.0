@@ -411,13 +411,11 @@ class CfgVehicles {
             } },
             { "Taxi", "civ", {
 	                "#(argb,8,8,3)color(0.6,0.3,0.01,1)"
+            } },
+            { "Black", "civ", {
+	                "#(argb,8,8,3)color(0.0,0.0,0.0,1)"
             } }
-            
-
-            
-
-
-	    };
+  	    };
     };
 
 	class C_Kart_01_Blu_F {
