@@ -14,7 +14,7 @@ _ctrlKey = SEL(_this,3);
 _alt = SEL(_this,4);
 _speed = speed cursorTarget;
 _handled = false;
-
+_veh = vehicle player;
 _blinkerLinks = if(count (actionKeys "User2") == 0) then {16} else {(actionKeys "User2") select 0};	
 _blinkerRechts = if(count (actionKeys "User1") == 0) then {18} else {(actionKeys "User1") select 0};
 _blinkerWarn = if(count (actionKeys "User3") == 0) then {15} else {(actionKeys "User3") select 0};
