@@ -235,7 +235,14 @@ class CfgVehicles {
 		garageSell[] = { 0, 21000, 0, 0 };
         insurance = 2500;
         chopShop = 5000;
-        textures[] = { };
+        textures[] = { 
+        	{ "Sea Patrol", "cop", {
+                "textures\Vehicles\Cop\boat1.jpg",
+                "textures\Vehicles\Cop\boat2.jpg"
+            } }
+
+
+        };
     };
 
 	class I_Boat_Armed_01_minigun_F {
@@ -317,7 +324,14 @@ class CfgVehicles {
 		garageSell[] = { 6800, 3500, 0, 0 };
         insurance = 2500;
         chopShop = 5000;
-        textures[] = { };
+        textures[] = {
+
+        	{ "Sea Patrol", "cop", {
+                "textures\Vehicles\Cop\sboat.jpg",
+                "textures\Vehicles\Cop\sboat1.jpg"
+            } }
+
+         };
     };
 
 	class C_Boat_Civil_01_police_F {
@@ -411,8 +425,23 @@ class CfgVehicles {
             } },
             { "Taxi", "civ", {
 	                "#(argb,8,8,3)color(0.6,0.3,0.01,1)"
+            } },
+            { "Coast Guard", "cop", {
+                "textures\Vehicles\Cop\CoastOffroad.jpg"
+                
+            } },
+            { "Athira Offroad", "cop", {
+            	"textures\Vehicles\Cop\Aoffroad.jpg"
+            } },
+            { "Pyrgos Offroad", "cop", {
+            	"textures\Vehicles\Cop\Poffroad.jpg"
+            } },
+            { "Sofia Offroad", "cop", {
+            	"textures\Vehicles\Cop\Soffroad.jpg"
+            } },
+            { "Highway Patrol Offroad", "cop", {
+            	"textures\Vehicles\Cop\HPoffroad.jpg"
             } }
-            
 
             
 
@@ -460,7 +489,17 @@ class CfgVehicles {
             } },
             { "Police", "cop", {
                 "textures\Vehicles\Cop\lapd_hatchback.paa"
+            } },
+            { "Athira Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackA.jpg"
+            } },
+            { "Highway Patrol Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackHP.jpg"
+            } },
+            { "Sofia Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackS.jpg"
             } }
+           
         };
     };
 
@@ -566,6 +605,15 @@ class CfgVehicles {
             } },
             { "Police", "cop", {
             	"textures\Vehicles\Cop\lapd_hatchback.paa"
+            } },
+             { "Athira Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackA.jpg"
+            } },
+            { "Highway Patrol Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackHP.jpg"
+            } },
+            { "Sofia Police", "cop", {
+                "textures\Vehicles\Cop\PoliceHatchbackS.jpg"
             } }
         };
     };
@@ -591,6 +639,15 @@ class CfgVehicles {
             } },
             { "Police", "cop", {
                 "textures\Vehicles\Cop\lapd_suv.paa"
+            } },
+            { "Taxi", "civ", {
+            	"textures\Vehicles\Civ\suv_taxi.jpg"
+            } },
+            { "Police Interceptor", "cop", {
+            	"textures\Vehicles\Cop\police_interceptor.jpg"
+            } },
+            { "Police Interceptor", "cop", {
+            	"textures\Vehicles\Cop\police_highway_interceptor.jpg"
             } }
 	    };
     };
@@ -636,9 +693,17 @@ class CfgVehicles {
         	{ "Regular", "cop", {
                 "\A3\Soft_F\MRAP_01\Data\mrap_01_base_co.paa"
             } },
-            { "Black", "fed", {
+            { "Black", "cop", {
                 "#(argb,8,8,3)color(0.05,0.05,0.05,1)"
+            } },
+            { "Police", "cop", {
+                "textures\Vehicles\Cop\hunter_police.jpg"
+            } },
+            { "SWAT", "cop", {
+                "textures\Vehicles\Cop\swat_police.jpg"
             } }
+
+
         };
     };
 
@@ -693,7 +758,15 @@ class CfgVehicles {
             } },
             { "EMS White", "med", {
                 "#(argb,8,8,3)color(1,1,1,0.8)"
+            } },
+            { "Police", "cop", {
+                "textures\Vehicles\Cop\police_heli2.jpg"
+            } },
+            { "Medic", "med", {
+                "textures\Vehicles\Med\medic_humming.jpg"
             } }
+
+
         };
     };
 

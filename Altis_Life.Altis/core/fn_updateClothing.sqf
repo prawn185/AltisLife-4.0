@@ -12,7 +12,7 @@ switch (playerSide) do {
 				switch(true)do{
 					//case (license_cop_kavalaPD):{player setObjectTextureGlobal [0,"textures\cop\PoliceUniformK.jpg"];};
 					
-					default{player setObjectTextureGlobal [0,"textures\Clothing\cop\police_shirt.paa"];};
+					default{player setObjectTextureGlobal [0,"textures\Clothing\cop\uniform.jpg"];};
 				};
 			};
 			case "U_B_CombatUniform_mcam":{
