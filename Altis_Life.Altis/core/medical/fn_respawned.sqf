@@ -72,3 +72,4 @@ if(life_removeWanted) then {
 
 [] call SOCK_fnc_updateRequest;
 [] call life_fnc_hudUpdate; //Request update of hud.
+[] call life_fnc_updateClothing;
