@@ -42,6 +42,7 @@ class RscTitles
 class CfgFunctions
 {
 	#include "Functions.h"
+	#include "contributors\cfgFunctions.h"
 };
 
 class CfgSounds
