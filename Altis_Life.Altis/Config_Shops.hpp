@@ -88,13 +88,13 @@ class WeaponShops {
         msg = "";
         items[] = {
 
-                        { "Binocular","Binocs" ,0 },
+                        { "Binocular","" ,0 },
                         { "ItemGPS","TomTom SatNav" ,0 },
                         { "ToolKit","Repair Kit" ,0 },
                         { "FirstAidKit","" ,0 },
                         { "Medikit","" ,0 },
                         { "NVGoggles","" ,0 },
-                        { "HandGrenade_Stone","Flashbang", 0, { "life_coplevel", 3 } }
+                        { "HandGrenade_Stone","Flashbang", 0, { "life_coplevel", 7 } }
         };
     };
     //Cop Shops    
