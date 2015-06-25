@@ -326,7 +326,7 @@ class WeaponShops {
     class cop_swat {
         name = "Altis Officer Shop";
         side = "cop";
-        license = "";
+        license = "swat";
         level = -1;
         msg = "";
         items[] = {
@@ -391,29 +391,11 @@ class WeaponShops {
         };
     };
 
-    class pmc_assault {
-        name = "PMC STORE";
-        side = "civ";
-        license = "";
-        level = -1;
-        msg = "";
-        items[] = {
-            { "Binocular", "", 150 },
-            { "ItemGPS", "", 100 },
-            { "ToolKit", "", 250 },
-            { "FirstAidKit", "", 150 },
-            { "NVGoggles", "", 2000 },
-            { "Chemlight_red", "", 300 },
-            { "Chemlight_yellow", "", 300 },
-            { "Chemlight_green", "", 300 },
-            { "Chemlight_blue", "", 300 }
-        };
-    };
 
     class pmc_assault {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -487,7 +469,7 @@ class WeaponShops {
     class pmc_launcher {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -508,7 +490,7 @@ class WeaponShops {
     class pmc_attachements {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -543,7 +525,7 @@ class WeaponShops {
     class pmc_sniper {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -557,7 +539,7 @@ class WeaponShops {
     class pmc_sub {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -571,7 +553,7 @@ class WeaponShops {
     class pmc_lmg {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {

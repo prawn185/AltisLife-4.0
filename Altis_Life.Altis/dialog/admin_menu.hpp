@@ -69,7 +69,6 @@ class life_admin_menu {
 			w = (6.25 / 40);
 			h = (1 / 25);
 		};
-		
 		class AdminID : Life_RscButtonMenu {
 			idc = -1;
 			text = "$STR_Admin_GetID";
@@ -79,5 +78,79 @@ class life_admin_menu {
 			w = (6.25 / 40);
 			h = (1 / 25);
 		};
+		
+		class Compensate : Life_RscButtonMenu {
+			idc = 2904;
+			text = "$STR_Admin_Compensate";
+			onButtonClick = "createDialog ""Life_Admin_Compensate"";";
+			x = 0.26 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.88 - (1 / 25);
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class Spectate : Life_RscButtonMenu {
+			idc = 2905;
+			text = "$STR_Admin_Spectate";
+			onButtonClick = "[] call life_fnc_adminSpectate;";
+			x = 0.42 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.88 - (1 / 25);
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class Teleport : Life_RscButtonMenu {
+			idc = 2906;
+			text = "$STR_Admin_Teleport";
+			onButtonClick = "[] call life_fnc_adminTeleport; hint 'Select where you would like to teleport';";
+			x = 0.58 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.88 - (1 / 25);
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class TeleportHere : Life_RscButtonMenu {
+			idc = 2907;
+			text = "$STR_Admin_TpHere";
+			onButtonClick = "[] call life_fnc_adminTpHere;";
+			x = -0.06 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.885;
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class God : Life_RscButtonMenu {
+			idc = 2908;
+			text = "$STR_Admin_God";
+			onButtonClick = "[] call life_fnc_adminGodMode;";
+			x = 0.1 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.885;
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class TpTo : Life_RscButtonMenu {
+			idc = 2909;
+			text = "$STR_Admin_Tpto";
+			onButtonClick = "[] call life_fnc_adminTpTo;";
+			x = 0.26 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.885;
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class Markers : Life_RscButtonMenu {
+			idc = 2910;
+			text = "$STR_Admin_Markers";
+			onButtonClick = "[] spawn life_fnc_adminMarkers;";
+			x = 0.42 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.885;
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+		class Debug : Life_RscButtonMenu {
+			idc = 2911;
+			text = "$STR_Admin_Debug";
+			onButtonClick = "hint 'Disabled';";
+			x = 0.58 + (6.25 / 40) + (1 / 250 / (safezoneW / safezoneH));
+			y = 0.885;
+			w = (6.25 / 40);
+			h = (1 / 25);
+		};
+
 	};
 };

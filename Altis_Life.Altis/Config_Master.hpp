@@ -222,6 +222,7 @@ class Licenses {
 	LICENSEMACRO(mAir,"STR_License_Pilot","mAir",15000,false,"med")
 	LICENSEMACRO(home,"STR_License_Home","home",75000,false,"civ")
 	LICENSEMACRO(swat,"SWAT","swat",0,false,"cop")
+	LICENSEMACRO(pmc,"Private Military Company Member","pmc",0,false,"civ")
 };
 
 class VirtualShops {
