@@ -700,7 +700,7 @@ class CfgVehicles {
                 "textures\Vehicles\Cop\hunter_police.jpg"
             } },
             { "SWAT", "cop", {
-                "textures\Vehicles\Cop\swat_police.jpg"
+                "textures\Vehicles\Cop\swat_hunter.jpg"
             } }
 
 
