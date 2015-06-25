@@ -84,7 +84,7 @@ class WeaponShops {
         name = "Altis Cadet Shop";
         side = "cop";
         license = "";
-        level = -1;
+        level = 1;
         msg = "";
         items[] = {
                         { "hgun_P07_snds_F","Stun Pistol",0 },
@@ -96,7 +96,7 @@ class WeaponShops {
                         { "FirstAidKit","" ,0 },
                         { "Medikit","" ,0 },
                         { "NVGoggles","" ,0 },
-                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 },
+                        { "16Rnd_9x21_Mag","Taser Pistol Rounds" ,0 }
         };
     };
     //Cop Shops
@@ -104,7 +104,7 @@ class WeaponShops {
         name = "Altis Officer Shop";
         side = "cop";
         license = "";
-        level = -2;
+        level = 2;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
@@ -132,7 +132,7 @@ class WeaponShops {
         name = "Altis Corporal Shop";
         side = "cop";
         license = "";
-        level = -3;
+        level = 3;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
@@ -162,7 +162,7 @@ class WeaponShops {
         name = "Altis Sergeant Shop";
         side = "cop";
         license = "";
-        level = -4;
+        level = 4;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",0 },
@@ -186,7 +186,7 @@ class WeaponShops {
                         { "Medikit","" ,0 },
                         { "NVGoggles","" ,0 },
                         { "16Rnd_9x21_Mag","" ,0 },
-                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 },
+                        { "20Rnd_556x45_UW_mag","Taser Rifle Magazine",0 }
 
         };
     }; 
@@ -195,7 +195,7 @@ class WeaponShops {
         name = "Altis Lieutenant Shop";
         side = "cop";
         license = "";
-        level = -5;
+        level = 5;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -234,7 +234,7 @@ class WeaponShops {
         name = "Altis Captain Shop";
         side = "cop";
         license = "";
-        level = -6;
+        level = 6;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -273,7 +273,7 @@ class WeaponShops {
         name = "Altis Regional Commander Shop";
         side = "cop";
         license = "";
-        level = -7;
+        level = 7;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -318,8 +318,8 @@ class WeaponShops {
     class cop_swat {
         name = "Altis S.W.A.T Shop";
         side = "cop";
-        license = "";
-        level = -8;
+        license = "swat";
+        level = 8;
         msg = "";
         items[] = {
                         { "arifle_sdar_F","Taser Rifle",20000 },
@@ -386,7 +386,7 @@ class WeaponShops {
     class pmc_assault {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -428,7 +428,7 @@ class WeaponShops {
                         { "arifle_MX_GL_F","" ,60000 },
                         { "30Rnd_65x39_caseless_mag","" ,100 },
                         { "30Rnd_65x39_caseless_mag_Tracer","" ,100 },
-                        { "1Rnd_HE_Grenade_shell","" ,100 },
+                        { "1Rnd_HE_Grenade_shell","" ,100 }
                         
         };
     };
@@ -436,7 +436,7 @@ class WeaponShops {
     class pmc_launcher {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -457,7 +457,7 @@ class WeaponShops {
     class pmc_attachements {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -492,7 +492,7 @@ class WeaponShops {
     class pmc_sniper {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -506,7 +506,7 @@ class WeaponShops {
     class pmc_sub {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
@@ -520,7 +520,7 @@ class WeaponShops {
     class pmc_lmg {
         name = "PMC STORE";
         side = "civ";
-        license = "";
+        license = "pmc";
         level = -1;
         msg = "";
         items[] = {
