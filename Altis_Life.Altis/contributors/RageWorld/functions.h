@@ -3,7 +3,7 @@ class Rageworld
 	tag = "life";
 	class RageWorld_blinker
 	{		
-		file = "RageWorld\indicators";
+		file = "contributors\RageWorld\indicators";
 		class BlinkerInit {};
 		class BlinkerLinks {};
 		class BlinkerRechts {};
@@ -11,7 +11,7 @@ class Rageworld
 	};	
 	class RageWorld_siren
 	{
-		file = "RageWorld\sirens";
+		file = "contributors\RageWorld\sirens";
 		class RageSiren {};
 		class SirenHandler {};
 	};
