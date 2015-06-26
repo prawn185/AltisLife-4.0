@@ -190,7 +190,7 @@ while{ (alive _vehicle)} do{
 		_lightleftBack setLightBrightness 0.0;  
 		_lightleftFront setLightBrightness 0.0;  	
 	};  	
-	_vehicle say3D _sound;
+	//_vehicle say3D _sound;
 	sleep _time;  
 };  
 deleteVehicle _lightleftBack;

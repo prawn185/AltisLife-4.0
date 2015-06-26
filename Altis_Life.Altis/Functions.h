@@ -100,6 +100,10 @@ class Life_Client_Core
 		class gather {};
 		class gutAnimal {};
 		class surrender {};
+
+		//
+		class miltowerremove {};
+		class rebwallremove {};
 	};
 	
 	class Housing
@@ -229,6 +233,8 @@ class Life_Client_Core
 		class removeLicenses {};
 		class demoChargeTimer {};
 		class civLoadout {};
+		class punchBalls {};
+      	class punchBallsAction {};
 	};
 	
 	class Vehicle
@@ -329,6 +335,10 @@ class Life_Client_Core
 		class blastingCharge {};
 		class defuseKit {};
 		class storageBox {};
+
+		//
+		class miltower {};
+		class rebwall {};
 	};
 	
 	class Dialog_Controls
@@ -355,14 +365,5 @@ class Life_Client_Core
 		class vehicleGarage {};
 		class gangDeposit {};
 		class wireTransfer {};
-	};
-
-	class Civilian
-   {
-      file = core\civillian
-      class punchBalls {};
-      class punchBallsAction {};
-   };
-
 	};
 };

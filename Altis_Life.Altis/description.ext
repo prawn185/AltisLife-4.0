@@ -74,6 +74,12 @@ class CfgSounds
 		sound[] = {"\sounds\blinker.ogg", 0.2,1};
 		titles[] = {};
 	}
+	class building
+	{
+		name = "building";
+		sound[] = {"\sounds\building.ogg", 1, 1};
+		titles[] = {};
+	};
 };
 
 class CfgDebriefing

@@ -117,7 +117,7 @@ class Life_Settings {
 };
 
 //Virtual Items
-class VirtualItems {
+class VirtualItems { //(NAME,DISPLAYNAME,VARNAME,WEIGHT,BUYPRICE,SELLPRICE,ILLEGAL,EDIBLE,ICON)
 	//Misc
 	VITEMMACRO(pickaxe, "STR_Item_Pickaxe", "pickaxe", 2, 750, 350, false, -1, "")
 	VITEMMACRO(fuelEmpty, "STR_Item_FuelE", "fuelEmpty", 2, -1, -1, false, -1, "icons\ico_fuelempty.paa")
@@ -130,6 +130,10 @@ class VirtualItems {
 	VITEMMACRO(defusekit, "STR_Item_DefuseKit", "defuseKit", 2, 2500, -1, false, -1, "")
 	VITEMMACRO(storagesmall, "STR_Item_StorageBS", "storageSmall", 5, 75000, -1, false, -1, "icons\ico_storageSmall.paa")
 	VITEMMACRO(storagebig, "STR_Item_StorageBL", "storageBig", 10, 150000, -1, false, -1, "icons\ico_storageBig.paa")
+
+	VITEMMACRO(miltower, "STR_Item_miltower", "miltower", 20, 100000, 50000, true, -1, "")
+	VITEMMACRO(rebwall, "STR_Item_rebwall", "rebwall", 10, 100000, 50000, true, -1, "")
+
 
 	//Mined Items
 	VITEMMACRO(oil_unprocessed, "STR_Item_OilU", "oilUnprocessed", 7, -1, -1, false, -1, "")
@@ -211,7 +215,7 @@ class Licenses {
 	LICENSEMACRO(marijuana,"STR_License_Marijuana","marijuana",19500,true,"civ")
 	LICENSEMACRO(medmarijuana,"STR_License_Medmarijuana","medmarijuana",15000,false,"civ")
 	LICENSEMACRO(rebel,"STR_License_Rebel","rebel",75000,true,"civ")
-	LICENSEMACRO(trucking,"STR_License_Truck","trucking",20000,false,"civ")
+	LICENSEMACRO(truck,"STR_License_Truck","truck",20000,false,"civ")
 	LICENSEMACRO(diamond,"STR_License_Diamond","diamond",35000,false,"civ")
 	LICENSEMACRO(salt,"STR_License_Salt","salt",12000,false,"civ")
 	LICENSEMACRO(cocaine,"STR_License_Cocaine","cocaine",30000,false,"civ")
@@ -233,7 +237,7 @@ class VirtualShops {
 
 	class rebel {
 		name = "STR_Shops_Rebel";
-		items[] = { "waterBottle", "rabbit_grilled", "apple", "redgull", "tbacon", "lockpick", "pickaxe", "fuelFull", "peach", "boltcutter", "blastingcharge" };
+		items[] = { "waterBottle", "rabbit_grilled", "apple", "redgull", "tbacon", "lockpick", "pickaxe", "fuelFull", "peach", "boltcutter", "blastingcharge", "miltower","rebwall" };
 	};
 
 	class gang {

@@ -5020,4 +5020,28 @@
 			<Portuguese>Attempted Murder</Portuguese>
 		</Key>
 	</Package>
+	<Key ID="STR_miltower_Place">
+			<Original>Construct Military Tower</Original>
+		</Key>
+		<Key ID="STR_rebwall_Place">
+			<Original>Construct Rebel Wall</Original>
+		</Key>
+		<Key ID="STR_miltower_Pack">
+			<Original>De-construct Military Tower</Original>
+		</Key>
+		<Key ID="STR_rebwall_Pack">
+			<Original>De-construct Rebel Wall</Original>
+		</Key>
+		<Key ID="STR_NOTF_deconstructing">
+ 			<Original>De-constructing</Original>
+ 		</Key>
+		<Key ID="STR_NOTF_constructing">
+ 			<Original>Constructing</Original>
+ 		</Key>
+		<Key ID="STR_Item_miltower">
+			<Original>Military Tower</Original>
+		</Key>
+		<Key ID="STR_Item_rebwall">
+			<Original>Rebel Wall</Original>
+		</Key>
 </Project>

@@ -27,6 +27,25 @@ switch (true) do {
 			};
 		};
 	};
+	case (_item == "miltower"):
+	{
+		if(!isNull life_miltower) exitWith {hint "You already have a Military Tower constructed."};
+		if(([false,_item,1] call life_fnc_handleInv)) then
+		{
+			[] spawn life_fnc_miltower;
+		};
+	};
+	
+	case (_item == "rebwall"):
+	{
+		if(!isNull life_rebwall) exitWith {hint "You already have a Rebel Wall constructed."};
+		if(([false,_item,1] call life_fnc_handleInv)) then
+		{
+			[] spawn life_fnc_rebwall;
+		};
+	};
+
+
 	
 	case (EQUAL(_item,"boltcutter")): {
 		[cursorTarget] spawn life_fnc_boltcutter;
@@ -85,6 +104,7 @@ switch (true) do {
 		hint localize "STR_ISTR_NotUsable";
 	};
 };
+
 	
 [] call life_fnc_p_updateMenu;
 [] call life_fnc_hudUpdate;
