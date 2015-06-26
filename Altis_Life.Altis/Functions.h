@@ -356,4 +356,13 @@ class Life_Client_Core
 		class gangDeposit {};
 		class wireTransfer {};
 	};
+
+	class Civilian
+   {
+      file = core\civillian
+      class punchBalls {};
+      class punchBallsAction {};
+   };
+
+	};
 };
