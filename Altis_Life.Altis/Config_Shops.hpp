@@ -365,28 +365,28 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "arifle_TRG20_F","" ,200000 }, //assault
+                        { "arifle_TRG20_F","" ,20000 }, //assault
                         { "30Rnd_556x45_Stanag","" ,5000 },
                         { "30Rnd_556x45_Stanag_Tracer_Red","" ,7500 },
                         { "30Rnd_556x45_Stanag_Tracer_Green","" ,7500 },
                         { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,7500 },
-                        { "srifle_DMR_01_F","" ,350000 },
+                        { "srifle_DMR_01_F","" ,35000 },
                         { "10Rnd_762x51_Mag","" ,5000 },
-                        { "srifle_EBR_F","" ,350000 },
+                        { "srifle_EBR_F","" ,35000 },
                         { "10Rnd_762x51_Mag","" ,5000 },
                         { "20Rnd_762x51_Mag","" ,5000 },
-                        { "arifle_Mk20_F","" ,200000 },
-                        { "arifle_Mk20_GL_F","" ,200000 },
+                        { "arifle_Mk20_F","" ,20000 },
+                        { "arifle_Mk20_GL_F","" ,20000 },
                         { "30Rnd_556x45_Stanag","" ,5000 },
                         { "30Rnd_556x45_Stanag_Tracer_Red","" ,7500 },
                         { "30Rnd_556x45_Stanag_Tracer_Green","" ,7500 },
                         { "30Rnd_556x45_Stanag_Tracer_Yellow","" ,7500 },
-                        { "arifle_Katiba_C_F","" ,300000 },
+                        { "arifle_Katiba_C_F","" ,30000 },
                         { "30Rnd_65x39_caseless_green","" ,5000 },
                         { "30Rnd_65x39_caseless_green_mag_Tracer","" ,7500 },
-                        { "arifle_MX_F","" ,400000 },
-                        { "arifle_MXC_F","" ,400000 },
-                        { "arifle_MXC_Black_F","" ,400000 },
+                        { "arifle_MX_F","" ,40000 },
+                        { "arifle_MXC_F","" ,40000 },
+                        { "arifle_MXC_Black_F","" ,40000 },
                         { "30Rnd_65x39_caseless_mag","" ,5000 },
                         { "30Rnd_65x39_caseless_mag_Tracer","" ,7500 }
                         
@@ -407,6 +407,8 @@ class WeaponShops {
                         { "optic_ACO_grn_smg","" ,10000 },
                         { "optic_Aco_smg","" ,10000 },
                         { "optic_Arco","" ,10000 },
+                        { "optic_MRD", "", 2000 },
+                        { "optic_LRPS", "", 2000 },  
                         { "optic_Hamr","" ,10000 },
                         { "optic_Holosight","" ,10000 },
                         { "optic_Holosight_smg","" ,10000 },
@@ -425,7 +427,8 @@ class WeaponShops {
                         { "NVGoggles_OPFOR","" ,2000 },
                         { "Rangefinder","" ,1000 },
                         { "ItemMap","" ,1000 },
-                        { "ItemGPS","" ,1000 }      
+                        { "ItemGPS","" ,1000 }
+
         };
     };
     class pmc_sniper {
@@ -435,7 +438,7 @@ class WeaponShops {
         level = -1;
         msg = "";
         items[] = {
-                        { "srifle_GM6_F","" ,2000000 }, //sniper
+                        { "srifle_GM6_F","" ,200000 }, //sniper
                         { "5Rnd_127x108_Mag","" ,1000 },
                         { "5Rnd_127x108_APDS_Mag","" ,1000 },
                         { "srifle_LRR_F","" ,1000000 },
@@ -469,6 +472,18 @@ class WeaponShops {
                         { "LMG_Zafir_F","" ,1000000 },
                         { "150Rnd_762x51_Box","" ,7500 },
                         { "150Rnd_762x51_Box_Tracer","" ,5000 }
+        };
+    };
+
+    class pmc_pistol {
+        name = "PMC STORE";
+        side = "civ";
+        license = "pmc";
+        level = -1;
+        msg = "";
+        items[] = {
+                        { "hgun_Pistol_heavy_01_F","" ,10000 }, 
+                        { "11Rnd_45ACP_Mag","" ,750 }
         };
     };
 };

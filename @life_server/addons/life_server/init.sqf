@@ -188,5 +188,6 @@ PVAR_ALL("life_server_isReady");
 /* Initialize hunting zone(s) */
 ["hunting_zone",30] spawn TON_fnc_huntingZone;
 
+[] execVM "\life_server\Functions\Schiffswrack\fn_generateschiffwrackAuto.sqf";
 [] execVM "\life_server\Functions\airdrop\config.sqf";
 [] execVM "\life_server\Functions\airdrop\fn_generateAirdropAuto.sqf";

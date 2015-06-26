@@ -159,6 +159,11 @@ class CfgFunctions
 			file = "\life_server\Functions\Actions";
 			class pickupAction {};
 		};
+		class Airdrop
+		{
+			file = "\life_server\Functions\airdrop";
+			class generateAirdrop {};
+		};
 	};
 };
 
