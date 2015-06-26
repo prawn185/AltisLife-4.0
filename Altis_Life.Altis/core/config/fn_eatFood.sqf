@@ -14,7 +14,7 @@ if([false,_food,1] call life_fnc_handleInv) then {
 	switch (_food) do
 	{
 		case "apple": {_val = 10};
-		case "rabbit":{ _val = 20};
+		case "rabbit_grilled":{ _val = 20};
 		case "salema": {_val = 30};
 		case "ornate": {_val = 25};
 		case "mackerel": {_val = 30};
