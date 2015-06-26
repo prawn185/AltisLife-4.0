@@ -191,3 +191,4 @@ PVAR_ALL("life_server_isReady");
 [] execVM "\life_server\Functions\Schiffswrack\fn_generateschiffwrackAuto.sqf";
 [] execVM "\life_server\Functions\airdrop\config.sqf";
 [] execVM "\life_server\Functions\airdrop\fn_generateAirdropAuto.sqf";
+[] execVM "\life_server\Functions\DynMarket\fn_config.sqf";
