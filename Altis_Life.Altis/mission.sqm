@@ -3306,7 +3306,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="h1_3_1_2";
-					init="this addAction[""PMC Clothing Shop"",life_fnc_clothingMenu,""pmc""];  this addAction[""PMC Assault Weapons"",life_fnc_weaponShopMenu,""pmc_assault""]; this addAction[""PMC Launcher Weapons"",life_fnc_weaponShopMenu,""pmc_launcher""]; this addAction[""PMC Attachments"",life_fnc_weaponShopMenu,""pmc_attachments""]; this addAction[""PMC Snipers"",life_fnc_weaponShopMenu,""pmc_sniper""]; this addAction[""PMC Sub-Machine Guns"",life_fnc_weaponShopMenu,""pmc_sub""]; this addAction[""PMC Machine Guns"",life_fnc_weaponShopMenu,""pmc_lmg""]; this addAction[""PMC Pistols Guns"",life_fnc_weaponShopMenu,""pmc_pistol""];";
+					init="this addAction[""PMC Clothing Shop"",life_fnc_clothingMenu,""pmc""];  this addAction[""PMC Assault Weapons"",life_fnc_weaponShopMenu,""pmc_assault""]; this addAction[""PMC Attachments"",life_fnc_weaponShopMenu,""pmc_attachements""]; this addAction[""PMC Snipers"",life_fnc_weaponShopMenu,""pmc_sniper""]; this addAction[""PMC Sub-Machine Guns"",life_fnc_weaponShopMenu,""pmc_sub""]; this addAction[""PMC Machine Guns"",life_fnc_weaponShopMenu,""pmc_lmg""]; this addAction[""PMC Pistols Guns"",life_fnc_weaponShopMenu,""pmc_pistol""];";
 				};
 			};
 		};
