@@ -87,7 +87,6 @@ class WeaponShops {
         level = 0;
         msg = "";
         items[] = {
-
                         { "Binocular","Binocs" ,0 },
                         { "ItemGPS","TomTom SatNav" ,0 },
                         { "ToolKit","Repair Kit" ,0 },
@@ -294,8 +293,6 @@ class WeaponShops {
                         { "arifle_MX_SW_F","" ,0 },
                         { "100Rnd_65x39_caseless_mag","" ,0 },
                         { "30Rnd_65x39_caseless_mag","" ,0 },
-                        { "srifle_EBR_MRCO_LP_BI_F","" ,0 },
-                        { "20Rnd_762x51_Mag","" ,0 },
                         { "srifle_EBR_SOS_F","" ,0 },
                         { "20Rnd_762x51_Mag","" ,0 },
                         { "srifle_DMR_02_MRCO_F","" ,0 },
@@ -321,22 +318,15 @@ class WeaponShops {
                         { "muzzle_snds_B","" ,0 },
                         { "muzzle_snds_H_MG","" ,0 },
                         { "muzzle_snds_H_SW","" ,0 },
-
                         { "optic_Arco","" ,0 },
                         { "optic_Hamr","" ,0 },
                         { "optic_ACO_grn","" ,0 },
                         { "optic_Aco_smg","" ,0 },
-                       
-
                         { "optic_Holosight","" ,0 },
                         { "optic_SOS","" ,0 },
                         { "optic_MRCO","" ,0 },
                         { "optic_NVS","" ,0 },
                         { "optic_Nightstalker","" ,0 },
-                        { "optic_Arco","" ,0 },
-                        { "optic_Hamr","" ,0 },
-                        { "optic_ACO_grn","" ,0 },
-                        { "optic_Aco_smg","" ,0 }
 
         };
     };
