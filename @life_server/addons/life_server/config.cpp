@@ -23,17 +23,17 @@ class CfgServerSettings
 		/*Database Selection*/
 		Database = "AltisLife"; //Database config name
 		/*RCON Settings*/
-		RCON = false; //Enabled?
+		RCON = false; //Enabled? Bevore enable, check the settings in the Inif.sqf if they work with extDB2.
 		RCON_Selection = "RCON"; //Selection of what RCON config to pull from the extDB Configuration file eg. [RCON]
-		/*VAC Settings*/
+		/*VAC Settings*/// Bevore enable, check the settings in the Inif.sqf if they work with extDB2.
 		VAC = false; //Enabled? If you want to ban VAC'd players, edit it in the extDB Configuration file.
-		/*MISC settings*/
+		/*MISC settings*/	//Bevore enable, check the settings in the Inif.sqf if they work with extDB2.
 		MISC = false; //Enabled? Allows you to use certain features that are not really related to the database for extDB
-		/*Logging Settings*/
-		LOG = false; //Custom Logging Enabled?
+		/*Logging Settings*/ //Bevore enable, check the settings in the Inif.sqf if they work with extDB2.
+		LOG = true; //Custom Logging Enabled?
 		LOG_Settings[] = {{"HACKER","hacker.log"},{"LOG2","debug.log"}}; //First Selection = ID | Second Selection = Log File
-		/*Debug*/
-		MySQL_Query = false; //Log queries? Only set this to true if you are developing.
+		/*Debug*/ 
+		MySQL_Query = true; //Log queries? Only set this to true if you are developing.
 	};
 };
 

@@ -23,21 +23,24 @@ if(isNil {GVAR_UINS "life_sql_id"}) then {
 	SVAR_UINS ["life_sql_id",life_sql_id];
 
 	//Retrieve extDB version
-	_result = EXTDB "9:VERSION";
+	_result = "extDB2" callExtension "9:VERSION";
 	["diag_log",[format["extDB: Version: %1",_result]]] call TON_fnc_logIt;
 	if(EQUAL(_result,"")) exitWith {EXTDB_FAILED("The server-side extension extDB was not loaded into the engine, report this to the server admin.")};
-	if ((parseNumber _result) < 35) exitWith {EXTDB_FAILED("extDB version is not compatible with current Altis life version. Require version 35 or higher.")};
+	diag_log ("extDB2 Version: " + str _result);
+
 	//Lets start logging in extDB
-	EXTDB "9:ADD:LOG:SPY_LOG:spyglass.log";
+	"extDB2" callExtension  "9:ADD_PROTOCOL:LOG:SPY_LOG:spyglass.log";
+	
 	//Initialize connection to Database
-	_result = EXTDB format["9:DATABASE:%1",DATABASE_SELECTION];
+	_result = "extDB2" callExtension  format["9:DATADD_DATABASEABASE:%1",DATABASE_SELECTION];
 	if(!(EQUAL(_result,"[1]"))) exitWith {EXTDB_FAILED("extDB: Error with Database Connection")};
-	_result = EXTDB format["9:ADD:DB_CUSTOM_v5:%1:altis-life-rpg-4",FETCH_CONST(life_sql_id)];
+
+	_result = "extDB2" callExtension  format["9:ADD_DATABASE_PROTOCOL:%1:SQL_CUSTOM_v2:%2:altis-life-rpg-4",DATABASE_SELECTION,FETCH_CONST(life_sql_id)];	// the id as the protokoll name.
 	if(!(EQUAL(_result,"[1]"))) exitWith {EXTDB_FAILED("extDB: Error with Database Connection")};
 	//Initialize Logging options from extDB
 	if((EQUAL(EXTDB_SETTINGS("LOG"),1))) then {
 		{
-			EXTDB format["9:ADD:LOG:%1:%2",SEL(_x,0),SEL(_x,1)];
+			"extDB2" callExtension  format["9:ADD:LOG:%1:%2",SEL(_x,0),SEL(_x,1)];
 			["diag_log",[format["extDB: %1 is successfully added",SEL(_x,0)]]] call TON_fnc_logIt;
 		} forEach EXTDB_LOGAR;
 	};
@@ -47,8 +50,8 @@ if(isNil {GVAR_UINS "life_sql_id"}) then {
 		CONSTVAR(RCON_ID);
 		SVAR_UINS ["RCON_ID",RCON_ID];
 
-		EXTDB format["9:START_RCON:%1",RCON_SELECTION];
-		EXTDB format["9:ADD:RCON:%1",FETCH_CONST(RCON_ID)];
+		"extDB2" callExtension  format["9:START_RCON:%1",RCON_SELECTION];
+		"extDB2" callExtension  format["9:ADD:RCON:%1",FETCH_CONST(RCON_ID)];
 		["diag_log",["extDB: RCON is enabled"]] call TON_fnc_logIt;
 	};
 	//Initialize VAC options from extDB
@@ -57,8 +60,8 @@ if(isNil {GVAR_UINS "life_sql_id"}) then {
 		CONSTVAR(VAC_ID);
 		SVAR_UINS ["VAC_ID",VAC_ID];
 
-		EXTDB "9:START_VAC";
-		EXTDB format["9:ADD:VAC:%1",FETCH_CONST(VAC_ID)];
+		"extDB2" callExtension  "9:START_VAC";
+		"extDB2" callExtension  format["9:ADD:VAC:%1",FETCH_CONST(VAC_ID)];
 		["diag_log",["extDB: VAC is enabled"]] call TON_fnc_logIt;
 	};
 	//Initialize MISC options from extDB
@@ -67,10 +70,10 @@ if(isNil {GVAR_UINS "life_sql_id"}) then {
 		CONSTVAR(MISC_ID);
 		SVAR_UINS ["MISC_ID",MISC_ID];
 
-		EXTDB format["9:ADD:MISC:%1",FETCH_CONST(MISC_ID)];
+		"extDB2" callExtension  format["9:ADD:MISC:%1",FETCH_CONST(MISC_ID)];
 		["diag_log",["extDB: MISC is enabled"]] call TON_fnc_logIt;
 	};
-	EXTDB "9:LOCK";
+	"extDB2" callExtension  "9:LOCK";
 	["diag_log",["extDB: Connected to the Database"]] call TON_fnc_logIt;
 } else {
 	life_sql_id = GVAR_UINS "life_sql_id";
